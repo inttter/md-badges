@@ -2,12 +2,14 @@
 
 Good Markdown buttons/badges for to your repository!
 
-<strong>⚠️ Please note that you may have to replace some of the code with your own links.
 
-For example, in https://twitter.com/github, you will have to replace "/github" with your username. ⚠️</strong>
+> [!WARNING]
+><strong>⚠️ Please note that you may have to replace some of the code with your own links.
+>
+> For example, in https://twitter.com/github, you will have to replace "/github" with your username. ⚠️</strong>
 
-> [!TIP]
-> Spotted an issue? Create an issue!
+> [!NOTE]
+> The following buttons are EXAMPLES and may lead to other pages, and as such, will require slight editing by you to make the button redirect to the correct links.
 
 > [!TIP]
 > Want to add your own badges? Please create a pull request with the preview code and the markdown code.
@@ -29,12 +31,30 @@ For example, in https://twitter.com/github, you will have to replace "/github" w
 | [![GitHub code size](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/badges/shields) | `[![GitHub code size](https://img.shields.io/github/languages/code-size/badges/shields.svg)](https://github.com/badges/shields)` |
 | [![GitHub language count](https://img.shields.io/github/languages/count/badges/shields.svg)](https://github.com/badges/shields/search?l=python) | `[![GitHub language count](https://img.shields.io/github/languages/count/badges/shields.svg)](https://github.com/badges/shields/search?l=python)` |
 | [![GitHub pull requests](https://img.shields.io/github/issues-pr/badges/shields.svg)](https://github.com/badges/shields/pulls) | `[![GitHub pull requests](https://img.shields.io/github/issues-pr/badges/shields.svg)](https://github.com/badges/shields/pulls)` |
+| [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/badges/shields.svg)](https://github.com/badges/shields/pulls?q=is%3Apr+is%3Aclosed) | `[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/badges/shields.svg)](https://github.com/badges/shields/pulls?q=is%3Apr+is%3Aclosed)` |
+| [![GitHub release](https://img.shields.io/github/release-date/badges/shields.svg)](https://github.com/badges/shields/releases) | `[![GitHub release](https://img.shields.io/github/release-date/badges/shields.svg)](https://github.com/badges/shields/releases)` |
+| [![GitHub license](https://img.shields.io/github/license/badges/shields.svg)](https://github.com/badges/shields/blob/master/LICENSE) | `[![GitHub license](https://img.shields.io/github/license/badges/shields.svg)](https://github.com/badges/shields/blob/master/LICENSE)` |
+| [![GitHub contributors](https://img.shields.io/github/contributors/badges/shields.svg)](https://github.com/badges/shields/graphs/contributors) | `[![GitHub contributors](https://img.shields.io/github/contributors/badges/shields.svg)](https://github.com/badges/shields/graphs/contributors)` |
+| [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields.svg)](https://github.com/badges/shields/pulse) | `[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/badges/shields.svg)](https://github.com/badges/shields/pulse)` |
+| [![GitHub repo size](https://img.shields.io/github/repo-size/badges/shields.svg)](https://github.com/badges/shields) | `[![GitHub repo size](https://img.shields.io/github/repo-size/badges/shields.svg)](https://github.com/badges/shields)` |
+| [![GitHub issues](https://img.shields.io/github/issues-closed-raw/badges/shields.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aclosed) | `[![GitHub issues](https://img.shields.io/github/issues-closed-raw/badges/shields.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aclosed)` |
+| [![GitHub release](https://img.shields.io/github/release/badges/shields.svg)](https://github.com/badges/shields/releases) | `[![GitHub release](https://img.shields.io/github/release/badges/shields.svg)](https://github.com/badges/shields/releases)` |
+
 
 ### Social Media Badges:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Twitter Follow](https://img.shields.io/twitter/follow/github.svg?style=social)](https://twitter.com/github) | `[![Twitter Follow](https://img.shields.io/twitter/follow/github.svg?style=social)](https://twitter.com/github)` |
-| [![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https://shields.io/) | `[![Twitter URL](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https://shields.io/)` |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#) | `[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](#)` |
+| [![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-purple?logo=instagram&logoColor=white)](#)` |
+| [![YouTube](https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white)](#) | `[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](#)` |
+| [![Twitch](https://img.shields.io/badge/Twitch-purple?logo=twitch&logoColor=white)](#) | `[![Twitch](https://img.shields.io/badge/Twitch-purple?logo=twitch&logoColor=white)](#)` |
+| [![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white)](#) | `[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white)](#)` |
+| [![Snapchat](https://img.shields.io/badge/Snapchat-yellow?logo=snapchat&logoColor=white)](#) | `[![Snapchat](https://img.shields.io/badge/Snapchat-yellow?logo=snapchat&logoColor=white)](#)` |
+| [![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest&logoColor=white)](#) | `[![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest&logoColor=white)](#)` |
+| [![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#)` |
+| [![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#)` |
+| [![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#)` |
+
 
 ### Website/Service Status Badges:
 | Preview | Markdown Code |
@@ -44,6 +64,16 @@ For example, in https://twitter.com/github, you will have to replace "/github" w
 | [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/npm) | `[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/npm)` |
 | [![Python versions](https://img.shields.io/pypi/pyversions/Django.svg)](https://pypi.org/project/Django/) | `[![Python versions](https://img.shields.io/pypi/pyversions/Django.svg)](https://pypi.org/project/Django/)` |
 | [![Downloads](https://img.shields.io/pypi/dm/Django.svg)](https://pypi.org/project/Django/) | `[![Downloads](https://img.shields.io/pypi/dm/Django.svg)](https://pypi.org/project/Django/)` |
+| [![Travis CI](https://img.shields.io/travis/com/badges/shields/main)](#) | `[![Travis CI](https://img.shields.io/travis/com/badges/shields/main)](#)` |
+| [![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white)](#)` |
+| [![Netlify](https://img.shields.io/badge/Netlify-blue?logo=netlify&logoColor=white)](#) | `[![Netlify](https://img.shields.io/badge/Netlify-blue?logo=netlify&logoColor=white)](#)` |
+| [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#)` |
+| [![Codacy](https://img.shields.io/badge/Codacy-blue?logo=codacy&logoColor=white)](#) | `[![Codacy](https://img.shields.io/badge/Codacy-blue?logo=codacy&logoColor=white)](#)` |
+| [![Coveralls](https://img.shields.io/badge/Coveralls-green?logo=coveralls&logoColor=white)](#) | `[![Coveralls](https://img.shields.io/badge/Coveralls-green?logo=coveralls&logoColor=white)](#)` |
+| [![Codecov](https://img.shields.io/badge/Codecov-blue?logo=codecov&logoColor=white)](#) | `[![Codecov](https://img.shields.io/badge/Codecov-blue?logo=codecov&logoColor=white)](#)` |
+| [![Code Climate](https://img.shields.io/badge/Code%20Climate-orange?logo=code-climate&logoColor=white)](#) | `[![Code Climate](https://img.shields.io/badge/Code%20Climate-orange?logo=code-climate&logoColor=white)](#)` |
+| [![Snyk](https://img.shields.io/badge/Snyk-purple?logo=snyk&logoColor=white)](#) | `[![Snyk](https://img.shields.io/badge/Snyk-purple?logo=snyk&logoColor=white)](#)` |
+| [![SonarCloud](https://img.shields.io/badge/SonarCloud-blue?logo=sonarcloud&logoColor=white)](#) | `[![SonarCloud](https://img.shields.io/badge/SonarCloud-blue?logo=sonarcloud&logoColor=white)](#)` |
 
 
 ### Programming Languages:
