@@ -204,3 +204,27 @@ Good Markdown buttons/badges for to your repository!
 | [![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](#)` |
 | [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#) | `[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#)` |
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#)` |
+
+### Web Technology Badges
+| Preview | Markdown Code |
+|---------|---------------|
+| [![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](#) | `[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)](#)` |
+| [![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](#) | `[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)](#)` |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](#)` |
+| [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)](#)` |
+| [![React](https://img.shields.io/badge/React-blue?logo=react)](#) | `[![React](https://img.shields.io/badge/React-blue?logo=react)](#)` |
+| [![Angular](https://img.shields.io/badge/Angular-red?logo=angular)](#) | `[![Angular](https://img.shields.io/badge/Angular-red?logo=angular)](#)` |
+| [![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)](#)` |
+| [![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)](#) | `[![Node.js](https://img.shields.io/badge/Node.js-green?logo=node.js)](#)` |
+| [![Django](https://img.shields.io/badge/Django-blue?logo=django)](#) | `[![Django](https://img.shields.io/badge/Django-blue?logo=django)](#)` |
+| [![Flask](https://img.shields.io/badge/Flask-black?logo=flask)](#) | `[![Flask](https://img.shields.io/badge/Flask-black?logo=flask)](#)` |
+| [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=ruby-on-rails)](#) | `[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=ruby-on-rails)](#)` |
+| [![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express)](#) | `[![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express)](#)` |
+| [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#)` |
+| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#)` |
+| [![Svelte](https://img.shields.io/badge/Svelte-orange?logo=svelte)](#) | `[![Svelte](https://img.shields.io/badge/Svelte-orange?logo=svelte)](#)` |
+| [![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery)](#) | `[![jQuery](https://img.shields.io/badge/jQuery-blue?logo=jquery)](#)` |
+| [![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)](#) | `[![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap)](#)` |
+| [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwind-css)](#) | `[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwind-css)](#)` |
+| [![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#) | `[![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#)` |
+| [![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#) | `[![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#)` |
