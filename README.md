@@ -59,6 +59,7 @@ Good Markdown buttons/badges for to your repository!
 | [![YouTube](https://img.shields.io/badge/YouTube-darkred?logo=youtube&logoColor=white)](#) | `[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](#)` |
 | [![Twitch](https://img.shields.io/badge/Twitch-purple?logo=twitch&logoColor=white)](#) | `[![Twitch](https://img.shields.io/badge/Twitch-purple?logo=twitch&logoColor=white)](#)` |
 | [![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white)](#) | `[![Reddit](https://img.shields.io/badge/Reddit-orange?logo=reddit&logoColor=white)](#)` |
+| [![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](#) | `[![Twitter](https://img.shields.io/badge/Reddit-twitter?logo=twitter&logoColor=white)](#)` |
 | [![Snapchat](https://img.shields.io/badge/Snapchat-yellow?logo=snapchat&logoColor=white)](#) | `[![Snapchat](https://img.shields.io/badge/Snapchat-yellow?logo=snapchat&logoColor=white)](#)` |
 | [![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest&logoColor=white)](#) | `[![Pinterest](https://img.shields.io/badge/Pinterest-red?logo=pinterest&logoColor=white)](#)` |
 | [![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#)` |
