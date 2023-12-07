@@ -144,3 +144,27 @@ Good Markdown buttons/badges for to your repository!
 | [![Helm](https://img.shields.io/badge/Helm-purple?logo=helm)](#) | `[![Helm](https://img.shields.io/badge/Helm-purple?logo=helm)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](#)` |
 | [![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)](#) | `[![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)](#)` |
+
+### Database Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)](#) | `[![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white)](#)` |
+| [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)](#) | `[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)](#)` |
+| [![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)](#) | `[![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb&logoColor=white)](#)` |
+| [![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)](#) | `[![SQLite](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white)](#)` |
+| [![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)](#) | `[![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)](#)` |
+| [![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-blue?logo=microsoft-sql-server&logoColor=white)](#) | `[![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-blue?logo=microsoft-sql-server&logoColor=white)](#)` |
+| [![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white)](#) | `[![Redis](https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white)](#)` |
+| [![Cassandra](https://img.shields.io/badge/Cassandra-blue?logo=apache-cassandra&logoColor=white)](#) | `[![Cassandra](https://img.shields.io/badge/Cassandra-blue?logo=apache-cassandra&logoColor=white)](#)` |
+| [![MariaDB](https://img.shields.io/badge/MariaDB-blue?logo=mariadb&logoColor=white)](#) | `[![MariaDB](https://img.shields.io/badge/MariaDB-blue?logo=mariadb&logoColor=white)](#)` |
+| [![Couchbase](https://img.shields.io/badge/Couchbase-blue?logo=couchbase&logoColor=white)](#) | `[![Couchbase](https://img.shields.io/badge/Couchbase-blue?logo=couchbase&logoColor=white)](#)` |
+| [![DynamoDB](https://img.shields.io/badge/DynamoDB-orange?logo=amazon-dynamodb&logoColor=white)](#) | `[![DynamoDB](https://img.shields.io/badge/DynamoDB-orange?logo=amazon-dynamodb&logoColor=white)](#)` |
+| [![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?logo=elasticsearch&logoColor=white)](#) | `[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-yellow?logo=elasticsearch&logoColor=white)](#)` |
+| [![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white)](#) | `[![Firebase](https://img.shields.io/badge/Firebase-yellow?logo=firebase&logoColor=white)](#)` |
+| [![Neo4j](https://img.shields.io/badge/Neo4j-blue?logo=neo4j&logoColor=white)](#) | `[![Neo4j](https://img.shields.io/badge/Neo4j-blue?logo=neo4j&logoColor=white)](#)` |
+| [![RethinkDB](https://img.shields.io/badge/RethinkDB-blue?logo=rethinkdb&logoColor=white)](#) | `[![RethinkDB](https://img.shields.io/badge/RethinkDB-blue?logo=rethinkdb&logoColor=white)](#)` |
+| [![InfluxDB](https://img.shields.io/badge/InfluxDB-blue?logo=influxdb&logoColor=white)](#) | `[![InfluxDB](https://img.shields.io/badge/InfluxDB-blue?logo=influxdb&logoColor=white)](#)` |
+| [![HBase](https://img.shields.io/badge/HBase-red?logo=hbase&logoColor=white)](#) | `[![HBase](https://img.shields.io/badge/HBase-red?logo=hbase&logoColor=white)](#)` |
+| [![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#)` |
+| [![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#) | `[![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#)` |
+| [![CouchDB](https://img.shields.io/badge/CouchDB-blue?logo=couchdb&logoColor=white)](#) | `[![CouchDB](https://img.shields.io/badge/CouchDB-blue?logo=couchdb&logoColor=white)](#)` |
