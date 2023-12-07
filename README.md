@@ -182,3 +182,25 @@ Good Markdown buttons/badges for to your repository!
 | [![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#)` |
 | [![Kali Linux](https://img.shields.io/badge/Kali_Linux-red?logo=kali-linux)](#) | `[![Kali Linux](https://img.shields.io/badge/Kali_Linux-red?logo=kali-linux)](#)` |
 | [![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=arch-linux)](#) | `[![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=arch-linux)](#)` |
+
+### Cloud System Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)](#) | `[![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws)](#)` |
+| [![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure)](#) | `[![Azure](https://img.shields.io/badge/Azure-blue?logo=microsoft-azure)](#)` |
+| [![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?logo=google-cloud)](#) | `[![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?logo=google-cloud)](#)` |
+| [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue?logo=ibm-cloud)](#) | `[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue?logo=ibm-cloud)](#)` |
+| [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?logo=digitalocean)](#) | `[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-blue?logo=digitalocean)](#)` |
+| [![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku)](#)` |
+| [![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-red?logo=oracle)](#) | `[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-red?logo=oracle)](#)` |
+| [![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-red?logo=alibaba-cloud)](#) | `[![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-red?logo=alibaba-cloud)](#)` |
+| [![VMware](https://img.shields.io/badge/VMware-darkblue?logo=vmware)](#) | `[![VMware](https://img.shields.io/badge/VMware-blue?logo=vmware)](#)` |
+| [![Salesforce](https://img.shields.io/badge/Salesforce-blue?logo=salesforce)](#) | `[![Salesforce](https://img.shields.io/badge/Salesforce-blue?logo=salesforce)](#)` |
+| [![Rackspace](https://img.shields.io/badge/Rackspace-blue?logo=rackspace)](#) | `[![Rackspace](https://img.shields.io/badge/Rackspace-blue?logo=rackspace)](#)` |
+| [![SAP](https://img.shields.io/badge/SAP-blue?logo=sap)](#) | `[![SAP](https://img.shields.io/badge/SAP-blue?logo=sap)](#)` |
+| [![Cisco](https://img.shields.io/badge/Cisco-blue?logo=cisco)](#) | `[![Cisco](https://img.shields.io/badge/Cisco-blue?logo=cisco)](#)` |
+| [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-blue?logo=azure-devops)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-blue?logo=azure-devops)](#)` |
+| [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#) | `[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#)` |
+| [![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](#)` |
+| [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#) | `[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#)` |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#)` |
