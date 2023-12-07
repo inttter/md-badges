@@ -228,3 +228,26 @@ Good Markdown buttons/badges for to your repository!
 | [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwind-css)](#) | `[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-blue?logo=tailwind-css)](#)` |
 | [![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#) | `[![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#)` |
 | [![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#) | `[![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#)` |
+
+
+## 🚧 Working on... 👇
+
+### Gaming Storefront Badges
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Steam](https://img.shields.io/badge/Steam-grey?logo=steam)](#) | `[![Steam](https://img.shields.io/badge/Steam-grey?logo=steam)](#)` |
+| [![Epic Games](https://img.shields.io/badge/Epic%20Games-black?logo=epic-games)](#) | `[![Epic Games](https://img.shields.io/badge/Epic%20Games-black?logo=epic-games)](#)` |
+| [![GOG.com](https://img.shields.io/badge/GOG.com-purple?logo=gog.com)](#) | `[![GOG.com](https://img.shields.io/badge/GOG.com-purple?logo=gog.com)](#)` |
+| [![Origin](https://img.shields.io/badge/Origin-black?logo=origin)](#) | `[![Origin](https://img.shields.io/badge/Origin-black?logo=origin)](#)` |
+| [![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#) | `[![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#)` |
+| [![itch.io](https://img.shields.io/badge/itch.io-darkred?logo=itch.io)](#) | `[![itch.io](https://img.shields.io/badge/itch.io-darkred?logo=itch.io)](#)` |
+| [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-green?logo=humble-bundle)](#) | `[![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-green?logo=humble-bundle)](#)` |
+
+# Add: 👆
+
+- Playstation Store
+- Xbox Store
+- Nintendo eShop
+- Green Man Gaminbg
+- Fanatical
+- Microsoft Store
