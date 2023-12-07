@@ -39,6 +39,16 @@ Good Markdown buttons/badges for to your repository!
 | [![GitHub repo size](https://img.shields.io/github/repo-size/badges/shields.svg)](https://github.com/badges/shields) | `[![GitHub repo size](https://img.shields.io/github/repo-size/badges/shields.svg)](https://github.com/badges/shields)` |
 | [![GitHub issues](https://img.shields.io/github/issues-closed-raw/badges/shields.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aclosed) | `[![GitHub issues](https://img.shields.io/github/issues-closed-raw/badges/shields.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aclosed)` |
 | [![GitHub release](https://img.shields.io/github/release/badges/shields.svg)](https://github.com/badges/shields/releases) | `[![GitHub release](https://img.shields.io/github/release/badges/shields.svg)](https://github.com/badges/shields/releases)` |
+| [![GitHub closed issues](https://img.shields.io/github/issues-closed/badges/shields.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aclosed) | `[![GitHub closed issues](https://img.shields.io/github/issues-closed/badges/shields.svg)](https://github.com/badges/shields/issues?q=is%3Aissue+is%3Aclosed)` |
+| [![GitHub pull request size](https://img.shields.io/github/issues-pr-size/badges/shields.svg)](https://github.com/badges/shields/pulls) | `[![GitHub pull request size](https://img.shields.io/github/issues-pr-size/badges/shields.svg)](https://github.com/badges/shields/pulls)` |
+| [![GitHub branch checks](https://img.shields.io/github/checks-status/badges/shields/main)](#) | `[![GitHub branch checks](https://img.shields.io/github/checks-status/badges/shields/main)](#)` |
+| [![GitHub repo stars](https://img.shields.io/github/stars/badges/shields.svg?style=social)](https://github.com/badges/shields/stargazers) | `[![GitHub repo stars](https://img.shields.io/github/stars/badges/shields.svg?style=social)](https://github.com/badges/shields/stargazers)` |
+| [![GitHub repo watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social)](https://github.com/badges/shields/watchers) | `[![GitHub repo watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social)](https://github.com/badges/shields/watchers)` |
+| [![GitHub search hit counter](https://img.shields.io/github/search/badges/shields.svg)](https://github.com/badges/shields/search?q=) | `[![GitHub search hit counter](https://img.shields.io/github/search/badges/shields.svg)](https://github.com/badges/shields/search?q=)` |
+| [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/badges/shields/network/members) | `[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/badges/shields/network/members)` |
+| [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/badges/shields?sort=semver)](https://github.com/badges/shields/releases) | `[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/badges/shields?sort=semver)](https://github.com/badges/shields/releases)` |
+| [![GitHub release (latest by date)](https://img.shields.io/github/v/release/badges/shields)](https://github.com/badges/shields/releases) | `[![GitHub release (latest by date)](https://img.shields.io/github/v/release/badges/shields)](https://github.com/badges/shields/releases)` |
+| [![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/badges/shields?include_prereleases)](https://github.com/badges/shields/releases) | `[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/badges/shields?include_prereleases)](https://github.com/badges/shields/releases)` |
 
 
 ### Social Media Badges:
@@ -54,6 +64,15 @@ Good Markdown buttons/badges for to your repository!
 | [![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#)` |
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#)` |
 | [![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#)` |
+| [![GitHub followers](https://img.shields.io/github/followers/badges.svg?style=social)](https://github.com/badges) | `[![GitHub followers](https://img.shields.io/github/followers/badges.svg?style=social)](https://github.com/badges)` |
+| [![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](#) | `[![Facebook](https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white)](#)` |
+| [![WhatsApp](https://img.shields.io/badge/WhatsApp-g?logo=whatsapp&logoColor=white)](#) | `[![WhatsApp](https://img.shields.io/badge/WhatsApp-blue?logo=whatsapp&logoColor=white)](#)` |
+| [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)` |
+| [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?logo=stack-overflow&logoColor=white)](#) | `[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?logo=stack-overflow&logoColor=white)](#)` |
+| [![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#) | `[![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#)` |
+| [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](#)` |
+| [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
+| [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#) | `[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#)` |
 
 
 ### Website/Service Status Badges:
