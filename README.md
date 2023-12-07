@@ -121,3 +121,26 @@ Good Markdown buttons/badges for to your repository!
 | [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](#)` |
 | [![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)](#) | `[![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)](#)` |
 
+### Framework Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-green?logo=vue.js)](#)` |
+| [![React](https://img.shields.io/badge/React-blue?logo=react)](#) | `[![React](https://img.shields.io/badge/React-blue?logo=react)](#)` |
+| [![Angular](https://img.shields.io/badge/Angular-red?logo=angular)](#) | `[![Angular](https://img.shields.io/badge/Angular-red?logo=angular)](#)` |
+| [![Ember.js](https://img.shields.io/badge/Ember.js-purple?logo=ember.js)](#) | `[![Ember.js](https://img.shields.io/badge/Ember.js-purple?logo=ember.js)](#)` |
+| [![Backbone.js](https://img.shields.io/badge/Backbone.js-blue?logo=backbone.js)](#) | `[![Backbone.js](https://img.shields.io/badge/Backbone.js-blue?logo=backbone.js)](#)` |
+| [![Django](https://img.shields.io/badge/Django-blue?logo=django)](#) | `[![Django](https://img.shields.io/badge/Django-blue?logo=django)](#)` |
+| [![Flask](https://img.shields.io/badge/Flask-black?logo=flask)](#) | `[![Flask](https://img.shields.io/badge/Flask-black?logo=flask)](#)` |
+| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?logo=spring-boot)](#) | `[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?logo=spring-boot)](#)` |
+| [![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=ruby-on-rails)](#) | `[![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-red?logo=ruby-on-rails)](#)` |
+| [![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express)](#) | `[![Express.js](https://img.shields.io/badge/Express.js-lightgrey?logo=express)](#)` |
+| [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#)` |
+| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#)` |
+| [![Svelte](https://img.shields.io/badge/Svelte-orange?logo=svelte)](#) | `[![Svelte](https://img.shields.io/badge/Svelte-orange?logo=svelte)](#)` |
+| [![Meteor](https://img.shields.io/badge/Meteor-blue?logo=meteor)](#) | `[![Meteor](https://img.shields.io/badge/Meteor-blue?logo=meteor)](#)` |
+| [![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)](#) | `[![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)](#)` |
+| [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#) | `[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)` |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#)` |
+| [![Helm](https://img.shields.io/badge/Helm-purple?logo=helm)](#) | `[![Helm](https://img.shields.io/badge/Helm-purple?logo=helm)](#)` |
+| [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](#)` |
+| [![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)](#) | `[![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)](#)` |
