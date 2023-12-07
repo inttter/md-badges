@@ -168,3 +168,17 @@ Good Markdown buttons/badges for to your repository!
 | [![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#)` |
 | [![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#) | `[![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#)` |
 | [![CouchDB](https://img.shields.io/badge/CouchDB-blue?logo=couchdb&logoColor=white)](#) | `[![CouchDB](https://img.shields.io/badge/CouchDB-blue?logo=couchdb&logoColor=white)](#)` |
+
+### Operating System Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)](#) | `[![Windows](https://img.shields.io/badge/Windows-blue?logo=windows)](#)` |
+| [![MacOS](https://img.shields.io/badge/MacOS-grey?logo=apple)](#) | `[![MacOS](https://img.shields.io/badge/MacOS-grey?logo=apple)](#)` |
+| [![Linux](https://img.shields.io/badge/Linux-orange?logo=linux)](#) | `[![Linux](https://img.shields.io/badge/Linux-orange?logo=linux)](#)` |
+| [![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-orange?logo=ubuntu)](#)` |
+| [![Unix](https://img.shields.io/badge/Unix-grey?logo=unix)](#) | `[![Unix](https://img.shields.io/badge/Unix-grey?logo=unix)](#)` |
+| [![Android](https://img.shields.io/badge/Android-green?logo=android)](#) | `[![Android](https://img.shields.io/badge/Android-green?logo=android)](#)` |
+| [![iOS](https://img.shields.io/badge/iOS-grey?logo=ios)](#) | `[![iOS](https://img.shields.io/badge/iOS-grey?logo=ios)](#)` |
+| [![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#)` |
+| [![Kali Linux](https://img.shields.io/badge/Kali_Linux-red?logo=kali-linux)](#) | `[![Kali Linux](https://img.shields.io/badge/Kali_Linux-red?logo=kali-linux)](#)` |
+| [![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=arch-linux)](#) | `[![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=arch-linux)](#)` |
