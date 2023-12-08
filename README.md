@@ -229,9 +229,6 @@ Good Markdown buttons/badges for to your repository!
 | [![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#) | `[![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#)` |
 | [![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#) | `[![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#)` |
 
-
-## 🚧 Working on... 👇
-
 ### Gaming Storefront Badges
 | Preview | Markdown Code |
 |---------|---------------|
@@ -242,12 +239,9 @@ Good Markdown buttons/badges for to your repository!
 | [![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#) | `[![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#)` |
 | [![itch.io](https://img.shields.io/badge/itch.io-darkred?logo=itch.io)](#) | `[![itch.io](https://img.shields.io/badge/itch.io-darkred?logo=itch.io)](#)` |
 | [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-green?logo=humble-bundle)](#) | `[![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-green?logo=humble-bundle)](#)` |
-
-# Add: 👆
-
-- Playstation Store
-- Xbox Store
-- Nintendo eShop
-- Green Man Gaminbg
-- Fanatical
-- Microsoft Store
+| [![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-darkblue?logo=playstation)](#) | `[![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-darkblue?logo=playstation)](#)` |
+| [![Xbox Store](https://img.shields.io/badge/Xbox%20Store-darkgreen?logo=xbox)](#) | `[![Xbox Store](https://img.shields.io/badge/Xbox%20Store-darkgreen?logo=xbox)](#)` |
+| [![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-darkred?logo=nintendo-switch)](#) | `[![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-darkred?logo=nintendo-switch)](#)` |
+| [![Green Man Gaming](https://img.shields.io/badge/Green%20Man%20Gaming-default?logo=green-man-gaming)](#) | `[![Green Man Gaming](https://img.shields.io/badge/Green%20Man%20Gaming-default?logo=green-man-gaming)](#)` |
+| [![Fanatical](https://img.shields.io/badge/Fanatical-orange?logo=fanatical)](#) | `[![Fanatical](https://img.shields.io/badge/Fanatical-orange?logo=fanatical)](#)` |
+| [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-blue?logo=microsoft)](#) | `[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-blue?logo=microsoft)](#)` |
