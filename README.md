@@ -66,7 +66,7 @@ Good Markdown buttons/badges for to your repository!
 | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)` |
 | [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?logo=stack-overflow&logoColor=white)](#) | `[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-orange?logo=stack-overflow&logoColor=white)](#)` |
 | [![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#) | `[![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#)` |
-| [![Discord](https://img.shields.io/badge/Discord-darkblue?logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white)](#)` |
+| [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
 | [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
 | [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#) | `[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#)` |
 
