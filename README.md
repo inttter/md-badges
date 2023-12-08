@@ -101,7 +101,7 @@ Good Markdown buttons/badges for to your repository!
 | [![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)](#) | `[![Java](https://img.shields.io/badge/Java-orange?logo=java&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-purple?logo=c-sharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-purple?logo=c-sharp&logoColor=white)](#)` |
-| [![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)](#) | `[![PHP](https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white)](#)` |
+| [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) | `[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#)` |
 | [![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white)](#) | `[![Ruby](https://img.shields.io/badge/Ruby-red?logo=ruby&logoColor=white)](#)` |
 | [![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white)](#)` |
@@ -120,6 +120,19 @@ Good Markdown buttons/badges for to your repository!
 | [![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#) | `[![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](#)` |
 | [![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)](#) | `[![Markdown](https://img.shields.io/badge/Markdown-black?logo=markdown&logoColor=white)](#)` |
+| [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#) | `[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)` |
+| [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) | `[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)` |
+| [![Haskell](https://img.shields.io/badge/Haskell-5e5086?&logo=haskell&logoColor=white)](#) | `[![Haskell](https://img.shields.io/badge/Haskell-5e5086?&logo=haskell&logoColor=white)](#)` |
+| [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&logo=openjdk&logoColor=white)](#) | `[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white)](#)` |
+| [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#) | `[![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)` |
+| [![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#) | `[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)` |
+| [![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#) | `[![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?&logo=apple&logoColor=white)](#)` |
+| [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#) | `[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)` |
+| [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) | `[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)` |
+| [![Swift](https://img.shields.io/badge/Swift-F54A2A?&logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?&logo=swift&logoColor=white)](#)` |
+| [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
+
+
 
 ### Framework Badges:
 | Preview | Markdown Code |
