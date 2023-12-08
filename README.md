@@ -261,3 +261,24 @@ Good Markdown buttons/badges for to your repository!
 | [![RPG Maker](https://img.shields.io/badge/RPG%20Maker-yellow?logo=rpg-maker)](#) | `[![RPG Maker](https://img.shields.io/badge/RPG%20Maker-yellow?logo=rpg-maker)](#)` |
 | [![Buildbox](https://img.shields.io/badge/Buildbox-E45F1F?logo=buildbox)](#) | `[![Buildbox](https://img.shields.io/badge/Buildbox-E45F1F?logo=buildbox)](#)` |
 | [![Phaser](https://img.shields.io/badge/Phaser-B4F0FC?logo=phaser)](#) | `[![Phaser](https://img.shields.io/badge/Phaser-B4F0FC?logo=phaser)](#)` |
+
+### IDE/Code Editor Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white)](#) | `[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?logo=visual-studio-code&logoColor=white)](#)` |
+| [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-orange?logo=sublime-text&logoColor=white)](#) | `[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-orange?logo=sublime-text&logoColor=white)](#)` |
+| [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-red?logo=intellij-idea&logoColor=white)](#) | `[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-red?logo=intellij-idea&logoColor=white)](#)` |
+| [![Vim](https://img.shields.io/badge/Vim-default?logo=vim&logoColor=white)](#) | `[![Vim](https://img.shields.io/badge/Vim-default?logo=Vim&logoColor=white)](#)` |
+| [![Emacs](https://img.shields.io/badge/Emacs-purple?logo=gnu-emacs&logoColor=white)](#) | `[![Emacs](https://img.shields.io/badge/Emacs-purple?logo=gnu-emacs&logoColor=white)](#)` |
+| [![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-blue?logo=eclipse-ide&logoColor=white)](#) | `[![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-blue?logo=eclipse-ide&logoColor=white)](#)` |
+| [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-orange?logo=apache-netbeans-ide&logoColor=white)](#) | `[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-orange?logo=apache-netbeans-ide&logoColor=white)](#)` |
+| [![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm&logoColor=white)](#) | `[![PyCharm](https://img.shields.io/badge/PyCharm-green?logo=pycharm&logoColor=white)](#)` |
+| [![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white)](#) | `[![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white)](#)` |
+| [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-yellow?logo=python&logoColor=white)](#) | `[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-yellow?logo=python&logoColor=white)](#)` |
+| [![Replit](https://img.shields.io/badge/Replit-black?logo=replit&logoColor=orange)](#) | `[![Replit](https://img.shields.io/badge/Replit-black?logo=replit&logoColor=orange)](#)` |
+| [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) | `[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)` |
+| [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) | `[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)` |
+| [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) | `[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)` |
+| [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
+
+
