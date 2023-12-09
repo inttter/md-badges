@@ -1,7 +1,6 @@
 # md-badges
 
-Good Markdown buttons/badges for to your repository!
-
+Markdown badges for you to add to your repository!
 
 > [!WARNING]
 ><strong>⚠️ Please note that you may have to replace some of the code with your own links.
