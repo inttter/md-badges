@@ -15,7 +15,27 @@ Markdown badges for you to add to your repository!
 > [!TIP]
 > Want to add your own badges? Please create a pull request with the preview code and the markdown code.
 
-## 🍡 A **massive** thanks to [shields.io](https://github.com/badges/shields) for their buttons! 🍡
+##### <p>🍡 A **massive** thanks to [shields.io](https://github.com/badges/shields) for their buttons! 🍡</p>
+
+
+### Table Of Contents
+
+- [Version Control](#version-control-badges)
+- [Social Medias](#social-media-badges)
+- [Website and Service Status](#website-and-service-status-badges)
+- [Programming Languages](#programming-languages)
+- [Frameworks](#framework-badges)
+- [Databases](#database-badges)
+- [Operating Systems](#operating-system-badges)
+- [Cloud Systems](#cloud-system-badges)
+- [Web Technologies](#web-technology-badges)
+- [Gaming Storefronts](#gaming-storefront-badges)
+- [Game Engines](#game-engine-badges)
+- [IDE/Code Editors](#idecode-editor-badges)
+- [Static Site Generators](#static-site-badges)
+- [Collaboration Tools](#collaboration-tool-badges)
+- [Funding](#funding-badges)
+- [Cryptocurrencies](#cryptocurrency-badges)
 
 ### Version Control Badges:
 | Preview | Markdown Code |
@@ -46,6 +66,7 @@ Markdown badges for you to add to your repository!
 | [![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/badges/shields/network/members) | `[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social)](https://github.com/badges/shields/network/members)` |
 | [![GitHub release (latest by date)](https://img.shields.io/github/v/release/inttter/ytDownloader)](https://github.com/inttter/ytDownloader/releases/) | `[![GitHub release (latest by date)](https://img.shields.io/github/v/release/badges/shields)](https://github.com/inttter/ytDownloader/releases)` |
 
+[back to top ⬆️](#table-of-contents)
 
 ### Social Media Badges:
 | Preview | Markdown Code |
@@ -71,8 +92,9 @@ Markdown badges for you to add to your repository!
 | [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
 | [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#) | `[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](#)` |
 
+[back to top ⬆️](#table-of-contents)
 
-### Website/Service Status Badges:
+### Website and Service Status Badges:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
@@ -93,6 +115,7 @@ Markdown badges for you to add to your repository!
 | [![Coverity Scan](https://img.shields.io/coverity/scan/12892)](#) | `[![Coverity Scan](https://img.shields.io/coverity/scan/12892)](#)` |
 | [![DeepSource](https://img.shields.io/badge/deepsource.io-orange)](#) | `[![DeepSource](https://img.shields.io/badge/deepsource.io-orange)](#)` |
 
+[back to top ⬆️](#table-of-contents)
 
 ### Programming Languages:
 | Preview | Markdown Code |
@@ -133,7 +156,7 @@ Markdown badges for you to add to your repository!
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?&logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?&logo=swift&logoColor=white)](#)` |
 | [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
 
-
+[back to top ⬆️](#table-of-contents)
 
 ### Framework Badges:
 | Preview | Markdown Code |
@@ -160,6 +183,8 @@ Markdown badges for you to add to your repository!
 | [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter)](#)` |
 | [![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)](#) | `[![React Native](https://img.shields.io/badge/React%20Native-blue?logo=react)](#)` |
 
+[back to top ⬆️](#table-of-contents)
+
 ### Database Badges:
 | Preview | Markdown Code |
 |---------|---------------|
@@ -184,6 +209,8 @@ Markdown badges for you to add to your repository!
 | [![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#) | `[![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#)` |
 | [![CouchDB](https://img.shields.io/badge/CouchDB-blue?logo=couchdb&logoColor=white)](#) | `[![CouchDB](https://img.shields.io/badge/CouchDB-blue?logo=couchdb&logoColor=white)](#)` |
 
+[back to top ⬆️](#table-of-contents)
+
 ### Operating System Badges:
 | Preview | Markdown Code |
 |---------|---------------|
@@ -197,6 +224,8 @@ Markdown badges for you to add to your repository!
 | [![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#)` |
 | [![Kali Linux](https://img.shields.io/badge/Kali_Linux-red?logo=kali-linux)](#) | `[![Kali Linux](https://img.shields.io/badge/Kali_Linux-red?logo=kali-linux)](#)` |
 | [![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=arch-linux)](#) | `[![Arch Linux](https://img.shields.io/badge/Arch_Linux-blue?logo=arch-linux)](#)` |
+
+[back to top ⬆️](#table-of-contents)
 
 ### Cloud System Badges:
 | Preview | Markdown Code |
@@ -219,6 +248,8 @@ Markdown badges for you to add to your repository!
 | [![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-red?logo=jenkins)](#)` |
 | [![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#) | `[![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)](#)` |
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?logo=kubernetes)](#)` |
+
+[back to top ⬆️](#table-of-contents)
 
 ### Web Technology Badges
 | Preview | Markdown Code |
@@ -244,6 +275,8 @@ Markdown badges for you to add to your repository!
 | [![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#) | `[![Sass](https://img.shields.io/badge/Sass-pink?logo=sass)](#)` |
 | [![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#) | `[![LESS](https://img.shields.io/badge/LESS-blue?logo=less)](#)` |
 
+[back to top ⬆️](#table-of-contents)
+
 ### Gaming Storefront Badges
 | Preview | Markdown Code |
 |---------|---------------|
@@ -261,6 +294,8 @@ Markdown badges for you to add to your repository!
 | [![Fanatical](https://img.shields.io/badge/Fanatical-orange?logo=fanatical)](#) | `[![Fanatical](https://img.shields.io/badge/Fanatical-orange?logo=fanatical)](#)` |
 | [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-blue?logo=microsoft)](#) | `[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-blue?logo=microsoft)](#)` |
 
+[back to top ⬆️](#table-of-contents)
+
 ### Game Engine Badges
 
 | Preview | Markdown Code |
@@ -275,6 +310,8 @@ Markdown badges for you to add to your repository!
 | [![RPG Maker](https://img.shields.io/badge/RPG%20Maker-yellow?logo=rpg-maker)](#) | `[![RPG Maker](https://img.shields.io/badge/RPG%20Maker-yellow?logo=rpg-maker)](#)` |
 | [![Buildbox](https://img.shields.io/badge/Buildbox-E45F1F?logo=buildbox)](#) | `[![Buildbox](https://img.shields.io/badge/Buildbox-E45F1F?logo=buildbox)](#)` |
 | [![Phaser](https://img.shields.io/badge/Phaser-B4F0FC?logo=phaser)](#) | `[![Phaser](https://img.shields.io/badge/Phaser-B4F0FC?logo=phaser)](#)` |
+
+[back to top ⬆️](#table-of-contents)
 
 ### IDE/Code Editor Badges:
 | Preview | Markdown Code |
@@ -295,6 +332,8 @@ Markdown badges for you to add to your repository!
 | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) | `[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)` |
 | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
 
+[back to top ⬆️](#table-of-contents)
+
 ### Static Site Badges:
 | Preview | Markdown Code |
 |-----------|---------------|
@@ -311,6 +350,8 @@ Markdown badges for you to add to your repository!
 | [![MkDocs](https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) | `[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) ` |
 | [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) ` |
 
+[back to top ⬆️](#table-of-contents)
+
 ### Collaboration Tool Badges:
 | Preview | Markdown Code |
 |---------|---------------|
@@ -319,6 +360,8 @@ Markdown badges for you to add to your repository!
 | [![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#) | `[![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#)` |
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
 | [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) | `[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)` |
+
+[back to top ⬆️](#table-of-contents)
 
 ### Funding Badges:
 | Preview | Markdown Code |
@@ -330,6 +373,8 @@ Markdown badges for you to add to your repository!
 | [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](#) | `[![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](#)` |
 | [![Open Collective](https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=white)](#) | `[![Open Collective](https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=white)](#)` |
 | [![PayPal](https://img.shields.io/badge/PayPal-00457C?&logo=paypal&logoColor=white)](#) | `[![PayPal](https://img.shields.io/badge/PayPal-00457C?&logo=paypal&logoColor=white)](#)` |
+
+[back to top ⬆️](#table-of-contents)
 
 ### Cryptocurrency Badges
 | Preview | Markdown Code |
@@ -344,3 +389,5 @@ Markdown badges for you to add to your repository!
 | [![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=white)](#) | `[![Polkadot](https://img.shields.io/badge/Polkadot-E6007A?logo=polkadot&logoColor=white)](#)` |
 | [![Chainlink](https://img.shields.io/badge/Chainlink-2A5ADA?logo=chainlink&logoColor=white)](#) | `[![Chainlink](https://img.shields.io/badge/Chainlink-2A5ADA?logo=chainlink&logoColor=white)](#)` |
 | [![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#) | `[![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#)` |
+
+[⬆️ Return back to the top - ⬆️](#table-of-contents)
