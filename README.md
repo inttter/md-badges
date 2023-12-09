@@ -310,3 +310,12 @@ Markdown badges for you to add to your repository!
 | [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) ` |
 | [![MkDocs](https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) | `[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) ` |
 | [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) ` |
+
+### Collaboration Tool Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
+| [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)](#) | `[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)]` |
+| [![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#) | `[![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#)` |
+| [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
+| [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) | `[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)` |
