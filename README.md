@@ -338,7 +338,6 @@ Markdown badges for you to add to your repository!
 | Preview | Markdown Code |
 |-----------|---------------|
 | [![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) | `[![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) ` |
-| [![Hugo](https://img.shields.io/badge/Hugo-blue?logo=hugo)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-blue?logo=hugo)](#) ` |
 | [![Gatsby](https://img.shields.io/badge/Gatsby-purple?logo=gatsby)](#) | `[![Gatsby](https://img.shields.io/badge/Gatsby-purple?logo=gatsby)](#) ` |
 | [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) ` |
 | [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) ` |
