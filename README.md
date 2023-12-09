@@ -1,5 +1,7 @@
 # md-badges
 
+![logo](assets/md-badges.png)
+
 Markdown badges for you to add to your repository!
 
 > [!WARNING]
