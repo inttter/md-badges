@@ -3,12 +3,14 @@
 Markdown badges for you to add to your repository!
 
 > [!WARNING]
-><strong>⚠️ Please note that you may have to replace some of the code with your own links.
+><strong> Please note that you may have to replace some of the code with your own links.
 >
-> For example, in https://twitter.com/github, you will have to replace "/github" with your username. ⚠️</strong>
+> For example, in https://twitter.com/github, you will have to replace "/github" with your username.</strong>
 
 > [!NOTE]
-> The following buttons are EXAMPLES and may lead to other pages, and as such, will require slight editing by you to make the button redirect to the correct links.
+> **(#)** is where you enter your URL that you would like the badge to lead to.
+>
+> Do some already have a link? Simply replace the URL in them with your own.
 
 > [!TIP]
 > Want to add your own badges? Please create a pull request with the preview code and the markdown code.
