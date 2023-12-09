@@ -296,7 +296,7 @@ Markdown badges for you to add to your repository!
 | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
 
 ### Static Site Badges:
-| Generator | Markdown Code |
+| Preview | Markdown Code |
 |-----------|---------------|
 | [![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) | `[![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) ` |
 | [![Hugo](https://img.shields.io/badge/Hugo-blue?logo=hugo)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-blue?logo=hugo)](#) ` |
