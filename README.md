@@ -1,4 +1,4 @@
-# md-buttons
+# md-badges
 
 Good Markdown buttons/badges for to your repository!
 
