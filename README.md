@@ -319,3 +319,14 @@ Markdown badges for you to add to your repository!
 | [![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#) | `[![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#)` |
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
 | [![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) | `[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)` |
+
+### Funding Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?&logo=ko-fi&logoColor=white)](#) | `[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](#)` |
+| [![Patreon](https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white)](#) | `[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#)` |
+| [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) | `[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)` |
+| [![Github-sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#) | `[![Github-sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](#)` |
+| [![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](#) | `[![Liberapay](https://img.shields.io/badge/Liberapay-F6C915?logo=liberapay&logoColor=black)](#)` |
+| [![Open Collective](https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=white)](#) | `[![Open Collective](https://img.shields.io/badge/Open%20Collective-3385FF?logo=open-collective&logoColor=white)](#)` |
+| [![PayPal](https://img.shields.io/badge/PayPal-00457C?&logo=paypal&logoColor=white)](#) | `[![PayPal](https://img.shields.io/badge/PayPal-00457C?&logo=paypal&logoColor=white)](#)` |
