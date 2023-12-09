@@ -295,4 +295,18 @@ Markdown badges for you to add to your repository!
 | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) | `[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)` |
 | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
 
-
+### Static Site Badges:
+| Generator | Markdown Code |
+|-----------|---------------|
+| [![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) | `[![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) ` |
+| [![Hugo](https://img.shields.io/badge/Hugo-blue?logo=hugo)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-blue?logo=hugo)](#) ` |
+| [![Gatsby](https://img.shields.io/badge/Gatsby-purple?logo=gatsby)](#) | `[![Gatsby](https://img.shields.io/badge/Gatsby-purple?logo=gatsby)](#) ` |
+| [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) ` |
+| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) ` |
+| [![Gridsome](https://img.shields.io/badge/Gridsome-lightblue?logo=gridsome)](#) | `[![Gridsome](https://img.shields.io/badge/Gridsome-lightblue?logo=gridsome)](#) ` |
+| [![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](#) | `[![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](#) ` |
+| [![Pelican](https://img.shields.io/badge/Pelican-blue?logo=pelican)](#) | `[![Pelican](https://img.shields.io/badge/Pelican-blue?logo=pelican)](#) ` |
+| [![Hexo](https://img.shields.io/badge/Hexo-darkblue?logo=hexo)](#) | `[![Hexo](https://img.shields.io/badge/Hexo-darkblue?logo=hexo)](#) ` |
+| [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) ` |
+| [![MkDocs](https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) | `[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) ` |
+| [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) ` |
