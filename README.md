@@ -60,6 +60,11 @@
 - [Funding](#funding-badges)
 - [Cryptocurrencies](#cryptocurrency-badges)
 
+> [!TIP]
+> Use `Ctrl + F` to find a the badge you are looking for quickly.
+>
+> Alternateively, use the Table Of Contents above to look for your badge.
+
 ### Version Control Badges:
 | Preview | Markdown Code |
 |---------|---------------|
