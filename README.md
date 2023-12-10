@@ -2,6 +2,8 @@
 
 ![logo](assets/md-badges.png)
 
+[![GitHub license](https://img.shields.io/github/license/badges/shields.svg)](https://github.com/badges/shields/blob/master/LICENSE)
+
 Markdown badges for you to add to your repository!
 
 > [!WARNING]
