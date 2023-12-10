@@ -1,10 +1,25 @@
-# md-badges
-
 ![logo](assets/md-badges.png)
 
-[![GitHub license](https://img.shields.io/github/license/badges/shields.svg)](https://github.com/badges/shields/blob/master/LICENSE)
+<div align="center">
 
-Markdown badges for you to add to your repository!
+# md-badges ![markdown](https://img.shields.io/badge/made%20with-markdown-%23000000.svg?logo=markdown&logoColor=white)
+
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub last commit](https://img.shields.io/github/last-commit/inttter/md-badges.svg)](https://github.com/inttter/md-badges/commits/main)
+[![Maintained?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
+[![Made With Love](https://img.shields.io/badge/made%20with-🤍-1f425f.svg)](https://github.com/inttter/md-badges)
+
+</div>
+
+<div align="center">
+
+[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter)
+
+## Markdown badges for you to add to your repository!
+
+</div>
 
 > [!WARNING]
 ><strong> Please note that you may have to replace some of the code with your own links.
@@ -19,7 +34,11 @@ Markdown badges for you to add to your repository!
 > [!TIP]
 > Want to add your own badges? Please create a pull request with the preview code and the markdown code.
 
-##### <p>🍡 A **massive** thanks to [shields.io](https://github.com/badges/shields) for their buttons! 🍡</p>
+<div align="center">
+
+#### 🛡️ thank you to shield.io for many of these badges. 🛡️
+
+</div>
 
 
 ### Table Of Contents
