@@ -22,14 +22,12 @@
 </div>
 
 > [!WARNING]
-><strong> Please note that you may have to replace some of the code with your own links.
+> Please note that you may have to replace some of the code with your own links.
 >
-> For example, in https://twitter.com/github, you will have to replace "/github" with your username.</strong>
+> For example, in `[![GitHub branch checks](https://img.shields.io/github/checks-status/inttter/ytDownloader/main)](#)`, replace `inttter`, `ytDownloader`, and `main` with your name/organisation, repository name, and branch name.
 
 > [!NOTE]
 > **(#)** is where you enter your URL that you would like the badge to lead to.
->
-> Do some already have a link? Simply replace the URL in them with your own.
 
 > [!TIP]
 > Want to add your own badges? Please create a pull request with the preview code and the markdown code.
