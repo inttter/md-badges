@@ -475,4 +475,8 @@
 
 [⬆️ Return back to top ⬆️](#table-of-contents)
 
-</div>
+----------------------------------------
+### Licensed under the MIT License.
+
+See [LICENSE](LICENSE) for more details.
+
