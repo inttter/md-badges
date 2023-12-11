@@ -232,6 +232,8 @@
 ### Gaming Storefront Badges
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
+| [![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#) | `[![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#)` |
 | [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#) | `[![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#)` |
 | [![GOG.com](https://img.shields.io/badge/GOG.com-purple?logo=gog.com)](#) | `[![GOG.com](https://img.shields.io/badge/GOG.com-purple?logo=gog.com)](#)` |
 | [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#) | `[![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#)` |
@@ -240,6 +242,7 @@
 | [![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-FF7D00?logo=nintendoswitch&logoColor=fff)](#) | `[![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-FF7D00?logo=nintendoswitch&logoColor=fff)](#)` |
 | [![Origin](https://img.shields.io/badge/Origin-black?logo=origin)](#) | `[![Origin](https://img.shields.io/badge/Origin-black?logo=origin)](#)` |
 | [![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-%230070D1.svg?logo=Playstation&logoColor=white)](#) | `[![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-%230070D1.svg?logo=Playstation&logoColor=white)](#)` |
+| [![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?logo=riotgames&logoColor=white)](#) | `[![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?logo=riotgames&logoColor=white)](#)` |
 | [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#) | `[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)` |
 | [![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#) | `[![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#)` |
 | [![Xbox](https://img.shields.io/badge/Xbox%20Store-%23107C10.svg?logo=xbox&logoColor=white)](#) | `[![Xbox](https://img.shields.io/badge/Xbox%20Store-%23107C10.svg?logo=xbox&logoColor=white)](#)` |
