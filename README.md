@@ -41,6 +41,7 @@
 
 ### Table Of Contents
 
+- [Browsers](#browser-badges)
 - [Cloud Systems](#cloud-system-badges)
 - [Collaboration Tools](#collaboration-tool-badges)
 - [Cryptocurrencies](#cryptocurrency-badges)
@@ -57,11 +58,23 @@
 - [Web Technologies](#web-technology-badges)
 - [Website and Service Status](#website-and-service-status-badges)
 
-
 > [!TIP]
 > Use `Ctrl + F` to find a the badge you are looking for quickly.
 >
 > Alternateively, use the Table Of Contents above to look for your badge.
+
+### Browser Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white) ](#) | `![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)` |
+| [![Edge](https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white)](#) | `![Edge](https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white)(#)` |
+| [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)` |
+| [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) | `[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)` |
+| [![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?logo=Internet%20Explorer&logoColor=white)](#) | `[![IE](https://img.shields.io/badge/Internet%20Explorer-0076D6?logo=Internet%20Explorer&logoColor=white)](#)` |
+| [![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#) | `[![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#)` |
+| [![Safari](https://img.shields.io/badge/Safari-000000?logo=Safari&logoColor=white)](#) | `[![Safari](https://img.shields.io/badge/Safari-000000?logo=Safari&logoColor=white)](#)` |
+| [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
+| [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
 
 ### Cloud System Badges:
 | Preview | Markdown Code |
