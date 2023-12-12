@@ -367,6 +367,28 @@
 
 </div>
 
+### Sound Badges
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#) | `[![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)` |
+| [![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white)](#) | `[![Apple Podcasts](https://img.shields.io/badge/Apple_Podcasts-9933CC?logo=apple-podcasts&logoColor=white)](#)` |
+| [![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#) | `[![Audacity](https://img.shields.io/badge/Audacity-0000CC?logo=audacity&logoColor=white)](#)` |
+| [![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?logo=google-podcasts&logoColor=white)](#) | `[![Google Podcasts](https://img.shields.io/badge/Google_Podcasts-4285F4?logo=google-podcasts&logoColor=white)](#)` |
+| [![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#) | `[![LastFM](https://img.shields.io/badge/last.fm-D51007?logo=last.fm&logoColor=white)](#)` |
+| [![Pandora](https://img.shields.io/badge/Pandora-3668FF?logo=pandora&logoColor=A15BB4)](#) | `[![Pandora](https://img.shields.io/badge/Pandora-3668FF?logo=pandora&logoColor=A15BB4)](#)` |
+| [![Shazam](https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white)](#) | `[![Shazam](https://img.shields.io/badge/Shazam-0088FF?logo=Shazam&logoColor=white)](#)` |
+| [![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#) | `[![Soundcloud](https://img.shields.io/badge/Soundcloud-FF3300?logo=Soundcloud&logoColor=white)](#)` |
+| [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) | `[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)` |
+| [![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)](#) | `[![Tidal](https://img.shields.io/badge/Tidal-000000?logo=Tidal&logoColor=white)](#)` |
+| [![TuneIn](https://img.shields.io/badge/TuneIn-14D8CC?logo=TuneIn&logoColor=white)](#) | `[![TuneIn](https://img.shields.io/badge/TuneIn-14D8CC?logo=TuneIn&logoColor=white)](#)` |
+| [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](#) | `[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#table-of-contents)
+
+</div>
+
 ### Static Site Badges:
 | Preview | Markdown Code |
 |---------|---------------|
