@@ -1,5 +1,3 @@
-![logo](assets/md-badges.png)
-
 <div align="center">
 
 # ⛩️ Types of Badges ⛩️
@@ -22,41 +20,41 @@ If you want to change the style of your badge, add the following code into your 
 
 `style=plastic`
 
-Example: `![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)`
+**Example:** `![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)`
 
-Result: ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
+**Result:** ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
 
 ## **Flat Square:**
 
 `style=flat-square`
 
-Example: `![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)`
+**Example:** `![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)`
 
-Result: ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white) 
+**Result:** ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white) 
 
 ## **Flat:**
 
 `style=flat`
 
-Example: `![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)`
+**Example:** `![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)`
 
-Result: ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)
+**Result:**:![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)
 
 
 ## Social
 
 `style=social`
 
-Example: `![GitHub repo watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social)`
+**Example:** `![GitHub repo watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social)`
 
-Result: ![GitHub repo watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social)
+**Result:** ![GitHub repo watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social)
 
 ## For The Badge
 
 `style=for-the-badge`
 
-Example: `![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)`
+**Example:** `![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)`
 
-Result: ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+**Result:** ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
 
