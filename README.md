@@ -331,30 +331,6 @@
 | [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#)` |
 | [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
 
-### Social Media Badges:
-| Preview | Markdown Code |
-|---------|---------------|
-| [![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#)` |
-| [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
-| [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#) | `[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)` |
-| [![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#)` |
-| [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
-| [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
-| [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#) | `[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)` |
-| [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)` |
-| [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#) | `[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#)` |
-| [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#) | `[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)` |
-| [![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#) | `[![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#)` |
-| [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#) | `[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#)` |
-| [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](#) | `[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](#)` |
-| [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) | `[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)` |
-| [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
-| [![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#)` |
-| [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#) | `[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)` |
-| [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#) | `[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#)` |
-| [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) | `[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)` |
-| [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | `[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)` |
-
 <div align="center">
 
 [⬆️ Return back to top ⬆️](#table-of-contents)
