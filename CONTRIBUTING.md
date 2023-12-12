@@ -30,14 +30,29 @@ Before you start contributing, follow these steps:
 7. Create a pull request to the main repository.
 
 # 📕 Pull Request Guidelines 📕
-When submitting a pull request, please follow these guidelines:
 
-1. Provide a clear title and description for your pull request.
+### Pull Request Guidelines
 
-2. Explain the changes made and why they are necessary.
+Please ensure your pull request adheres to the following guidelines:
 
-3. Ensure your code follows the structure of the rest of the code. 
-   - [See the raw README code for an idea of the structure.](https://github.com/inttter/md-badges/blob/main/README.md?plain=1)
+- Make sure your badge isn't a duplicate.
+
+- They should be added in the correct category.
+  
+- If it fits into none of the categories already there, you are welcome to create a new category.
+   - Make sure the category + badge is placed in the correct alphabetical order.
+
+- Make sure your links work.
+
+- Use the same format as already used in the code:
+
+> existing content...
+
+| Preview | Markdown Code |
+|---------|---------------|
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) | `[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)`
+
+**(essentially duplicating the Preview/Markdown code into two sections, one without the ` and one with it)**
 
 # ⚖️ License ⚖️
 By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](LICENSE) file.
