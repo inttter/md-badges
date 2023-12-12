@@ -1,4 +1,8 @@
-![logo](assets/md-badges.png)
+<div align="center">
+
+<img src="assets/md-badges.png" alt="logo" width="150"/>
+
+</div>
 
 <div align="center">
 
