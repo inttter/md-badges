@@ -21,7 +21,7 @@
 
 [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter)
 
-## Markdown badges for you to add to your repository!
+## ✨ Markdown-based badges for enhancing projects on GitHub. ✨
 
 </div>
 
