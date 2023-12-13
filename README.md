@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter)
+[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
 
 ## ✨ Markdown-based badges for enhancing projects on GitHub. ✨
 
