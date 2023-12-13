@@ -45,29 +45,31 @@
 
 ### Table Of Contents
 
-- [Browsers](#browser-badges)
-- [Cloud Systems](#cloud-system-badges)
-- [Collaboration Tools](#collaboration-tool-badges)
-- [Cryptocurrencies](#cryptocurrency-badges)
-- [Databases](#database-badges)
-- [Funding](#funding-badges)
-- [Frameworks](#framework-badges)
-- [Game Engines](#game-engine-badges)
-- [Gaming Storefronts](#gaming-storefront-badges)
-- [IDE/Code Editors](#idecode-editor-badges)
-- [Operating Systems](#operating-system-badges)
-- [Social Medias](#social-media-badges)
-- [Static Site Generators](#static-site-badges)
-- [Version Control](#version-control-badges)
-- [Web Technologies](#web-technology-badges)
-- [Website and Service Status](#website-and-service-status-badges)
+- [Browsers](#browsers)
+- [Cloud Systems](#cloud-systems)
+- [Collaboration Tools](#collaboration-tools)
+- [Cryptocurrencies](#cryptocurrencies)
+- [Databases](#databases)
+- [Funding](#funding)
+- [Frameworks](#frameworks)
+- [Game Engines](#game-engines)
+- [Gaming Storefronts](#gaming-storefronts)
+- [IDE/Code Editors](#idecode-editors)
+- [Operating Systems](#operating-systems)
+- [Programming Languages](#programming-languages)
+- [Social Medias](#social-medias)
+- [Sound](#sound)
+- [Static Site](#static-site)
+- [Version Control](#version-control)
+- [Web Technologies](#web-technologies)
+- [Website and Service Status](#website-and-service-status)
 
 > [!TIP]
 > Use `Ctrl + F` to find a the badge you are looking for quickly.
 >
 > Alternateively, use the Table Of Contents above to look for your badge.
 
-### Browser Badges:
+### Browsers:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white) ](#) | `![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)` |
@@ -80,7 +82,7 @@
 | [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
 | [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
 
-### Cloud System Badges:
+### Cloud Systems:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#) | `[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)` |
@@ -108,7 +110,7 @@
 
 </div>
 
-### Collaboration Tool Badges:
+### Collaboration Tools:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
@@ -123,7 +125,7 @@
 
 </div>
 
-### Cryptocurrency Badges
+### Cryptocurrencies:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) | `[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)` |
@@ -143,7 +145,7 @@
 
 </div>
 
-### Database Badges:
+### Databases:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#)` |
@@ -169,7 +171,7 @@
 
 </div>
 
-### Funding Badges:
+### Funding:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) | `[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)` |
@@ -186,7 +188,7 @@
 
 </div>
 
-### Framework Badges:
+### Frameworks:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
@@ -216,7 +218,7 @@
 
 </div>
 
-### Game Engine Badges
+### Game Engines:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff&style=flat)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)]` |
@@ -233,7 +235,7 @@
 
 </div>
 
-### Gaming Storefront Badges
+### Gaming Storefronts:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
@@ -257,7 +259,7 @@
 
 </div>
 
-### IDE/Code Editor Badges:
+### IDE/Code Editors:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) | `[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)` |
@@ -282,7 +284,7 @@
 
 </div>
 
-### Operating System Badges:
+### Operating Systems:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) | `[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)` |
@@ -301,7 +303,7 @@
 
 </div>
 
-### Programming Languages Badges:
+### Programming Languages:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
@@ -341,7 +343,7 @@
 
 </div>
 
-### Social Media Badges:
+### Social Medias:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#)` |
@@ -381,7 +383,7 @@
 
 </div>
 
-### Sound Badges
+### Sound:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#) | `[![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)` |
@@ -403,7 +405,7 @@
 
 </div>
 
-### Static Site Badges:
+### Static Site:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) ` |
@@ -424,7 +426,7 @@
 
 </div>
 
-### Version Control Badges:
+### Version Control:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Example Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](#) | `![Example Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)` |
@@ -457,7 +459,7 @@
 
 </div>
 
-### Web Technology Badges
+### Web Technologies:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
@@ -487,7 +489,7 @@
 
 </div>
 
-### Website and Service Status Badges:
+### Website and Service Status:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#)` |
