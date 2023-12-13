@@ -307,7 +307,7 @@
 | Preview | Markdown Code |
 |---------|---------------|
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
-| [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white)](#)` |
+| [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
 | [![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#) | `[![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#)` |
 | [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) | `[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)` |
 | [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#) | `[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)` |
