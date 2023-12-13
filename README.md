@@ -43,7 +43,7 @@
 </div>
 
 
-### Table Of Contents
+### 📃 Table Of Contents 
 
 - [Browsers](#browsers)
 - [Cloud Systems](#cloud-systems)
@@ -69,7 +69,7 @@
 >
 > Alternateively, use the Table Of Contents above to look for your badge.
 
-### Browsers:
+### 🌐 Browsers:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white) ](#) | `![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)` |
@@ -82,7 +82,7 @@
 | [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
 | [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
 
-### Cloud Systems:
+### ☁️ Cloud Systems:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#) | `[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)` |
@@ -110,7 +110,7 @@
 
 </div>
 
-### Collaboration Tools:
+### 🤝 Collaboration Tools:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
@@ -125,7 +125,7 @@
 
 </div>
 
-### Cryptocurrencies:
+### 🪙 Cryptocurrencies:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) | `[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)` |
@@ -145,7 +145,7 @@
 
 </div>
 
-### Databases:
+### ⛈️ Databases:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#)` |
@@ -171,7 +171,7 @@
 
 </div>
 
-### Funding:
+### 💸 Funding:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) | `[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)` |
@@ -188,7 +188,7 @@
 
 </div>
 
-### Frameworks:
+### 🖼️ Frameworks:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
@@ -218,7 +218,7 @@
 
 </div>
 
-### Game Engines:
+### 🕹️ Game Engines:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff&style=flat)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)]` |
@@ -235,7 +235,7 @@
 
 </div>
 
-### Gaming Storefronts:
+### 🎮 Gaming Storefronts:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
@@ -259,7 +259,7 @@
 
 </div>
 
-### IDE/Code Editors:
+### 💻 IDE/Code Editors:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) | `[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)` |
@@ -284,7 +284,7 @@
 
 </div>
 
-### Operating Systems:
+### 🖥️ Operating Systems:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) | `[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)` |
@@ -303,7 +303,7 @@
 
 </div>
 
-### Programming Languages:
+### 🧑‍💻 Programming Languages:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
@@ -343,7 +343,7 @@
 
 </div>
 
-### Social Medias:
+### 📱 Social Medias:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#)` |
@@ -383,7 +383,7 @@
 
 </div>
 
-### Sound:
+### 🎧 Sound:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#) | `[![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)` |
@@ -405,7 +405,7 @@
 
 </div>
 
-### Static Site:
+### 🫸 Static Site:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) ` |
@@ -426,7 +426,7 @@
 
 </div>
 
-### Version Control:
+### ⌚ Version Control:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Example Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](#) | `![Example Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)` |
@@ -459,7 +459,7 @@
 
 </div>
 
-### Web Technologies:
+### 🌍 Web Technologies:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
@@ -489,7 +489,7 @@
 
 </div>
 
-### Website and Service Status:
+### 🍏 Website and Service Status:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#)` |
@@ -514,7 +514,7 @@
 [⬆️ Return back to top ⬆️](#table-of-contents)
 
 ----------------------------------------
-### Licensed under the MIT License.
+### ©️ Licensed under the MIT License.
 
 See [LICENSE](LICENSE) for more details.
 
