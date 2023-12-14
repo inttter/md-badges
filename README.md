@@ -82,6 +82,12 @@
 | [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
 | [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
 
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+
+</div>
+
 ### ☁️ Cloud Systems:
 | Preview | Markdown Code |
 |---------|---------------|
@@ -106,7 +112,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -121,7 +127,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -141,7 +147,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -167,7 +173,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -194,7 +200,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -211,7 +217,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -241,7 +247,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -258,7 +264,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -282,7 +288,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -307,7 +313,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -326,7 +332,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -366,7 +372,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -407,7 +413,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -429,7 +435,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -450,7 +456,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -464,6 +470,11 @@
 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
 | [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Hulu](https://img.shields.io/badge/hulu-1CE783?logo=hulu&logoColor=white)](#)` |
 
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+
+</div>
 
 ### ⌚ Version Control:
 | Preview | Markdown Code |
@@ -494,7 +505,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -524,7 +535,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 </div>
 
@@ -550,10 +561,12 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#table-of-contents)
+[⬆️ Return back to top ⬆️](#📃-table-of-contents)
 
 ----------------------------------------
 ### ©️ Licensed under the MIT License.
 
 See [LICENSE](LICENSE) for more details.
+
+</div>
 
