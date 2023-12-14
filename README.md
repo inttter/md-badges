@@ -13,7 +13,8 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub last commit](https://img.shields.io/github/last-commit/inttter/md-badges.svg)](https://github.com/inttter/md-badges/commits/main)
 [![Maintained?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
-[![Made With Love](https://img.shields.io/badge/made%20with-🤍-1f425f.svg)](https://github.com/inttter/md-badges)
+[![Badge](https://5c1xb6y1j7zs.runkit.sh)](https://git.io/gradientbadge)
+
 
 </div>
 
@@ -38,7 +39,8 @@
 
 <div align="center">
 
-#### 🛡️ thank you to shield.io for many of these badges. 🛡️
+[![Badge](https://a3u8nmwz71ky.runkit.sh)](https://git.io/gradientbadge)
+
 
 </div>
 
@@ -388,6 +390,7 @@
 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) | `[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)` |
 | [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#) | `[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#)` |
 | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#) | `[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)` |
 | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)` |
