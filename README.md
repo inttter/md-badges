@@ -386,6 +386,7 @@
 | [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](#) | `[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](#)` |
 | [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](#) | `[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](#)` |
 | [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#) | `[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#)` |
+| [![Pixiv](https://img.shields.io/badge/pixiv-%2300ADD8.svg?logo=pixiv&logoColor=white)](#) | `[![Pixiv](https://img.shields.io/badge/pixiv-%2300ADD8.svg?logo=pixiv&logoColor=white)](#)` |
 | [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#) | `[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)` |
 | [![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#) | `[![Slack](https://img.shields.io/badge/Slack-purple?logo=slack&logoColor=white)](#)` |
 | [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#) | `[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#)` |
