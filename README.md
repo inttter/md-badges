@@ -412,6 +412,7 @@
 | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#) | `[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#)` |
 | [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#) | `[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#` |
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) | `[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)` |
+| [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#) | `[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)` |
 | [![Xbox App](https://img.shields.io/badge/Xbox%20App-%23107C10.svg?logo=Xbox&logoColor=white)](#) | `[![Xbox App](https://img.shields.io/badge/Xbox%20App-%23107C10.svg?logo=Xbox&logoColor=white)](#)` |
 | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | `[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)` |
 | [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#) | `[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)` |
