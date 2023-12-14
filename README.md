@@ -453,6 +453,17 @@
 
 </div>
 
+### 📺 Video Streaming:
+ Preview | Markdown Code |
+|---------|---------------|
+| [![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#) | `[![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#)` |
+| [![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)](#) | `![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)](#)` |
+| [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#) | `[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)` |
+| [![Hulu](https://img.shields.io/badge/Hulu-1CE783?logo=hulu&logoColor=white)](#) | `[![Hulu](https://img.shields.io/badge/Hulu-1CE783?logo=hulu&logoColor=white)](#)` |
+| [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
+| [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Hulu](https://img.shields.io/badge/hulu-1CE783?logo=hulu&logoColor=white)](#)` |
+
+
 ### ⌚ Version Control:
 | Preview | Markdown Code |
 |---------|---------------|
