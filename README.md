@@ -47,26 +47,26 @@
 
 ### 📃 Table Of Contents 
 
-- [Browsers](#🌐-browsers)
-- [Cloud Systems](#☁️-cloud-systems)
-- [Collaboration Tools](#🤝-collaboration-tools)
-- [Cryptocurrencies](#🪙-cryptocurrencies)
-- [Databases](#⛈️-databases)
-- [Design](#🎨-design)
-- [Funding](#💸-funding)
-- [Frameworks](#🖼️-frameworks)
-- [Game Engines](#🕹️-game-engines)
-- [Gaming Storefronts](#🎮-gaming-storefronts)
-- [IDE/Code Editors](#💻-idecode-editors)
-- [Operating Systems](#🖥️-operating-systems)
-- [Programming Languages](#🧑‍💻-programming-languages)
-- [Social Medias](#📱-social-medias)
-- [Sound](#🎧-sound)
-- [Static Site](#🫸-static-site)
-- [Video Streaming](#📺-video-streaming)
-- [Version Control](#⌚-version-control)
-- [Web Technologies](#🌍-web-technologies)
-- [Website and Service Status](#🍏-website-and-service-status)
+- [Browsers](#-browsers)
+- [Cloud Systems](#-cloud-systems)
+- [Collaboration Tools](#-collaboration-tools)
+- [Cryptocurrencies](#-cryptocurrencies)
+- [Databases](#-databases)
+- [Design](#-design)
+- [Funding](#-funding)
+- [Frameworks](#-frameworks)
+- [Game Engines](#-game-engines)
+- [Gaming Storefronts](#-gaming-storefronts)
+- [IDE/Code Editors](#-idecode-editors)
+- [Operating Systems](#%EF%B8%8F-operating-systems)
+- [Programming Languages](#-programming-languages)
+- [Social Medias](#-social-medias)
+- [Sound](#-sound)
+- [Static Site](#-static-site)
+- [Video Streaming](#-video-streaming)
+- [Version Control](#-version-control)
+- [Web Technologies](#-web-technologies)
+- [Website and Service Status](#-website-and-service-status)
 
 > [!TIP]
 > Use `Ctrl + F` to find a the badge you are looking for quickly.
@@ -88,7 +88,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -116,7 +116,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -131,7 +131,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -151,7 +151,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -177,7 +177,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -204,7 +204,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -221,7 +221,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -251,7 +251,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -268,7 +268,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -292,7 +292,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -317,7 +317,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -336,7 +336,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -376,7 +376,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -419,7 +419,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -441,7 +441,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -462,7 +462,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -478,7 +478,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -511,7 +511,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -541,7 +541,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
 
@@ -567,7 +567,7 @@
 
 <div align="center">
 
-[⬆️ Return back to top ⬆️](#📃-table-of-contents)
+[⬆️ Return back to top ⬆️](#-table-of-contents)
 
 ----------------------------------------
 ### ©️ Licensed under the MIT License.
