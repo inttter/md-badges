@@ -515,6 +515,26 @@
 
 </div>
 
+### 🖲️ VR:
+
+### VR Badges:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#) | `[![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#)` |
+| [![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-%23FF713B.svg?logo=google-cardboard&logoColor=white)](#) | `[![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-%23FF713B.svg?logo=google-cardboard&logoColor=white)](#)` |
+| [![Oculus](https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white)](#) | `[![Oculus](https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white)](#)` |
+| [![PlayStation VR](https://img.shields.io/badge/PlayStation%20VR-%23007ACC.svg?logo=playstation&logoColor=white)](#) | `[![PlayStation VR](https://img.shields.io/badge/PlayStation%20VR-%23007ACC.svg?logo=playstation&logoColor=white)](#)` |
+| [![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](#) | `[![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](#)` |
+
+
+
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
 ### 🌍 Web Technologies:
 | Preview | Markdown Code |
 |---------|---------------|
