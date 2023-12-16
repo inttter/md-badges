@@ -31,7 +31,7 @@
 >
 > For example, in `[![GitHub branch checks](https://img.shields.io/github/checks-status/inttter/ytDownloader/main)](#)`, replace `inttter`, `ytDownloader`, and `main` with your name/organisation, repository name, and branch name.
 
-> [!NOTE]
+> [!IMPORTANT]
 > **(#)** is where you enter your URL that you would like the badge to lead to.
 
 > [!TIP]
