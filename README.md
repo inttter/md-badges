@@ -516,8 +516,6 @@
 </div>
 
 ### 🖲️ VR:
-
-### VR Badges:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#) | `[![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#)` |
