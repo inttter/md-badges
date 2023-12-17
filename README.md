@@ -59,12 +59,14 @@
 - [Gaming Storefronts](#-gaming-storefronts)
 - [IDE/Code Editors](#-idecode-editors)
 - [Operating Systems](#%EF%B8%8F-operating-systems)
+- [Payment](#-payment)
 - [Programming Languages](#-programming-languages)
 - [Social Medias](#-social-medias)
 - [Sound](#-sound)
 - [Static Site](#-static-site)
 - [Video Streaming](#-video-streaming)
 - [Version Control](#-version-control)
+- [VR](#-vr)
 - [Web Technologies](#-web-technologies)
 - [Website and Service Status](#-website-and-service-status)
 
@@ -339,6 +341,24 @@
 [⬆️ Return back to top ⬆️](#-table-of-contents)
 
 </div>
+
+### 💳 Payment:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#) | `[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)` |
+| [![Amazon Pay](https://img.shields.io/badge/Amazon%20Pay-F90?logo=amazonpay&logoColor=fff)](#) | `[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)` |
+| [![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#) | `[![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#)` |
+| [![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000)](#) | `[![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000)](#)` |
+| [![Magento](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=fff)](#) | `[![Magento](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=fff)](#)` |
+| [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#) | `[![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#)` |
+| [![Payoneer](https://img.shields.io/badge/Payoneer-FF4800?logo=payoneer&logoColor=fff)](#) | `[![Payoneer](https://img.shields.io/badge/Payoneer-FF4800?logo=payoneer&logoColor=fff)](#)` |
+| [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#) | `[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)` |
+| [![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff)](#) | `[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff)](#)` |
+| [![Square](https://img.shields.io/badge/Square-3E4348?logo=square&logoColor=fff)](#) | `[![Square](https://img.shields.io/badge/Square-3E4348?logo=square&logoColor=fff)](#)` |
+| [![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#) | `[![Stripe](https://img.shields.io/badge/Stripe-5851DD?logo=stripe&logoColor=fff)](#)` |
+| [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#) | `[![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#)` |
+| [![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff)](#) | `[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff)](#)` |
+
 
 ### 🧑‍💻 Programming Languages:
 | Preview | Markdown Code |
