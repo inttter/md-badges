@@ -35,7 +35,7 @@
 > **(#)** is where you enter your URL that you would like the badge to lead to.
 
 > [!TIP]
-> Want to add your own badges? Please create a pull request with the preview code and the markdown code.
+> Want to add your own badges?  See [the contributing file](CONTRIBUTING.md) on how to contribute and for pull request guidelines.
 
 <div align="center">
 
