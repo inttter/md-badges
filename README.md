@@ -64,6 +64,7 @@
 - [Operating Systems](#%EF%B8%8F-operating-systems)
 - [Payment](#-payment)
 - [Programming Languages](#-programming-languages)
+- [Search Engines](#-search-engines)
 - [Social Medias](#-social-medias)
 - [Sound](#-sound)
 - [Static Site](#-static-site)
@@ -454,6 +455,22 @@
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#)` |
 | [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 🔦 Search Engines:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![AOL](https://img.shields.io/badge/AOL-39F?logo=aol&logoColor=fff)](#) | `[![AOL](https://img.shields.io/badge/AOL-39F?logo=aol&logoColor=fff)](#)` |
+| [![Baidu](https://img.shields.io/badge/Baidu-2319DC?logo=baidu&logoColor=white)](#) | `[![Baidu](https://img.shields.io/badge/Baidu-2319DC?logo=baidu&logoColor=white)](#)` |
+| [![Bing](https://img.shields.io/badge/Bing-258FFA?logo=microsoftbing&logoColor=fff)](#) | `[![Bing](https://img.shields.io/badge/Bing-258FFA?logo=microsoftbing&logoColor=fff)](#)` |
+| [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#) | `[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#)` |
+| [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#) | `[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)` |
+
 
 <div align="center">
 
