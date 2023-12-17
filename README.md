@@ -48,6 +48,7 @@
 ### 📃 Table Of Contents 
 
 - [Browsers](#-browsers)
+- [CI](#-ci)
 - [Cloud Systems](#-cloud-systems)
 - [Collaboration Tools](#-collaboration-tools)
 - [Cryptocurrencies](#-cryptocurrencies)
@@ -89,6 +90,26 @@
 | [![Safari](https://img.shields.io/badge/Safari-000000?logo=Safari&logoColor=white)](#) | `[![Safari](https://img.shields.io/badge/Safari-000000?logo=Safari&logoColor=white)](#)` |
 | [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
 | [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 🔎 CI:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#) | `[![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#)` |
+| [![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff)](#) | `[![Azure Pipelines](https://img.shields.io/badge/Azure%20Pipelines-2560E0?logo=azurepipelines&logoColor=fff)](#)` |
+| [![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?logo=bamboo&logoColor=fff)](#) | `[![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?logo=bamboo&logoColor=fff)](#)` |
+| [![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#) | `[![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?logo=bitbucket&logoColor=white)](#)` |
+| [![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#) | `[![CircleCI](https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=fff)](#)` |
+| [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) | `[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)` |
+| [![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#) | `[![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=fff)](#)` |
+| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)` |
+| [![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#) | `[![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#)` |
+| [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#) | `[![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#)` |
 
 <div align="center">
 
