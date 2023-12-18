@@ -61,6 +61,7 @@
 - [Game Engines](#-game-engines)
 - [Gaming Storefronts](#-gaming-storefronts)
 - [IDE/Code Editors](#-idecode-editors)
+- [Office](#-office)
 - [Operating Systems](#%EF%B8%8F-operating-systems)
 - [Payment](#-payment)
 - [Programming Languages](#-programming-languages)
@@ -379,6 +380,30 @@
 | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
 | [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#) | `[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)` |
 | [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#) | `[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 🏢 Office:
+
+<!-- this is honestly just the full stack of microsoft 365 lol, i mean what else am i meant to put in 'office' ??? !-->
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](#) | `[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](#)` |
+| [![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white)](#) | `[![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?logo=microsoft-access&logoColor=white)](#)` |
+| [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](#) | `[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)](#)` |
+| [![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#) | `[![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)` |
+| [![Microsoft OneNote](https://img.shields.io/badge/Microsoft%20OneNote-7719AA?logo=microsoftonenote&logoColor=fff)](#) | `[![Microsoft OneNote](https://img.shields.io/badge/Microsoft%20OneNote-7719AA?logo=microsoftonenote&logoColor=fff)](#)` |
+| [![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff)](#) | `[![Microsoft Outlook](https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoftoutlook&logoColor=fff)](#)` |
+| [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](#) | `[![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white)](#)` |
+| [![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)](#) | `[![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)](#)` |
+| [![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white)](#) | `[![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoft-visio&logoColor=white)](#)` |
+| [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)](#) | `[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)]` |
+| [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)](#) | `[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)](#)` |
 
 <div align="center">
 
