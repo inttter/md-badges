@@ -64,13 +64,14 @@
 - [Operating Systems](#%EF%B8%8F-operating-systems)
 - [Payment](#-payment)
 - [Programming Languages](#-programming-languages)
+- [Restaurants/Delivery](#-restaurantsdelivery)
 - [Search Engines](#-search-engines)
 - [Social Medias](#-social-medias)
 - [Sound](#-sound)
 - [Static Site](#-static-site)
 - [Video Streaming](#-video-streaming)
 - [Version Control](#-version-control)
-- [Virtual Reality](#🖲️-virtual-reality)
+- [Virtual Reality](#-virtual-reality)
 - [Web Technologies](#-web-technologies)
 - [Website and Service Status](#-website-and-service-status)
 
@@ -455,6 +456,30 @@
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#)` |
 | [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 🍽️ Restaurants/Delivery:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Burger King](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff)](#) | `[![Burger King](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff)](#)` |
+| [![Deliveroo](https://img.shields.io/badge/Deliveroo-00CCBC?logo=Deliveroo&logoColor=white)](#) | `[![Deliveroo](https://img.shields.io/badge/Deliveroo-00CCBC?logo=Deliveroo&logoColor=white)](#)` |
+| [![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#) | `[![Doordash](https://img.shields.io/badge/DoorDash-FF3008?logo=DoorDash&logoColor=white)](#)` |
+| [![GrubHub](https://img.shields.io/badge/Grubhub-F63440?logo=Grubhub&logoColor=white)](#) | `[![GrubHub](https://img.shields.io/badge/Grubhub-F63440?logo=Grubhub&logoColor=white)](#)` |
+| [![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#) | `[![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#)` |
+| [![KFC](https://img.shields.io/badge/KFC-F40027?logo=kfc&logoColor=white)](#) | `[![KFC](https://img.shields.io/badge/KFC-F40027?logo=kfc&logoColor=white)](#)` |
+| [![McDonalds](https://img.shields.io/badge/McDonald's-FBC817?logo=McDonald's&logoColor=white)](#) | `[![McDonalds](https://img.shields.io/badge/McDonald's-FBC817?logo=McDonald's&logoColor=white)](#)` |
+| [![Taco Bell](https://img.shields.io/badge/Taco%20Bell-38096C?logo=tacobell&logoColor=fff)](#) | `[![Taco Bell](https://img.shields.io/badge/Taco%20Bell-38096C?logo=tacobell&logoColor=fff)](#)` |
+| [![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#) | `[![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#)` |
+
+
+
+
+
 
 <div align="center">
 
