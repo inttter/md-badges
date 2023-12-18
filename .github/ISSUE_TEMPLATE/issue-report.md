@@ -1,14 +1,24 @@
 ---
 name: Issue Report
-about: Create a issue report to fix an issue.
+about: Report an inconsistency or bug.
 title: ''
-labels: ''
-assignees: ''
+labels: 'bug'
+assignees: 'inttter'
+---
+
+**Description:**
+<!-- Describe what the inconsistency/bug/etc was. !-->
+---
+
+**Expected:**
+<!-- What was the expected outcome? !-->
 
 ---
 
-**What is the issue?**
-(Insert your issue here)
+**Actual Outcome:**
+<!-- What actually happened? !-->
 
-**Provide an image:**
-(If none, leave blank)
+---
+
+**Additional Context:**
+<!-- Leave anything else that doesn't fit into the other three categories into this area. !-->
