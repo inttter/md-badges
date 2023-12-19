@@ -47,9 +47,10 @@
 
 ### 📃 Table Of Contents 
 
-- [AI](#-ai)
+- [Artificial Intelligence](#-artificial-intelligence)
 - [Browsers](#-browsers)
 - [CI](#-ci)
+- [Cloud Storage](#-cloud-storage)
 - [Cloud Systems](#-cloud-systems)
 - [Collaboration Tools](#-collaboration-tools)
 - [Cryptocurrencies](#-cryptocurrencies)
@@ -82,7 +83,7 @@
 >
 > Alternateively, use the Table Of Contents above to look for your badge.
 
-### 🤖 AI:
+### 🤖 Artificial Intelligence:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#) | `[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#)` |
@@ -131,6 +132,24 @@
 | [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)](#)` |
 | [![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#) | `[![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#)` |
 | [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#) | `[![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 🌫️ Cloud Storage:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Box](https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff)](#) | `[![Box](https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff)](#)` |
+| [![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#) | `[![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#)` |
+| [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#) | `[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)` |
+| [![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#) | `[![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)` |
+| [![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#) | `[![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)` |
+| [![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#) | `[![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#)` |
+
+
 
 <div align="center">
 
