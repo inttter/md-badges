@@ -47,6 +47,7 @@
 
 ### 📃 Table Of Contents 
 
+- [AI](#-ai)
 - [Browsers](#-browsers)
 - [CI](#-ci)
 - [Cloud Systems](#-cloud-systems)
@@ -80,6 +81,23 @@
 > Use `Ctrl + F` to find a the badge you are looking for quickly.
 >
 > Alternateively, use the Table Of Contents above to look for your badge.
+
+### 🤖 AI:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#) | `[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#)` |
+| [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) | `[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)` |
+| [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#) | `[![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#)` |
+| [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#) | `[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)` |
+| [![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#) | `[![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#)` |
+
+<!-- Bard is Google's new AI tool, competing with ChatGPT. Learn more at https://bard.google.com. !-->
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
 
 ### 🌐 Browsers:
 | Preview | Markdown Code |
