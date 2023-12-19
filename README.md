@@ -166,13 +166,17 @@
 | [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#) | `[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)` |
 | [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) | `[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)` |
 | [![Docker](https://img.shields.io/badge/Docker-darkblue?logo=docker)](#) | `[![Docker](https://img.shields.io/badge/Docker-darkblue?logo=docker)](#)` |
+| [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)](#) | `[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)](#)` |
 | [![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](#) | `[![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](#)` |
 | [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#) | `[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#)` |
+| [![Glitch](https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white)](#) | `[![Glitch](https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white)](#)` |
 | [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) | `[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)` |
 | [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku)](#)` |
 | [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue?logo=ibm-cloud)](#) | `[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue?logo=ibm-cloud)](#)` |
 | [![Jenkins](https://img.shields.io/badge/Jenkins-darkred?logo=jenkins)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-darkred?logo=jenkins)](#)` |
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?logo=kubernetes)](#)` |
+| [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#) | `[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#` |
+| [![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#) | `[![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#)` |
 | [![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#) | `[![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)` |
 | [![SAP](https://img.shields.io/badge/SAP-blue?logo=sap)](#) | `[![SAP](https://img.shields.io/badge/SAP-blue?logo=sap)](#)` |
 | [![Salesforce](https://img.shields.io/badge/Salesforce-blue?logo=salesforce)](#) | `[![Salesforce](https://img.shields.io/badge/Salesforce-blue?logo=salesforce)](#)` |
