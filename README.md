@@ -52,6 +52,7 @@
 - [CI](#-ci)
 - [Cloud Storage](#-cloud-storage)
 - [Cloud Systems](#-cloud-systems)
+- [Code Coverage](#-code-coverage)
 - [Collaboration Tools](#-collaboration-tools)
 - [Cryptocurrencies](#-cryptocurrencies)
 - [Databases](#-databases)
@@ -76,7 +77,7 @@
 - [Version Control](#-version-control)
 - [Virtual Reality](#-virtual-reality)
 - [Web Technologies](#-web-technologies)
-- [Website and Service Status](#-website-and-service-status)
+- [Website Status](#-website-status)
 
 > [!TIP]
 > Use `Ctrl + F` to find a the badge you are looking for quickly.
@@ -266,6 +267,27 @@
 | [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#) | `[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)` |
 | [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#) | `[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)` |
 | [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#) | `[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 🌋 Code Coverage:  
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#) | `[![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#)` |
+| [![Code Climate](https://img.shields.io/badge/Code%20Climate-000?logo=codeclimate&logoColor=fff)](#) | `[![Code Climate](https://img.shields.io/badge/Code%20Climate-000?logo=codeclimate&logoColor=fff)](#) ` |
+| [![Codacy](https://img.shields.io/badge/Codacy-222F29?logo=codacy&logoColor=fff)](#) | `![Codacy](https://img.shields.io/badge/Codacy-222F29?logo=codacy&logoColor=fff)](#)` |
+| [![Coveralls](https://img.shields.io/badge/Coveralls-3F5767?logo=coveralls&logoColor=fff)](#) | `[![Coveralls](https://img.shields.io/badge/Coveralls-3F5767?logo=coveralls&logoColor=fff)](#)` |
+| [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#) | `[![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#)` |
+| [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#) | `[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)` |
+
+
+
+
 
 <div align="center">
 
@@ -748,25 +770,12 @@
 
 </div>
 
-### 🍏 Website and Service Status:
+### 🍏 Website Status:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-blue?logo=azure-devops&logoColor=white)](#)` |
-| [![Codecov](https://img.shields.io/badge/Codecov-blue?logo=codecov&logoColor=white)](#) | `[![Codecov](https://img.shields.io/badge/Codecov-blue?logo=codecov&logoColor=white)](#)` |
-| [![Code Climate](https://img.shields.io/badge/Code%20Climate-orange?logo=code-climate&logoColor=white)](#) | `[![Code Climate](https://img.shields.io/badge/Code%20Climate-orange?logo=code-climate&logoColor=white)](#)` |
-| [![Codacy](https://img.shields.io/badge/Codacy-blue?logo=codacy&logoColor=white)](#) | `[![Codacy](https://img.shields.io/badge/Codacy-blue?logo=codacy&logoColor=white)](#)` |
-| [![Coveralls](https://img.shields.io/badge/Coveralls-green?logo=coveralls&logoColor=white)](#) | `[![Coveralls](https://img.shields.io/badge/Coveralls-green?logo=coveralls&logoColor=white)](#)` |
-| [![Coverity Scan](https://img.shields.io/coverity/scan/12892)](#) | `[![Coverity Scan](https://img.shields.io/coverity/scan/12892)](#)` |
-| [![Docker Pulls](https://img.shields.io/docker/pulls/library/alpine.svg)](https://hub.docker.com/_/alpine) | `[![Docker Pulls](https://img.shields.io/docker/pulls/library/alpine.svg)](https://hub.docker.com/_/alpine)` |
-| [![Downloads](https://img.shields.io/pypi/dm/Django.svg)](https://pypi.org/project/Django/) | `[![Downloads](https://img.shields.io/pypi/dm/Django.svg)](https://pypi.org/project/Django/)` |
-| [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)](#)` |
-| [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?&logo=netlify&logoColor=#00C7B7)](#) | `[![Netlify](https://img.shields.io/badge/Netlify-blue?logo=netlify&logoColor=white)](#)` |
-| [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/npm) | `[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/npm)` |
-| [![Python versions](https://img.shields.io/pypi/pyversions/Django.svg)](https://pypi.org/project/Django/) | `[![Python versions](https://img.shields.io/pypi/pyversions/Django.svg)](https://pypi.org/project/Django/)` |
-| [![SonarCloud](https://img.shields.io/badge/SonarCloud-blue?logo=sonarcloud&logoColor=white)](#) | `[![SonarCloud](https://img.shields.io/badge/SonarCloud-blue?logo=sonarcloud&logoColor=white)](#)` |
-| [![Snyk](https://img.shields.io/badge/Snyk-purple?logo=snyk&logoColor=white)](#) | `[![Snyk](https://img.shields.io/badge/Snyk-purple?logo=snyk&logoColor=white)](#)` |
-| [![Travis CI](https://img.shields.io/travis/com/badges/shields/main)](#) | `[![Travis CI](https://img.shields.io/travis/com/badges/shields/main)](#)` |
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
+| [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) | `[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)` |
+
 
 <div align="center">
 
