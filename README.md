@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="assets/md-badges.png" alt="logo" width="150"/>
+<img src="assets/example-badges.png" alt="big badges :0" width="450">
 
 </div>
 
 <div align="center">
 
-# md-badges ![markdown](https://img.shields.io/badge/made%20with-markdown-%23000000.svg?logo=markdown&logoColor=white)
+# <img src="assets/md-badges.png" alt="logo" width="64" style="vertical-align: middle; margin-right: 10px;"> md-badges
 
+[![Official Website](https://img.shields.io/badge/View%20The-Landing%20Page!-19A974.svg?style=for-the-badge)](https://inttter.github.io/md-badges)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub last commit](https://img.shields.io/github/last-commit/inttter/md-badges.svg)](https://github.com/inttter/md-badges/commits/main)
-[![Maintained?](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
+[![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
 [![Badge](https://5c1xb6y1j7zs.runkit.sh)](https://git.io/gradientbadge)
-
 
 </div>
 
 <div align="center">
 
-[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
+[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
 
 ## ✨ Markdown-based badges for enhancing projects on GitHub. ✨
 
@@ -36,12 +36,6 @@
 
 > [!TIP]
 > Want to add your own badges?  See [the contributing file](CONTRIBUTING.md) on how to contribute and for pull request guidelines.
-
-<div align="center">
-
-[![Badge](https://a3u8nmwz71ky.runkit.sh)](https://git.io/gradientbadge)
-
-</div>
 
 ### 📃 Table Of Contents 
 
@@ -594,7 +588,7 @@
 | [![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#)` |
 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
-| [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)`
+| [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
 | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) | `[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)` |
 | [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#) | `[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#)` |
