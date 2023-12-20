@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# <img src="assets/md-badges.png" alt="logo" width="64" style="vertical-align: middle; margin-right: 10px;"> md-badges
+<img src="assets/logo (1).png">
 
 [![Official Website](https://img.shields.io/badge/View%20The-Landing%20Page!-19A974.svg?style=for-the-badge)](https://inttter.github.io/md-badges)
 
