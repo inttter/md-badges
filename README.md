@@ -40,6 +40,7 @@
 ### 📃 Table Of Contents 
 
 - [Artificial Intelligence](#-artificial-intelligence)
+- [Blog](#-blog)
 - [Browsers](#-browsers)
 - [CI](#-ci)
 - [Cloud Storage](#-cloud-storage)
@@ -86,6 +87,29 @@
 | [![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#) | `[![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#)` |
 
 <!-- Bard is Google's new AI tool, competing with ChatGPT. Learn more at https://bard.google.com. !-->
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### ✏️ Blog:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#) | `[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#)` |
+| [![Dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?logo=devdotto&logoColor=white)](#) | `[![Dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?logo=devdotto&logoColor=white)](#)` |
+| [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) | `[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#)` |
+| [![Ghost](https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow)](#) | `[![Ghost](https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow)](#)` |
+| [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#) | `[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)` |
+| [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)` |
+| [![RSS](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white)](#) | `[![RSS](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white)](#)` |
+| [![Squarespace](https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff)](#) | `[![Squarespace](https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff)](#)` |
+| [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#) | `[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#)` |
+| [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white)](#)` |
+| [![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#) | `[![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#)` |
+| [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#) | `[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)` |
+
 
 <div align="center">
 
@@ -582,10 +606,10 @@
 ### 📱 Social Medias:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-green?logo=deviantart&logoColor=white)](#)` |
+| [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#)` |
 | [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
 | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#) | `[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)` |
-| [![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-lightblue?logo=flickr&logoColor=white)](#)` |
+| [![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#)` |
 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
 | [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
@@ -607,7 +631,7 @@
 | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) | `[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)` |
 | [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#) | `[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)` |
 | [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
-| [![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#)` |
+| [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=fff)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-blue?logo=tumblr&logoColor=white)](#)` |
 | [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#) | `[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)` |
 | [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#) | `[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](#)` |
 | [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#) | `[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#` |
@@ -648,16 +672,15 @@
 ### 🫸 Static Site:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) ` |
+| [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#)` |
 | [![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](#) | `[![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](#) ` |
 | [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#) | `[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#)` |
-| [![Gridsome](https://img.shields.io/badge/Gridsome-lightblue?logo=gridsome)](#) | `[![Gridsome](https://img.shields.io/badge/Gridsome-lightblue?logo=gridsome)](#) ` |
-| [![Hexo](https://img.shields.io/badge/Hexo-darkblue?logo=hexo)](#) | `[![Hexo](https://img.shields.io/badge/Hexo-darkblue?logo=hexo)](#) ` |
+| [![Gridsome](https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=fff)](#) | `[![Gridsome](https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=fff)](#)` |
+| [![Hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff)](#) | `[![Hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff)](#)` |
 | [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) ` |
 | [![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) | `[![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) ` |
 | [![MkDocs](https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) | `[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) ` |
-| [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)](#) ` |
-| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-green?logo=nuxt.js)](#) ` |
+| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)` |
 | [![Pelican](https://img.shields.io/badge/Pelican-blue?logo=pelican)](#) | `[![Pelican](https://img.shields.io/badge/Pelican-blue?logo=pelican)](#) ` |
 
 <div align="center">
