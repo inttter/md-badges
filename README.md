@@ -186,7 +186,6 @@
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) | `[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)` |
 | [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)](#) | `[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)](#)` |
 | [![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](#) | `[![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](#)` |
-| [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#) | `[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#)` |
 | [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#) | `[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)` |
 | [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) | `[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)` |
 | [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)` |
