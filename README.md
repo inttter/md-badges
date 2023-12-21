@@ -180,24 +180,24 @@
 | [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#) | `[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)` |
 | [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](#) | `[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](#)` |
 | [![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)](#) | `[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?logo=microsoftazure&logoColor=white)](#)` |
-| [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-blue?logo=azure-devops)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-blue?logo=azure-devops)](#)` |
+| [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff)](#) | `[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=fff)](#)` |
 | [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#) | `[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)` |
 | [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) | `[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)` |
-| [![Docker](https://img.shields.io/badge/Docker-darkblue?logo=docker)](#) | `[![Docker](https://img.shields.io/badge/Docker-darkblue?logo=docker)](#)` |
+| [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) | `[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)` |
 | [![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)](#) | `[![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase)](#)` |
 | [![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](#) | `[![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?logo=github&logoColor=white)](#)` |
 | [![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#) | `[![GitLab](https://img.shields.io/badge/GitLab-orange?logo=gitlab)](#)` |
-| [![Glitch](https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white)](#) | `[![Glitch](https://img.shields.io/badge/Glitch-2800ff?logo=glitch&logoColor=white)](#)` |
+| [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#) | `[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)` |
 | [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) | `[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)` |
-| [![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&logoColor=white)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-purple?logo=heroku)](#)` |
-| [![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue?logo=ibm-cloud)](#) | `[![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-blue?logo=ibm-cloud)](#)` |
-| [![Jenkins](https://img.shields.io/badge/Jenkins-darkred?logo=jenkins)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-darkred?logo=jenkins)](#)` |
-| [![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?logo=kubernetes)](#)` |
+| [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)` |
+| [![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?logo=ibmcloud&logoColor=fff)](#) | `[![IBM Cloud](https://img.shields.io/badge/IBM%20Cloud-1261FE?logo=ibmcloud&logoColor=fff)](#)` |
+| [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#) | `[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff)](#)` |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#)` |
 | [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#) | `[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#` |
 | [![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#) | `[![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#)` |
 | [![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#) | `[![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)` |
-| [![SAP](https://img.shields.io/badge/SAP-blue?logo=sap)](#) | `[![SAP](https://img.shields.io/badge/SAP-blue?logo=sap)](#)` |
-| [![Salesforce](https://img.shields.io/badge/Salesforce-blue?logo=salesforce)](#) | `[![Salesforce](https://img.shields.io/badge/Salesforce-blue?logo=salesforce)](#)` |
+| [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) | `[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)` |
+| [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)](#) | `[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff&style=for-the-badge)](#)` |
 | [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) | `[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)` |
 
 <div align="center">
@@ -227,10 +227,10 @@
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
-| [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) | `[![Jira Badge](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)` |
+| [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) | `[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)` |
 | [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)](#) | `[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)]` |
 | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
-| [![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#) | `[![Trello](https://img.shields.io/badge/Trello-blue?logo=trello)](#)` |
+| [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) | `[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)` |
 
 <div align="center">
 
@@ -261,22 +261,22 @@
 ### ⛈️ Databases:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-red?logo=arangodb&logoColor=white)](#)` |
+| [![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=000)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=000)](#)` |
 | [![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#) | `[![Cassandra](https://img.shields.io/badge/Cassandra-%231287B1.svg?logo=apache-cassandra&logoColor=white)](#)` |
 | [![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=white)](#) | `[![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?logo=couchbase&logoColor=white)](#)` |
-| [![DynamoDB](https://img.shields.io/badge/DynamoDB-orange?logo=amazon-dynamodb&logoColor=white)](#) | `[![DynamoDB](https://img.shields.io/badge/DynamoDB-orange?logo=amazon-dynamodb&logoColor=white)](#)` |
+| [![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#) | `[![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)](#)` |
 | [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) | `[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)` |
-| [![InfluxDB](https://img.shields.io/badge/InfluxDB-blue?logo=influxdb&logoColor=white)](#) | `[![InfluxDB](https://img.shields.io/badge/InfluxDB-blue?logo=influxdb&logoColor=white)](#)` |
+| [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#) | `[![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff)](#)` |
 | [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#) | `[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)` |
 | [![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)](#) | `[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white)](#)` |
 | [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#) | `[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)` |
 | [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)](#) | `[![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)](#)` |
 | [![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#) | `[![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?logo=neo4j&logoColor=white)](#)` |
-| [![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)](#) | `[![Oracle](https://img.shields.io/badge/Oracle-red?logo=oracle&logoColor=white)](#)` |
+| [![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#) | `[![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)` |
 | [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) | `[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)` |
 | [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#) | `[![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)` |
 | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) | `[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)` |
-| [![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#) | `[![Teradata](https://img.shields.io/badge/Teradata-orange?logo=teradata&logoColor=white)](#)` |
+| [![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#) | `[[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)` |
 
 <div align="center">
 
@@ -370,13 +370,13 @@
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
-| [![Backbone.js](https://img.shields.io/badge/Backbone.js-blue?logo=backbone.js)](#) | `[![Backbone.js](https://img.shields.io/badge/Backbone.js-blue?logo=backbone.js)](#)` |
+| [![Backbone.js](https://img.shields.io/badge/Backbone.js-0071B5?logo=backbonedotjs&logoColor=fff)](#) | `[![Backbone.js](https://img.shields.io/badge/Backbone.js-0071B5?logo=backbonedotjs&logoColor=fff)](#)` |
 | [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) | `[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)` |
 | [![Ember](https://img.shields.io/badge/Ember.js-1C1E24?logo=ember.js&logoColor=#D04A37)](#) | `[![Ember](https://img.shields.io/badge/Ember.js-1C1E24?logo=ember.js&logoColor=#D04A37)](#)` |
 | [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) | `[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](#)` |
-| [![Helm](https://img.shields.io/badge/Helm-purple?logo=helm)](#) | `[![Helm](https://img.shields.io/badge/Helm-purple?logo=helm)](#)` |
-| [![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?logo=kubernetes)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-darkblue?logo=kubernetes)](#)` |
+| [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#) | `[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)` |
+| [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#` |
 | [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) | `[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)` |
 | [![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#) | `[![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#)` |
 | [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)` |
@@ -385,10 +385,10 @@
 | [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) | `[![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)` |
 | [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | `[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)` |
 | [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | `[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)` |
-| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?logo=spring-boot)](#) | `[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-darkgreen?logo=spring-boot)](#)` |
+| [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) | `[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)` |
 | [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#) | `[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)` |
 | [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#) | `[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)` |
-| [![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)](#)` |
+| [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
 
 <div align="center">
 
@@ -401,7 +401,7 @@
 |---------|---------------|
 | [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff&style=flat)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)]` |
 | [![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&style=flat)](#) | `[![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&style=flat)](#)` |
-| [![CryEngine](https://img.shields.io/badge/CryEngine-grey?logo=cryengine)](#) | `[![CryEngine](https://img.shields.io/badge/CryEngine-grey?logo=cryengine)](#)` |
+| [![CryEngine](https://img.shields.io/badge/CryEngine-000?logo=cryengine&logoColor=fff)](#) | `[![CryEngine](https://img.shields.io/badge/CryEngine-000?logo=cryengine&logoColor=fff)](#)` |
 | [![Gamemaker Badge](https://img.shields.io/badge/Gamemaker-000?logo=gamemaker&logoColor=fff&style=flat)](#) | `[![Gamemaker](https://img.shields.io/badge/Gamemaker-000?logo=gamemaker&logoColor=fff&style=flat)](#)` |
 | [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#) | `[![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)` |
 | [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) | `[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)` |
@@ -419,12 +419,12 @@
 | [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
 | [![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#) | `[![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#)` |
 | [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#) | `[![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#)` |
-| [![GOG.com](https://img.shields.io/badge/GOG.com-purple?logo=gog.com)](#) | `[![GOG.com](https://img.shields.io/badge/GOG.com-purple?logo=gog.com)](#)` |
+| [![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#) | `[![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#)` |
 | [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#) | `[![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#)` |
 | [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#) | `[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)` |
 | [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-005FB8?logo=microsoftstore&logoColor=fff)](#) | `[![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-005FB8?logo=microsoftstore&logoColor=fff)](#)` |
 | [![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-FF7D00?logo=nintendoswitch&logoColor=fff)](#) | `[![Nintendo eShop](https://img.shields.io/badge/Nintendo%20eShop-FF7D00?logo=nintendoswitch&logoColor=fff)](#)` |
-| [![Origin](https://img.shields.io/badge/Origin-black?logo=origin)](#) | `[![Origin](https://img.shields.io/badge/Origin-black?logo=origin)](#)` |
+| [![Origin](https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff)](#) | `[![Origin](https://img.shields.io/badge/Origin-F56C2D?logo=origin&logoColor=fff)](#)` |
 | [![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-%230070D1.svg?logo=Playstation&logoColor=white)](#) | `[![PlayStation Store](https://img.shields.io/badge/PlayStation%20Store-%230070D1.svg?logo=Playstation&logoColor=white)](#)` |
 | [![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?logo=riotgames&logoColor=white)](#) | `[![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936.svg?logo=riotgames&logoColor=white)](#)` |
 | [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#) | `[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](#)` |
@@ -448,8 +448,8 @@
 | [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) | `[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)` |
 | [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#) | `[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](#)` |
 | [![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](#) | `[![PyCharm](https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green)](#)` |
-| [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-yellow?logo=python&logoColor=white)](#) | `[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-yellow?logo=python&logoColor=white)](#)` |
-| [![Replit](https://img.shields.io/badge/Replit-black?logo=replit&logoColor=orange)](#) | `[![Replit](https://img.shields.io/badge/Replit-black?logo=replit&logoColor=orange)](#)` |
+| [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#) | `[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)` |
+| [![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#) | `[![Replit](https://img.shields.io/badge/Replit-F26207?logo=replit&logoColor=fff)](#)` |
 | [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#) | `[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)` |
 | [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) | `[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)` |
 | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
@@ -497,7 +497,7 @@
 | [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#) | `[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)` |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
 | [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#) | `[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)` |
-| [![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-blue?logo=windows)](#)` |
+| [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#)` |
 
 <div align="center">
 
@@ -533,15 +533,16 @@
 |---------|---------------|
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
-| [![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#) | `[![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](#)` |
+| [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)` |
 | [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) | `[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)` |
 | [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#) | `[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)` |
-| [![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-blue?logo=flutter&logoColor=white)](#)` |
+| [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)` |
+| [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) | `[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)` |
 | [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) | `[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)` |
 | [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#) | `[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#)` |
 | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) | `[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)` |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=Javascript&logoColor=%23F7DF1E)](#) | `[![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?logo=Javascript&logoColor=%23F7DF1E)](#)` |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)` |
 | [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) | `[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)` |
 | [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | `[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)` |
 | [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) | `[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)` |
@@ -551,15 +552,14 @@
 | [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#) | `[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)` |
 | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) | `[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)` |
 | [![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](#) | `[![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?logo=powershell&logoColor=white)](#)` |
-| [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](#) | `[![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](#)` |
+| [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | `[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)` |
 | [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) | `[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)` |
 | [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#) | `[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)` |
 | [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) | `[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)` |
-| [![SASS](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)](#) | `[![SASS](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)](#)` |
+| [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) | `[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)` |
 | [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) | `[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)` |
-| [![Shell](https://img.shields.io/badge/Shell-brown?logo=gnu-bash&logoColor=white)](#) | `[![Shell](https://img.shields.io/badge/Shell-brown?logo=gnu-bash&logoColor=white)](#)` |
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white)](#)` |
+| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
 | [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
 
 <div align="center">
@@ -672,16 +672,16 @@
 ### 🫸 Static Site:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-blue?logo=docusaurus)](#)` |
+| [![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)` |
 | [![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](#) | `[![Eleventy](https://img.shields.io/badge/Eleventy-black?logo=eleventy)](#) ` |
 | [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#) | `[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#)` |
 | [![Gridsome](https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=fff)](#) | `[![Gridsome](https://img.shields.io/badge/Gridsome-00A672?logo=gridsome&logoColor=fff)](#)` |
 | [![Hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff)](#) | `[![Hexo](https://img.shields.io/badge/Hexo-0E83CD?logo=hexo&logoColor=fff)](#)` |
 | [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) ` |
-| [![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) | `[![Jekyll](https://img.shields.io/badge/Jekyll-black?logo=jekyll)](#) ` |
+| [![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)](#) | `[![Jekyll](https://img.shields.io/badge/Jekyll-C00?logo=jekyll&logoColor=fff)](#)` |
 | [![MkDocs](https://img.shields.io/badge/MKDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) | `[![MkDocs](https://img.shields.io/badge/MkDocs-526CFE?logo=materialformkdocs&logoColor=fff)](#) ` |
 | [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)` |
-| [![Pelican](https://img.shields.io/badge/Pelican-blue?logo=pelican)](#) | `[![Pelican](https://img.shields.io/badge/Pelican-blue?logo=pelican)](#) ` |
+| [![Pelican](https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff)](#) | `[![Pelican](https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff)](#)` |
 
 <div align="center">
 
@@ -706,6 +706,9 @@
 </div>
 
 ### ⌚ Version Control:
+
+<!-- I swear this is in alphabetical order. !-->
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Example Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)](#) | `![Example Workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)` |
@@ -763,19 +766,19 @@
 | [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) | `[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)` |
 | [![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](#) | `[![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&logoColor=white)](#)` |
 | [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#) | `[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#)` |
-| [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)](#)` |
+| [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)` |
 | [![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)](#) | `[![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&logoColor=white)](#)` |
 | [![Less](https://img.shields.io/badge/Less-2B4C80?logo=less&logoColor=white)](#) | `[![Less](https://img.shields.io/badge/Less-2B4C80?logo=less&logoColor=white)](#)` |
 | [![Next JS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) | `[![Next JS](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)` |
 | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) | `[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)](#)` |
-| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-002E3B?logo=nuxtdotjs&logoColor=#00DC82)](#)` |
+| [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)` |
 | [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | `[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)` |
 | [![Ruby On Rails](https://img.shields.io/badge/Ruby%20On%20Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) | `[![Ruby On Rails](https://img.shields.io/badge/Ruby%20On%20Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)` |
-| [![SASS](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)](#) | `[![SASS](https://img.shields.io/badge/Sass-hotpink.svg?logo=SASS&logoColor=white)](#)` |
+| [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) | `[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)` |
 | [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#) | `[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)` |
 | [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) | `[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)` |
-| [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)]` |
-| [![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&logoColor=%234FC08D)](#)` |
+| [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
+| [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
 
 <div align="center">
 
