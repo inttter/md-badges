@@ -5,20 +5,10 @@ title: ''
 labels: 'bug'
 assignees: 'inttter'
 ---
-
-**Description:**
 <!-- Describe what the inconsistency/bug/etc was. !-->
----
+Description:
 
-**Expected:**
-<!-- What was the expected outcome? !-->
 
----
 
-**Actual Outcome:**
-<!-- What actually happened? !-->
-
----
-
-**Additional Context:**
-<!-- Leave anything else that doesn't fit into the other three categories into this area. !-->
+<!-- Leave anything else in this area. !-->
+Additional Context:
