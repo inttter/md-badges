@@ -8,7 +8,7 @@
 
 <img src="assets/md-badges.png">
 
-[![Official Website](https://img.shields.io/badge/View%20The-Landing%20Page!-19A974.svg?style=for-the-badge)](https://inttter.github.io/md-badges)
+[![Official Website](https://img.shields.io/badge/View%20The%20Landing%20Page-19A974.svg?style=for-the-badge)](https://inttter.github.io/md-badges) ![View On GitBook](https://img.shields.io/badge/View%20This%20On%20GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
