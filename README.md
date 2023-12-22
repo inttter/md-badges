@@ -39,6 +39,7 @@
 
 ### 📃 Table Of Contents 
 
+- [App Stores](#-app-stores)
 - [Artificial Intelligence](#-artificial-intelligence)
 - [Blog](#-blog)
 - [Browsers](#-browsers)
@@ -70,6 +71,7 @@
 - [Version Control](#-version-control)
 - [Virtual Reality](#-virtual-reality)
 - [Web Technologies](#-web-technologies)
+- [Work/Jobs](#-work-and-jobs)
 - [Website Status](#-website-status)
 
 > [!TIP]
@@ -786,6 +788,24 @@
 | [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) | `[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
 | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 💼 Work and Jobs:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#) | `[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#))` |
+| [![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)](#) | `[![Glassdoor](https://img.shields.io/badge/Glassdoor-0CAA41?logo=glassdoor&logoColor=fff)](#)` |
+| [![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#) | `[![Indeed](https://img.shields.io/badge/Indeed-003A9B?logo=indeed&logoColor=fff)](#)` |
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#) | `[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](#)` |
+| [![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#) | `[![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#)` |
+| [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#) | `[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)` |
+
+
 
 <div align="center">
 
