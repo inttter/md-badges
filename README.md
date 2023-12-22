@@ -77,6 +77,14 @@
 >
 > Alternateively, use the Table Of Contents above to look for your badge.
 
+### 🛒 App Stores:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
+| [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
+
+
+
 ### 🤖 Artificial Intelligence:
 | Preview | Markdown Code |
 |---------|---------------|
