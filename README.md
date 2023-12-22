@@ -113,6 +113,7 @@
 | [![Ghost](https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow)](#) | `[![Ghost](https://img.shields.io/badge/Ghost-000?logo=ghost&logoColor=yellow)](#)` |
 | [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#) | `[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white)](#)` |
 | [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](#)` |
+| [![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](#) | `[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=fff)](#)` |
 | [![RSS](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white)](#) | `[![RSS](https://img.shields.io/badge/RSS-FFA500?logo=rss&logoColor=white)](#)` |
 | [![Squarespace](https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff)](#) | `[![Squarespace](https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=fff)](#)` |
 | [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#) | `[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#)` |
