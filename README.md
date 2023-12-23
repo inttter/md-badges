@@ -1,28 +1,14 @@
 <div align="center">
 
-<img src="assets/example-badges.png" alt="big badges :0" width="450">
-
-</div>
-
-<div align="center">
-
 <img src="assets/md-badges.png"> 
 
-[![Official Website](https://img.shields.io/badge/View%20The%20Landing%20Page-19A974.svg?style=for-the-badge)](https://inttter.github.io/md-badges) [![View On GitBook](https://img.shields.io/badge/View%20This%20On%20GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)](https://md-badges.gitbook.io/md-badges)
+## ✨ The definitive badge list for your projects. ✨
+
+[![View On GitBook](https://img.shields.io/badge/View%20This%20On%20GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)](https://md-badges.gitbook.io/md-badges)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub last commit](https://img.shields.io/github/last-commit/inttter/md-badges.svg)](https://github.com/inttter/md-badges/commits/main)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
-[![Badge](https://5c1xb6y1j7zs.runkit.sh)](https://git.io/gradientbadge)
-
-</div>
-
-<div align="center">
-
-[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/intter) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
-
-## ✨ The definitive badge list for your projects. ✨
 
 </div>
 
@@ -850,9 +836,11 @@
 [⬆️ Return back to top ⬆️](#-table-of-contents)
 
 ----------------------------------------
-### ©️ Licensed under the MIT License.
+<h3>©️ • Licensed under the <a href="https://github.com/inttter/md-badges/blob/main/LICENSE">MIT License.
 
-See [LICENSE](LICENSE) for more details.
+<br>
+
+
+[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/intter) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&style=for-the-badge&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
 
 </div>
-
