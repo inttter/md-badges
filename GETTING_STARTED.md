@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="assets/md-badges.png">
 <hr>
 
@@ -7,13 +9,15 @@ There are no extra prerequisites to start using these badges. Simply copy the 'M
 
 Here's an example:
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMQ2PNjxiOlGknJG0UQAJ%2Fuploads%2FSvoE6iNy0teOrlPaWejX%2Fimage.png?alt=media&token=f3fea543-8699-44e2-8730-efcaf2808cc0">
-<div align="center"> Step 1: Copying the Markdown Code
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMQ2PNjxiOlGknJG0UQAJ%2Fuploads%2FSvoE6iNy0teOrlPaWejX%2Fimage.png?alt=media&token=f3fea543-8699-44e2-8730-efcaf2808cc0" alt="Copying" width="550">
+
+    Step 1: Copying the Markdown Code
 <br>
 <br>
 
-<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMQ2PNjxiOlGknJG0UQAJ%2Fuploads%2FQe23lT4SZLeaSJwFx05E%2Fimage.png?alt=media&token=8610925e-c56f-48ff-bee6-64d6ae90075e">
-Step 2: Pasting the Markdow into your file.
+<img src="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FMQ2PNjxiOlGknJG0UQAJ%2Fuploads%2FQe23lT4SZLeaSJwFx05E%2Fimage.png?alt=media&token=8610925e-c56f-48ff-bee6-64d6ae90075e" alt="Pasting" width="550">
+    
+    Step 2: Pasting the Markdow into your file.
 
 <br>
 
