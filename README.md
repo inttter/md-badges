@@ -841,6 +841,7 @@
 <h3>©️ • Licensed under the <a href="https://github.com/inttter/md-badges/blob/main/LICENSE">MIT License.
 
 <br>
+<br>
 
 
 [![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/intter) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&style=for-the-badge&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
