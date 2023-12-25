@@ -1,16 +1,13 @@
 <div align="center">
 
-![logo](assets/md-badges.png)
+<img src="assets/customising.svg" alt="customising" width="500">
 
-# Customising Your Badge 🎨
 
-> [!NOTE]
-> Please note that all of these badges use `flat` style badges for their examples.
->
-> Different styles may use different methods.
->
-> Want to change the style of the button? Please see [STYLES.md](STYLES.md) for documentation.
+⚠️ Please note that all of these badges use `flat` style badges for their examples. 
 
+Want to change the style of the button? Please see [Styles](STYLES.md) for documentation.
+
+---
 
 When using Shield.io badges in Markdown, you can modify various aspects such as badge color, text, logos, and styles.
 

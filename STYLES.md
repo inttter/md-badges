@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/styles.svg" alt="Styles" width="500" height="200"> 
+
 # ⛩️ Types of Badges ⛩️
 
 [shield.io](https://github.com/badges/shields) has 5 different styles of buttons, including:

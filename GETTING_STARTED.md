@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="assets/md-badges.png">
-<hr>
-
-# ❔ Getting Started:
+<img src="assets/getting-started.svg" width="450">
 
 There are no extra prerequisites to start using these badges. Simply copy the 'Markdown Code' of the badge that you'd like an paste it into your Markdown file.
 
