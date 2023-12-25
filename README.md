@@ -10,7 +10,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
 
-[❔getting started](GETTING_STARTED.md) | [🔱 badges](README.md) | [🎨 customising](CUSTOMISING.md) | [🖌️ styles](STYLES.md) | [🤝 contributing](CONTRIBUTING.md) | [🧑‍⚖️ code of conduct](CODE_OF_CONDUCT.md)
+[❔getting started](GETTING_STARTED.md) • [🔱 badges](README.md) • [🎨 customising](CUSTOMISING.md) • [🖌️ styles](STYLES.md) • [🤝 contributing](CONTRIBUTING.md) • [🧑‍⚖️ code of conduct](CODE_OF_CONDUCT.md)
 
 </div>
 
