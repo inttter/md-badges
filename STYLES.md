@@ -16,7 +16,7 @@
 
 This project uses **Flat** badges for the sake of simplicity, similar to how [markdown-badges](https://github.com/Ileriayo/markdown-badges) uses **For The Badge** badges for theirs.
 
-If you want to change the style of your badge, add the following code into your badge:
+If you want to change the style of your badge, add the following code into your badge link:
 
 ## **Plastic:**
 
@@ -40,7 +40,7 @@ If you want to change the style of your badge, add the following code into your 
 
 **Example:** `![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)`
 
-**Result:**:![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)
+**Result:** ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=Twitch&logoColor=white)
 
 
 ## Social
