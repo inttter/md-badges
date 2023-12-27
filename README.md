@@ -519,6 +519,10 @@
 | [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#) | `[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)` |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
 | [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#) | `[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)` |
+| [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff)](#) | `[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff)](#)` |
+| [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)](#) | `[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)](#` |
+| [![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=windows95&logoColor=fff)](#) | `[![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=windows95&logoColor=fff)](#)` |
+| [![Windows XP](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff)](#) | `[![Windows XP](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff)](#)` |
 | [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#)` |
 
 <div align="center">
