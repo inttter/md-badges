@@ -512,12 +512,20 @@
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) | `[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)` |
+| [![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000?logo=almalinux&logoColor=fff)](#) | `[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000?logo=almalinux&logoColor=fff)](#)` |
+| [![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#) | `[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)` |
 | [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) | `[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)` |
+| [![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#) | `[![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#)` |
 | [![iOS](https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white)](#) | `[![iOS](https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white)](#)` |
-| [![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)](#) | `[![Kali](https://img.shields.io/badge/Kali-268BEE?logo=kalilinux&logoColor=white)](#)` |
+| [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) | `[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)` |
 | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) | `[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)` |
+| [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#) | `[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)` |
+| [![LinuxServer](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff)](#) | `[![LinuxServer](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff)](#)` |
 | [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#) | `[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)` |
+| [![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff)](#) | `[![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff)](#)` |
+| [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#) | `[![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)` |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
+| [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) | `[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)` |
 | [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#) | `[![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](#)` |
 | [![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff)](#) | `[![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?logo=windows10&logoColor=fff)](#)` |
 | [![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)](#) | `[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?logo=windows11&logoColor=fff)](#` |
