@@ -4,13 +4,11 @@
 
 ## ✨ The definitive badge list for your projects. ✨
 
-[![View On GitBook](https://img.shields.io/badge/View%20This%20On%20GitBook-3884FF?logo=gitbook&logoColor=fff&style=for-the-badge)](https://md-badges.gitbook.io/md-badges)
+[![Documentation](https://img.shields.io/badge/GitBook%20Documentation-3884FF?logo=gitbook&logoColor=fff)](https://md-badges.gitbook.io/md-badges)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
-
-[❔getting started](GETTING_STARTED.md) • [🔱 badges](README.md) • [🎨 customising](CUSTOMISING.md) • [🖌️ styles](STYLES.md) • [🤝 contributing](CONTRIBUTING.md) • [🧑‍⚖️ code of conduct](CODE_OF_CONDUCT.md)
 
 </div>
 
