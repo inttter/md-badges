@@ -1,58 +1,72 @@
-# 🛠️ Contributing to md-badges 🛠️
+# Contributing to md-badges 
 
-Thank you for considering contributing to this project! Whether it's reporting bugs, submitting feature requests, your help is much appreciated.
+Thank you for considering contributing to this project! Your input is valuable, whether you're reporting bugs, suggesting additions, or giving your ideas.
 
-To contribute to this project, please follow the guidelines outlined below:
+However, before you do, **please** read below!
 
-# ✨ Ways to Contribute ✨
-Reporting Bugs: If you encounter any issues or unexpected behavior, please [open an issue](https://github.com/inttter/md-badges/issues).
+# Ways to Contribute 
 
-Feature Requests: For new features or enhancements, please open an issue or a pull request to suggest your ideas.
+### Reporting an issue/inconsistency: 
 
-# 📃 Code Contributions 📃
-Feel free to fork the repository and create a pull request for your proposed changes or fixes. Ensure that the code aligns with the project's standards and guidelines.
+If you encounter anything that doesn't seem right, or that is wrong, please [open an issue](https://github.com/inttter/issues) and select the **"Issue Report"** template.
 
-# 🏁 Getting Started 🏁
+### Adding a badge:
+
+If you'd like to add a badge, please [open an issue](https://github.com/inttter/issues) (if you do not want to add it yourself) or [open a pull request](https://github.com/inttter/pulls) with the following:
+
+* Preview of the badge
+* Code implemented inside of your pull request
+
+# Getting Started
 Before you start contributing, follow these steps:
 
 1. Fork the repository to your GitHub account.
 
-2. Clone the forked repository to your local machine.
+2. Clone the forked repository to your computer via:
 
-3. Create a new branch for your contributions: git checkout -b feature/your-feature.
+    `git clone https://github.com/inttter/md-badges.git`
 
-4. Make your changes and ensure they follow the coding standards and guidelines.
+3. Create a new branch for your contributions: 
 
-5. Commit your changes: git commit -m '{insert a commit message here}'.
+    `git branch {name goes here}`
+    
+    `git checkout {name goes here}` 
 
-6. Push to your branch: git push origin feature/{name}.
+4. Make your changes.
 
-7. Create a pull request to the main repository.
+5. Commit your changes: 
+    
+    `git commit -m '{insert a commit message here}'`
 
-# 📕 Pull Request Guidelines 📕
+6. Push to your branch: 
 
-### Pull Request Guidelines
+    `git push origin {branch name}`
 
-Please ensure your pull request adheres to the following guidelines:
+7. Publish your branch (in Visual Studio Code, you can click "Publish Branch" in Source Control after commiting the changes)
 
-- Make sure your badge isn't a duplicate.
+8. Create a pull request to the main repository.
 
-- They should be added in the correct category.
-  
-- If it fits into none of the categories already there, you are welcome to create a new category.
-   - Make sure the category + badge is placed in the correct alphabetical order.
+ℹ️ • These same steps can also be done via Visual Studio Code.
 
-- Make sure your links work.
+# Pull Request Guidelines
 
-- Use the same format as already used in the code:
+Please ensure that you:
 
-> existing content...
+* Check to see that your badge isn't a duplicate
+
+* Add the badges into the correct category
+    * If your badge doesn't fit any of the current categories, you can create a new one.
+       
+       * Make sure it is an appropiate name (ie. Games Consoles is allowed, Playstation Consoles isn't.)
+
+* Check if your badges appear properly
+    * If not, see the [troubleshooting documentation](https://docs.inttter.com/contribution/troubleshooting) for various fixes.
+
+* Use the same format as the other badges:
 
 | Preview | Markdown Code |
 |---------|---------------|
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) | `[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)`
+| [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) | `[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)` |
 
-**(essentially duplicating the Preview/Markdown code into two sections, one without the ` and one with it)**
-
-# ⚖️ License ⚖️
-By contributing to this project, you agree that your contributions will be licensed under the [LICENSE](LICENSE) file.
+# License 
+By contributing, you agree that your contributions will be licensed under the MIT License, which you can view [here](LICENSE).
