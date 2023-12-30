@@ -57,7 +57,7 @@ Please ensure that you:
 * Add the badges into the correct category
     * If your badge doesn't fit any of the current categories, you can create a new one.
        
-       * Make sure it is an appropiate name (ie. Games Consoles is allowed, Playstation Consoles isn't.)
+       * Make sure it is an appropriate name (ie. Games Consoles is allowed, Playstation Consoles isn't.)
 
 * Check if your badges appear properly
     * If not, see the [troubleshooting documentation](https://docs.inttter.com/contribution/troubleshooting) for various fixes.
