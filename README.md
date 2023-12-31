@@ -46,6 +46,7 @@
 - [IDE/Code Editors](#-idecode-editors)
 - [Office](#-office)
 - [Operating Systems](#%EF%B8%8F-operating-systems)
+- [Package Managers](#-package-managers)
 - [Payment](#-payment)
 - [Programming Languages](#-programming-languages)
 - [Restaurants/Delivery](#-restaurantsdelivery)
@@ -530,6 +531,27 @@
 | [![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=windows95&logoColor=fff)](#) | `[![Windows 95](https://img.shields.io/badge/Windows%2095-008080?logo=windows95&logoColor=fff)](#)` |
 | [![Windows XP](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff)](#) | `[![Windows XP](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff)](#)` |
 | [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#)` |
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
+### 📦 Package Managers:
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#) | `[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)` |
+| [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#) | `[![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff)](#)` |
+| [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#) | `[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)` |
+| [![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#) | `[![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)](#)` |
+| [![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#) | `[![Nix](https://img.shields.io/badge/Nix-5277C3?logo=nixos&logoColor=fff)](#)` |
+| [![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#) | `[![NuGet](https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=fff)](#)` |
+| [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) | `[[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)` |
+| [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#) | `[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)` |
+| [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#) | `[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)` |
+| [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
+
 
 <div align="center">
 
