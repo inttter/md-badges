@@ -848,7 +848,9 @@
 [⬆️ Return back to top ⬆️](#-table-of-contents)
 
 ----------------------------------------
-<h3>©️ • Licensed under the <a href="https://github.com/inttter/md-badges/blob/main/LICENSE">MIT License.
+### ©️ • Licensed under the [MIT License](https://github.com/inttter/md-badges/blob/main/LICENSE).
+
+### ©️ • Shields.io is licensed under the [CC0-1.0 License](https://github.com/badges/shields/blob/master/LICENSE).
 
 <br>
 <br>
