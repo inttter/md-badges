@@ -62,9 +62,9 @@
 - [Website Status](#-website-status)
 
 > [!TIP]
-> Use `Ctrl + F` to find a the badge you are looking for quickly.
+> Use <kbd>Ctrl</kbd> <kbd>+</kbd> <kbd>F</kbd> or <kbd>⌘</kbd> <kbd>+</kbd> <kbd>F</kbd> to find a the badge you are looking for quickly.
 >
-> Alternatively, use the Table Of Contents above to look for your badge.
+> Alternatively, use the **Table Of Contents** above to look for your badge.
 
 ### 🛒 App Stores:
 | Preview | Markdown Code |
