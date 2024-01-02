@@ -485,8 +485,6 @@
 
 ### 🏢 Office:
 
-<!-- this is honestly just the full stack of microsoft 365 lol, i mean what else am i meant to put in 'office' ??? !-->
-
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](#) | `[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](#)` |
@@ -587,14 +585,15 @@
 |---------|---------------|
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
-| [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#)` |
+| [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)` |
 | [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) | `[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)` |
 | [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#) | `[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)` |
 | [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) | `[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)` |
 | [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) | `[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)` |
-| [![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#) | `[![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](#)` |
+| [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) | `[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)` |
+| [![HTMX](https://img.shields.io/badge/%3C/%3E%20HTMX-3D72D7?logo=mysl&logoColor=white)](#) | `[![HTMX](https://img.shields.io/badge/%3C/%3E%20HTMX-3D72D7?logo=mysl&logoColor=white)](#)` |
 | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) | `[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)` |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)` |
 | [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) | `[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)` |
@@ -660,6 +659,7 @@
 ### 📱 Social Medias:
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#) | `[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#)` |
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#)` |
 | [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
 | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#) | `[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)` |
