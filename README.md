@@ -870,6 +870,11 @@
 [⬆️ Return back to top ⬆️](#-table-of-contents)
 
 ----------------------------------------
+
+## Contributors:
+
+[![Contributors Display](https://badges.pufler.dev/contributors/inttter/md-badges?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+
 ### ©️ • Licensed under the [MIT License](https://github.com/inttter/md-badges/blob/main/LICENSE).
 
 ### ©️ • Shields.io is licensed under the [CC0-1.0 License](https://github.com/badges/shields/blob/master/LICENSE).
