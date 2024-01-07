@@ -751,7 +751,7 @@
 | [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#) | `[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)` |
 | [![Hulu](https://img.shields.io/badge/Hulu-1CE783?logo=hulu&logoColor=white)](#) | `[![Hulu](https://img.shields.io/badge/Hulu-1CE783?logo=hulu&logoColor=white)](#)` |
 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
-| [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Hulu](https://img.shields.io/badge/hulu-1CE783?logo=hulu&logoColor=white)](#)` |
+| [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#)` |
 
 <div align="center">
 
