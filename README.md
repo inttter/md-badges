@@ -10,6 +10,8 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
 
+### <a href="#">➔ Check out the NPM package!</a>
+
 </div>
 
 > [!WARNING]
