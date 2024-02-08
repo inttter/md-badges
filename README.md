@@ -113,7 +113,7 @@
 ### 🌐 Browsers:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white) ](#) | `![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)` |
+| [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#) | `[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)` |
 | [![Edge](https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white)](#) | `[![Edge](https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white)](#)` |
 | [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)` |
 | [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) | `[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)` |
