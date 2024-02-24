@@ -4,15 +4,11 @@
 
 </div>
 
-✨ The definitive badge list for your projects. ✨
-
-[![Documentation](https://img.shields.io/badge/GitBook%20Documentation-3884FF?logo=gitbook&logoColor=fff)](https://md-badges.gitbook.io/md-badges)
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
 
-<a href="https://github.com/inttter/mdbadges-cli">➔ Working with the CLI? Check out mdbadges-cli!</a>
+> Working with the terminal? Check out <a href="https://github.com/inttter/mdbadges-cli">mdbadges-cli!</a>.
 
 ### 📃 Table Of Contents 
 
