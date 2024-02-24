@@ -70,6 +70,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#) | `[![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#)` |
 | [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#) | `[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)` |
 | [![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#) | `[![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#)` |
+| [![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovatebot&logoColor=fff)](#) | `[![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovatebot&logoColor=fff)](#)` |
 
 <div align="center">
 
@@ -104,6 +105,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 🌐 Browsers:
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#) | `[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#)` |
 | [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#) | `[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)` |
 | [![Edge](https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white)](#) | `[![Edge](https://img.shields.io/badge/Edge-0078D7?logo=Microsoft-edge&logoColor=white)](#)` |
 | [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)` |
@@ -359,12 +361,17 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 |---------|---------------|
 | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) | `[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)` |
 | [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#) | `[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)` |
+| [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)](#) | `[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)](#)` |
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
 | [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#) | `[![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)` |
+| [![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](#) | `[![Babel](https://img.shields.io/badge/Babel-F9DC3E?logo=babel&logoColor=000)](#)` |
 | [![Backbone.js](https://img.shields.io/badge/Backbone.js-0071B5?logo=backbonedotjs&logoColor=fff)](#) | `[![Backbone.js](https://img.shields.io/badge/Backbone.js-0071B5?logo=backbonedotjs&logoColor=fff)](#)` |
 | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) | `[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)` |
+| [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#) | `[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)` |
 | [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#) | `[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)` |
 | [![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#) | `[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#)` |
+| [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#) | `[![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)` |
+| [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#) | `[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)` |
 | [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) | `[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)` |
 | [![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](#) | `[![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=fff)](#)` |
 | [![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=emberdotjs&logoColor=fff)](#) | `[![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=emberdotjs&logoColor=fff)](#)` |
@@ -378,6 +385,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#` |
 | [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) | `[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)` |
 | [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#) | `[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#)` |
+| [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#) | `[![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#)` |
 | [![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#) | `[![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#)` |
 | [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) | `[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)` |
 | [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#) | `[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)` |
@@ -388,12 +396,15 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | `[![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)` |
 | [![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#) | `[![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff)](#)` |
 | [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) | `[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)` |
+| [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#) | `[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)` |
 | [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) | `[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)` |
 | [![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#) | `[![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#)` |
 | [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#) | `[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)` |
 | [![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#) | `[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)` |
 | [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) | `[![TailwindCSS](https://img.shields.io/badge/Tailwind$20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)` |
+| [![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#) | `[![Tauri](https://img.shields.io/badge/Tauri-24C8D8?logo=tauri&logoColor=fff)](#)` |
 | [![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#) | `[![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)](#` |
+| [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#) | `[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)` |
 | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
 | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
 
@@ -428,6 +439,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
 | [![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#) | `[![EA](https://img.shields.io/badge/EA-%23000000.svg?logo=ea&logoColor=white)](#)` |
 | [![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#) | `[![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?logo=epicgames&logoColor=white)](#)` |
+| [![G2A](https://img.shields.io/badge/G2A-F05F00?logo=g2a&logoColor=fff)](#) | `[![G2A](https://img.shields.io/badge/G2A-F05F00?logo=g2a&logoColor=fff)](#)` |
 | [![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#) | `[![GOG.com](https://img.shields.io/badge/GOG.com-86328A?logo=gogdotcom&logoColor=fff)](#)` |
 | [![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#) | `[![Humble Bundle](https://img.shields.io/badge/Humble%20Bundle-%23494F5C.svg?logo=HumbleBundle&logoColor=white)](#)` |
 | [![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#) | `[![Itch.io](https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white)](#)` |
@@ -464,6 +476,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) | `[![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)` |
 | [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#) | `[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&logo=visual-studio&logoColor=white)](#)` |
 | [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#) | `[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)` |
+| [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#) | ` [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)` |
 | [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#) | `[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)` |
 
 <div align="center">
@@ -502,13 +515,17 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#) | `[![Alpine Linux](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff)](#)` |
 | [![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) | `[![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)` |
 | [![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#) | `[![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#)` |
+| [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) | `[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)` |
+| [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) | `[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)` |
 | [![iOS](https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white)](#) | `[![iOS](https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white)](#)` |
 | [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) | `[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)` |
 | [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) | `[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)` |
 | [![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#) | `[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?logo=linuxmint&logoColor=fff)](#)` |
 | [![LinuxServer](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff)](#) | `[![LinuxServer](https://img.shields.io/badge/LinuxServer-DA3B8A?logo=linuxserver&logoColor=fff)](#)` |
 | [![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#) | `[![macOS](https://img.shields.io/badge/macOS-000000?logo=macos&logoColor=F0F0F0)](#)` |
+| [![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#) | `[![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?logo=manjaro&logoColor=fff)](#)` |
 | [![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff)](#) | `[![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff)](#)` |
+| [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#) | `[![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#)` |
 | [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#) | `[![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)` |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
 | [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) | `[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)` |
@@ -572,6 +589,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 🧑‍💻 Programming Languages:
 | Preview | Markdown Code |
 |---------|---------------|
+| [![C++](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
 | [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)` |
@@ -589,6 +607,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) | `[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)` |
 | [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | `[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)` |
 | [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) | `[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)` |
+| [![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#) | `[![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#)` |
 | [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#) | `[![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)` |
 | [![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#) | `[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)` |
 | [![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#) | `[![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?&logo=apple&logoColor=white)](#)` |
@@ -603,7 +622,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) | `[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)` |
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
-| [![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#) | `[![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?&logo=windows-terminal&logoColor=white)](#)` |
+| [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) | `[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)` |
 
 <div align="center">
 
@@ -667,6 +686,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 📱 Social Medias:
 | Preview | Markdown Code |
 |---------|---------------|
+| [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#) | `[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#)` |
 | [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#) | `[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#)` |
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#)` |
 | [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
@@ -676,12 +696,15 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
 | [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
+| [![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000)](#) | `[![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000)](#)` |
 | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) | `[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)` |
 | [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#) | `[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#)` |
 | [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#) | `[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](#)` |
+| [![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](#) | `[![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](#)` |
 | [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#) | `[![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)` |
 | [![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](#) | `[![Messenger](https://img.shields.io/badge/Messenger-00B2FF?logo=messenger&logoColor=white)](#)` |
 | [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](#) | `[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white)](#)` |
+| [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#) | `[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?logo=myanimelist&logoColor=fff)](#)` |
 | [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#) | `[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](#)` |
 | [![Pixiv](https://img.shields.io/badge/pixiv-%2300ADD8.svg?logo=pixiv&logoColor=white)](#) | `[![Pixiv](https://img.shields.io/badge/pixiv-%2300ADD8.svg?logo=pixiv&logoColor=white)](#)` |
 | [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#) | `[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#)` |
@@ -814,6 +837,8 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 <div align="center">
 
 [⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
 
 ---
 
