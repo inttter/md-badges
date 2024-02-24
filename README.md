@@ -8,7 +8,7 @@
 
 </div>
 
-> Working with the terminal? Check out <a href="https://github.com/inttter/mdbadges-cli">mdbadges-cli!</a>.
+> Working with the terminal? Check out <a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a>.
 
 ### 📃 Table Of Contents 
 
@@ -37,6 +37,7 @@
 - [Payment](#-payment)
 - [Programming Languages](#-programming-languages)
 - [Restaurants/Delivery](#-restaurantsdelivery)
+- [Reviews](#-reviews)
 - [Search Engines](#-search-engines)
 - [Social Medias](#-social-medias)
 - [Sound](#-sound)
@@ -629,6 +630,24 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 
 </div>
 
+### ⭐ Review:
+
+<!-- all types of review platforms can be included here. ie: travel review platforms, food review, etc !-->
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#) | `[![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#)` |
+| [![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?logo=glassdoor&logoColor=fff)](#) | `[![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?logo=glassdoor&logoColor=fff)](#)` |
+| [![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#) | `[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#)` |
+| [![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#) | `[![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#)` |
+
+
+<div align="center">
+
+[⬆️ Return back to top ⬆️](#-table-of-contents)
+
+</div>
+
 ### 🔦 Search Engines:
 | Preview | Markdown Code |
 |---------|---------------|
@@ -783,6 +802,9 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 </div>
 
 ### 🍏 Website Status:
+
+> Make sure you replace the part at the end (`shields.io.svg`) with the website you want to show the status of.
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
