@@ -2,11 +2,11 @@
 
 <img src="assets/md-badges.png">
 
-</div>
-
 [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
+
+</div>
 
 > Working with the terminal? Check out <a href="https://github.com/inttter/mdbadges-cli">mdbadges-cli!</a>.
 
