@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="assets/md-badges.png"> 
+<img src="assets/md-badges.png">
 
-## ✨ The definitive badge list for your projects. ✨
+</div>
+
+✨ The definitive badge list for your projects. ✨
 
 [![Documentation](https://img.shields.io/badge/GitBook%20Documentation-3884FF?logo=gitbook&logoColor=fff)](https://md-badges.gitbook.io/md-badges)
 
@@ -10,15 +12,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
 [![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
 
-### <a href="https://github.com/inttter/mdbadges-cli">➔ Check out the NPM package!</a>
-
-</div>
-
-> [!IMPORTANT]
-> **(#)** is where you enter your URL that you would like the badge to lead to.
-
-> [!TIP]
-> Want to add your own badges?  See [the contributing file](CONTRIBUTING.md) on how to contribute and for pull request guidelines.
+<a href="https://github.com/inttter/mdbadges-cli">➔ Working with the CLI? Check out mdbadges-cli!</a>
 
 ### 📃 Table Of Contents 
 
@@ -56,6 +50,8 @@
 - [Work/Jobs](#-work-and-jobs)
 - [Website Status](#-website-status)
 
+Want to add your own badges or categories? See [here](https://github.com/inttter/md-badges/blob/main/CONTRIBUTING.md).
+
 > [!TIP]
 > Use <kbd>Ctrl</kbd> <kbd>+</kbd> <kbd>F</kbd> or <kbd>⌘</kbd> <kbd>+</kbd> <kbd>F</kbd> to find a the badge you are looking for quickly.
 >
@@ -77,8 +73,6 @@
 | [![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#) | `[![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?logo=dependabot&logoColor=fff)](#)` |
 | [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#) | `[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)` |
 | [![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#) | `[![Google Bard](https://img.shields.io/badge/Google%20Bard-886FBF?logo=googlebard&logoColor=fff)](#)` |
-
-<!-- Bard is Google's new AI tool, competing with ChatGPT. Learn more at https://bard.google.com. !-->
 
 <div align="center">
 
@@ -803,20 +797,8 @@
 
 [⬆️ Return back to top ⬆️](#-table-of-contents)
 
-----------------------------------------
+---
 
 ## Contributors:
 
 [![Contributors Display](https://badges.pufler.dev/contributors/inttter/md-badges?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
-
-### ©️ • Licensed under the [MIT License](https://github.com/inttter/md-badges/blob/main/LICENSE).
-
-### ©️ • Shields.io is licensed under the [CC0-1.0 License](https://github.com/badges/shields/blob/master/LICENSE).
-
-<br>
-<br>
-
-
-[![Donate](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge)](https://www.buymeacoffee.com/intter) [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?logo=ko-fi&logoColor=white&style=for-the-badge)](https://ko-fi.com/intter) [![Github-Sponsors](https://img.shields.io/badge/Sponsor-30363D?&logo=GitHub-Sponsors&style=for-the-badge&logoColor=#EA4AAA)](https://github.com/sponsors/inttter)
-
-</div>
