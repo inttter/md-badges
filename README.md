@@ -419,7 +419,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 🕹️ Game Engines:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)]` |
+| [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#)` |
 | [![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)](#) | `[![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)](#)` |
 | [![CryEngine](https://img.shields.io/badge/CryEngine-000?logo=cryengine&logoColor=fff)](#) | `[![CryEngine](https://img.shields.io/badge/CryEngine-000?logo=cryengine&logoColor=fff)](#)` |
 | [![Gamemaker](https://img.shields.io/badge/Gamemaker-000?logo=gamemaker&logoColor=fff)](#) | `[![Gamemaker](https://img.shields.io/badge/Gamemaker-000?logo=gamemaker&logoColor=fff)](#)` |
@@ -589,7 +589,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 🧑‍💻 Programming Languages:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
+| [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
 | [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)` |
