@@ -589,7 +589,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 🧑‍💻 Programming Languages:
 | Preview | Markdown Code |
 |---------|---------------|
-| [![C++](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
+| [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
 | [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)` |
