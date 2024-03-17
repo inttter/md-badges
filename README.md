@@ -403,7 +403,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff)](#) | `[![Remix](https://img.shields.io/badge/Remix-000?logo=remix&logoColor=fff)](#)` |
 | [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) | `[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)` |
 | [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#) | `[![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)` |
-| [![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff))](#) | `[![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff))](#)` |
+| [![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff)](#) | `[![Solid](https://img.shields.io/badge/Solid-2C4F7C?logo=solid&logoColor=fff)](#)` |
 | [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#) | `[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)` |
 | [![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#) | `[![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#)` |
 | [![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#) | `[![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)](#)` |
