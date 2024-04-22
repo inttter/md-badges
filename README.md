@@ -602,6 +602,7 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 ### 🧑‍💻 Programming Languages:
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
 | [![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)](#)` |
@@ -613,7 +614,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#) | `[![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)` |
 | [![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#) | `[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)` |
-| [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) | `[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)` |
 | [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) | `[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)` |
 | [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) | `[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)` |
@@ -628,7 +628,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#) | `[![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)` |
 | [![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#) | `[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)` |
 | [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#) | `[![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)` |
-| [![Odin](https://img.shields.io/badge/Odin-1F5084?logo=theodinproject&logoColor=fff)](#) | `[![Odin](https://img.shields.io/badge/Odin-1F5084?logo=theodinproject&logoColor=fff)](#)` |
 | [![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#) | `[![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?&logo=apple&logoColor=white)](#)` |
 | [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#) | `[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)` |
 | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) | `[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)` |
