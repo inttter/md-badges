@@ -608,7 +608,11 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) | `[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)` |
 | [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) | `[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)` |
 | [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#) | `[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)` |
+| [![Elm](https://img.shields.io/badge/Elm-1293D8?logo=elm&logoColor=fff)](#) | `[![Elm](https://img.shields.io/badge/Elm-1293D8?logo=elm&logoColor=fff)](#)` |
+| [![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#) | `[![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#)` |
+| [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#) | `[![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)` |
+| [![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#) | `[![Fortran](https://img.shields.io/badge/Fortran-734F96?logo=fortran&logoColor=fff)](#)` |
 | [![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) | `[![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)` |
 | [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) | `[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#)` |
@@ -623,6 +627,8 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#) | `[![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#)` |
 | [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#) | `[![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)` |
 | [![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#) | `[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)` |
+| [![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#) | `[![OCaml](https://img.shields.io/badge/OCaml-EC6813?logo=ocaml&logoColor=fff)](#)` |
+| [![Odin](https://img.shields.io/badge/Odin-1F5084?logo=theodinproject&logoColor=fff)](#) | `[![Odin](https://img.shields.io/badge/Odin-1F5084?logo=theodinproject&logoColor=fff)](#)` |
 | [![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#) | `[![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?&logo=apple&logoColor=white)](#)` |
 | [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#) | `[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)` |
 | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) | `[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)` |
@@ -632,11 +638,14 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#) | `[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)` |
 | [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#) | `[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)` |
 | [![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#) | `[![Sass](https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff)](#)` |
+| [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#) | `[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)` |
 | [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) | `[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)` |
 | [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#) | `[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)` |
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
+| [![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#) | `[![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
 | [![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff)](#) | `[![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff)](#)` |
+| [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#) | `[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#)` |
 | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) | `[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)` |
 | [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) | `[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)` |
 
