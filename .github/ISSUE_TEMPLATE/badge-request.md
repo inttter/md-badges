@@ -5,22 +5,10 @@ title: '[Request]:'
 labels: '📛 badge request'
 ---
 
-## Information
+## Name
 
-<!-- Replace [NAME] with the name of your badge. -->
-<!-- Replace [CATEGORY] with the category your badge goes into. -->
-
-| Name   | Category   |
-|--------|------------|
-| [NAME] | [CATEGORY] |
+<!-- Name of badge goes here -->
 
 ## Description
 
 <!-- Short description of the badge goes here. !-->
-
-## Preview
-
-<!-- Replace both with your badge. -->
-| Preview | Markdown Code |
-|---------|---------------|
-| [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
