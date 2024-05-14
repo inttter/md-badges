@@ -2,10 +2,6 @@
 
 <img src="assets/md-badges.png">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/inttter/md-badges/blob/main/LICENSE)
-[![GitHub closed issues](https://img.shields.io/github/issues-closed/inttter/md-badges.svg)](https://github.com/inttter/md-badges/issues?q=is%3Aissue+is%3Aclosed)
-[![Maintained?](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/inttter/md-badges)
-
 </div>
 
 > Working with the terminal? Check out <a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a>.
@@ -47,20 +43,16 @@
 - [Work/Jobs](#-work-and-jobs)
 - [Website Status](#-website-status)
 
-Want to add your own badges or categories? See [here](https://github.com/inttter/md-badges/blob/main/CONTRIBUTING.md).
+If you want to add your own badge or category, read the contributing guidelines [here](https://github.com/inttter/md-badges/blob/main/CONTRIBUTING.md).
 
 > [!TIP]
-> Use <kbd>Ctrl</kbd> <kbd>+</kbd> <kbd>F</kbd> or <kbd>⌘</kbd> <kbd>+</kbd> <kbd>F</kbd> to find a the badge you are looking for quickly.
->
-> Alternatively, use the **Table Of Contents** above to look for your badge.
+> Use <kbd>Ctrl + F</kbd> or <kbd>⌘ + F</kbd> to find a the badge you are looking for quickly. Alternatively, use the **Table Of Contents** above to look for your badge.
 
 ### 🛒 App Stores:
 | Preview | Markdown Code |
 |---------|---------------|
 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
-
-
 
 ### 🤖 Artificial Intelligence:
 | Preview | Markdown Code |
@@ -94,7 +86,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?logo=tumblr&logoColor=white)](#)` |
 | [![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#) | `[![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#)` |
 | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#) | `[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)` |
-
 
 <div align="center">
 
@@ -152,8 +143,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#) | `[![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)` |
 | [![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#) | `[![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)` |
 | [![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#) | `[![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#)` |
-
-
 
 <div align="center">
 
@@ -335,7 +324,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#) | `[![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)` |
 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#) | `[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)` |
 
-
 <div align="center">
 
 [⬆️ Return back to top ⬆️](#-table-of-contents)
@@ -361,8 +349,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 </div>
 
 ### 🖼️ Frameworks:
-
-<!-- Some of the badges listed here may appear more than once in other categories !-->
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -420,8 +406,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#) | `[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)` |
 | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
 | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
-
-
 
 <div align="center">
 
@@ -570,7 +554,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#) | `[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)` |
 | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
 
-
 <div align="center">
 
 [⬆️ Return back to top ⬆️](#-table-of-contents)
@@ -676,15 +659,12 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 
 ### ⭐ Review:
 
-<!-- all types of review platforms can be included here. ie: travel review platforms, food review, etc !-->
-
 | Preview | Markdown Code |
 |---------|---------------|
 | [![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#) | `[![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#)` |
 | [![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?logo=glassdoor&logoColor=fff)](#) | `[![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?logo=glassdoor&logoColor=fff)](#)` |
 | [![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#) | `[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#)` |
 | [![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#) | `[![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#)` |
-
 
 <div align="center">
 
@@ -700,7 +680,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Bing](https://img.shields.io/badge/Bing-258FFA?logo=microsoftbing&logoColor=fff)](#) | `[![Bing](https://img.shields.io/badge/Bing-258FFA?logo=microsoftbing&logoColor=fff)](#)` |
 | [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#) | `[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#)` |
 | [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#) | `[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)` |
-
 
 <div align="center">
 
@@ -847,8 +826,6 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 | [![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#) | `[![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#)` |
 | [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#) | `[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)` |
 
-
-
 <div align="center">
 
 [⬆️ Return back to top ⬆️](#-table-of-contents)
@@ -857,13 +834,12 @@ Want to add your own badges or categories? See [here](https://github.com/inttter
 
 ### 🍏 Website Status:
 
-> Make sure you replace the part at the end (`shields.io.svg`) with the website you want to show the status of.
+> Make sure you replace the part at the end (shields.io.svg) with the website you want to show the status of.
 
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
 | [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) | `[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)` |
-
 
 <div align="center">
 
