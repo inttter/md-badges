@@ -32,6 +32,8 @@ git checkout -m "✨ feat: [commit message here]"
 git push
 ```
 
+> When writing commit messages, make sure to follow the [Convential Commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines. If you would like, you can use [Gitmoji](https://gitmoji.dev) aswell for commit emojis.
+
 You can now create a [pull request](https://github.com/inttter/md-badges/pulls) to the repository with your changes.
 
 ## Reporting an issue
