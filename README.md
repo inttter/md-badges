@@ -1,60 +1,53 @@
-<div align="center">
+# md-badges [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="assets/md-badges.png">
+An extensive list of static Shields.io badges, sorted by category.
 
-</div>
+## Table Of Contents 
 
-> Working with the terminal? Check out <a href="https://github.com/inttter/mdbadges-cli">**mdbadges-cli**</a>.
+* [App Stores](#-app-stores)
+* [Artificial Intelligence](#-artificial-intelligence)
+* [Blog](#%EF%B8%8F-blog)
+* [Browsers](#-browsers)
+* [CI](#-ci)
+* [Cloud Storage](#%EF%B8%8F-cloud-storage)
+* [Cloud Systems](#%EF%B8%8F-cloud-systems)
+* [Code Coverage](#-code-coverage)
+* [Collaboration Tools](#-collaboration-tools)
+* [Cryptocurrencies](#-cryptocurrencies)
+* [Databases](#%EF%B8%8F-databases)
+* [Design](#-design)
+* [Documentation](#-documentation)
+* [Education](#-education)
+* [Funding](#-funding)
+* [Frameworks](#%EF%B8%8F-frameworks)
+* [Game Engines](#%EF%B8%8F-game-engines)
+* [Gaming Storefronts](#-gaming-storefronts)
+* [IDE/Code Editors](#-idecode-editors)
+* [Office](#-office)
+* [Operating Systems](#%EF%B8%8F-operating-systems)
+* [Package Managers](#-package-managers)
+* [Payment](#-payment)
+* [Programming Languages](#-programming-languages)
+* [Restaurants/Delivery](#%EF%B8%8F-restaurantsdelivery)
+* [Review](#-review)
+* [Search Engines](#-search-engines)
+* [Social Medias](#-social-medias)
+* [Sound](#-sound)
+* [Static Site](#-static-site)
+* [Video Streaming](#-video-streaming)
+* [Virtual Reality](#%EF%B8%8F-virtual-reality)
+* [Work/Jobs](#-work-and-jobs)
+* [Website Status](#-website-status)
 
-### 📃 Table Of Contents 
+> **Tip:** Use <kbd>Ctrl</kbd> <kbd>F</kbd> or <kbd>⌘</kbd> <kbd>F</kbd> to quickly find a badge.
 
-- [App Stores](#-app-stores)
-- [Artificial Intelligence](#-artificial-intelligence)
-- [Blog](#%EF%B8%8F-blog)
-- [Browsers](#-browsers)
-- [CI](#-ci)
-- [Cloud Storage](#%EF%B8%8F-cloud-storage)
-- [Cloud Systems](#%EF%B8%8F-cloud-systems)
-- [Code Coverage](#-code-coverage)
-- [Collaboration Tools](#-collaboration-tools)
-- [Cryptocurrencies](#-cryptocurrencies)
-- [Databases](#%EF%B8%8F-databases)
-- [Design](#-design)
-- [Documentation](#-documentation)
-- [Education](#-education)
-- [Funding](#-funding)
-- [Frameworks](#%EF%B8%8F-frameworks)
-- [Game Engines](#%EF%B8%8F-game-engines)
-- [Gaming Storefronts](#-gaming-storefronts)
-- [IDE/Code Editors](#-idecode-editors)
-- [Office](#-office)
-- [Operating Systems](#%EF%B8%8F-operating-systems)
-- [Package Managers](#-package-managers)
-- [Payment](#-payment)
-- [Programming Languages](#-programming-languages)
-- [Restaurants/Delivery](#%EF%B8%8F-restaurantsdelivery)
-- [Review](#-review)
-- [Search Engines](#-search-engines)
-- [Social Medias](#-social-medias)
-- [Sound](#-sound)
-- [Static Site](#-static-site)
-- [Video Streaming](#-video-streaming)
-- [Virtual Reality](#%EF%B8%8F-virtual-reality)
-- [Work/Jobs](#-work-and-jobs)
-- [Website Status](#-website-status)
-
-If you want to add your own badge or category, read the contributing guidelines [here](https://github.com/inttter/md-badges/blob/main/CONTRIBUTING.md).
-
-> [!TIP]
-> Use <kbd>Ctrl + F</kbd> or <kbd>⌘ + F</kbd> to find a the badge you are looking for quickly. Alternatively, use the **Table Of Contents** above to look for your badge.
-
-### 🛒 App Stores:
+### 🛒 App Stores
 | Preview | Markdown Code |
 |---------|---------------|
 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
 
-### 🤖 Artificial Intelligence:
+### 🤖 Artificial Intelligence
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#) | `[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#)` |
@@ -70,7 +63,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### ✏️ Blog:
+### ✏️ Blog
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#) | `[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#)` |
@@ -93,7 +86,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🌐 Browsers:
+### 🌐 Browsers
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#) | `[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#)` |
@@ -114,7 +107,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🔎 CI:
+### 🔎 CI
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#) | `[![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#)` |
@@ -134,7 +127,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🌫️ Cloud Storage:
+### 🌫️ Cloud Storage
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Box](https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff)](#) | `[![Box](https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff)](#)` |
@@ -150,7 +143,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### ☁️ Cloud Systems:
+### ☁️ Cloud Systems
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#) | `[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)` |
@@ -181,8 +174,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🌋 Code Coverage:  
-
+### 🌋 Code Coverage
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#) | `[![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#)` |
@@ -198,7 +190,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🤝 Collaboration Tools:
+### 🤝 Collaboration Tools
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
@@ -214,7 +206,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🪙 Cryptocurrencies:
+### 🪙 Cryptocurrencies
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) | `[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)` |
@@ -236,7 +228,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### ⛈️ Databases:
+### ⛈️ Databases
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=000)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=000)](#)` |
@@ -263,7 +255,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🎨 Design:
+### 🎨 Design
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665)](#) | `[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665)](#)` |
@@ -290,7 +282,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 📄 Documentation:
+### 📄 Documentation
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Docsify](https://img.shields.io/badge/Docsify-2ECE53?logo=docsify&logoColor=fff)](#) | `[[![Docsify](https://img.shields.io/badge/Docsify-2ECE53?logo=docsify&logoColor=fff)](#)` |
@@ -308,7 +300,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🎓 Education:
+### 🎓 Education
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#) | `[![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)` |
@@ -330,7 +322,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 💸 Funding:
+### 💸 Funding
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alipay](https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff)](#) | `[![Alipay](https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff)](#)` |
@@ -348,8 +340,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🖼️ Frameworks:
-
+### 🖼️ Frameworks
 | Preview | Markdown Code |
 |---------|---------------|
 | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) | `[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)` |
@@ -413,7 +404,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🕹️ Game Engines:
+### 🕹️ Game Engines
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#)` |
@@ -430,7 +421,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🎮 Gaming Storefronts:
+### 🎮 Gaming Storefronts
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
@@ -455,7 +446,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 💻 IDE/Code Editors:
+### 💻 IDE/Code Editors
 | Preview | Markdown Code |
 |---------|---------------|
 | [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) | `[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)` |
@@ -483,8 +474,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🏢 Office:
-
+### 🏢 Office
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](#) | `[![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?logo=microsoft&logoColor=white)](#)` |
@@ -505,7 +495,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🖥️ Operating Systems:
+### 🖥️ Operating Systems
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) | `[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)` |
@@ -540,7 +530,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 📦 Package Managers:
+### 📦 Package Managers
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#) | `[![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)](#)` |
@@ -560,7 +550,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 💳 Payment:
+### 💳 Payment
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#) | `[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)` |
@@ -583,7 +573,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🧑‍💻 Programming Languages:
+### 🧑‍💻 Programming Languages
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
@@ -638,7 +628,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🍽️ Restaurants/Delivery:
+### 🍽️ Restaurants/Delivery
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Burger King](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff)](#) | `[![Burger King](https://img.shields.io/badge/Burger%20King-D62300?logo=burgerking&logoColor=fff)](#)` |
@@ -657,8 +647,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### ⭐ Review:
-
+### ⭐ Review
 | Preview | Markdown Code |
 |---------|---------------|
 | [![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#) | `[![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#)` |
@@ -672,7 +661,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🔦 Search Engines:
+### 🔦 Search Engines
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AOL](https://img.shields.io/badge/AOL-39F?logo=aol&logoColor=fff)](#) | `[![AOL](https://img.shields.io/badge/AOL-39F?logo=aol&logoColor=fff)](#)` |
@@ -687,7 +676,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 📱 Social Medias:
+### 📱 Social Medias
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#) | `[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#)` |
@@ -742,7 +731,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🎧 Sound:
+### 🎧 Sound
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#) | `[![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)` |
@@ -764,7 +753,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🫸 Static Site:
+### 🫸 Static Site
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)` |
@@ -785,7 +774,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 📺 Video Streaming:
+### 📺 Video Streaming
  Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#) | `[![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#)` |
@@ -801,7 +790,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🖲️ Virtual Reality:
+### 🖲️ Virtual Reality
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#) | `[![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#)` |
@@ -816,7 +805,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 💼 Work and Jobs:
+### 💼 Work and Jobs
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#) | `[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#))` |
@@ -832,10 +821,7 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 </div>
 
-### 🍏 Website Status:
-
-> Make sure you replace the part at the end (shields.io.svg) with the website you want to show the status of.
-
+### 🍏 Website Status
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
@@ -849,6 +835,12 @@ If you want to add your own badge or category, read the contributing guidelines 
 
 ---
 
-## Contributors:
+## Contributing
 
-[![Contributors Display](https://badges.pufler.dev/contributors/inttter/md-badges?size=50&padding=5&perRow=10&bots=true)](https://badges.pufler.dev)
+If you want to contribute in any way, such as adding your own badge or category, read the contributing guidelines [here](/CONTRIBUTING.md).
+
+Here is a list of everybody who has contributed to md-badges so far!
+
+<a href="https://github.com/inttter/md-badges/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
+</a>
