@@ -1,0 +1,32 @@
+name: Issue Report
+description: Report something that is bugged or incorrect.
+title: "[Bug]: "
+labels: ["🐛 bug"]
+projects: ["inttter/md-badges"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the issues page [here](https://github.com/inttter/md-badges/issues) to make sure your issue is not a duplicate.
+  - type: dropdown
+    attributes:
+      label: Type of Issue
+      description: Where does this issue occur?
+      options:
+        - Badge Display
+        - Badge Syntax
+        - Formatting
+        - Other
+  - type: textarea
+    attributes:
+      label: Description
+      description: Describe the issue you have and give any additional details.
+      placeholder: The issue is...
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Screenshots/Videos
+      description: If applicable, drag a screenshot or video into this box that shows this issue.
+    validations:
+      required: false

@@ -1,0 +1,30 @@
+name: Badge Request
+description: Request a badge that you would like to see be added to the current badge list.
+title: "[Badge Request]: "
+labels: ["📛 badge request"]
+projects: ["inttter/md-badges"]
+assignees:
+  - inttter
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ⚠️ **Make sure your badge is not a duplicate of one that already exists.** You can check this by searching the badge list using <kbd>Ctrl</kbd> <kbd>F</kbd> or <kbd>⌘</kbd> <kbd>F</kbd> and entering the name of the badge.
+                
+        > If you are looking to add a badge to this repository yourself, view the contributing guidelines [here](https://github.com/inttter/md-badges/blob/main/CONTRIBUTING.md) and make a pull request.
+  - type: input
+    id: name
+    attributes:
+      label: Badge Name
+      description: What is the name of the badge?
+      placeholder: eg. ChatGPT
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Give a bit of detail about the badge, such as a URL to a website.
+      placeholder: This badge is for [NAME], which/who...
+    validations:
+      required: true
