@@ -2,7 +2,7 @@
 
 An extensive list of static Shields.io badges, sorted by category.
 
-## Table Of Contents 
+## Table Of Contents
 
 * [App Stores](#-app-stores)
 * [Artificial Intelligence](#-artificial-intelligence)
@@ -48,6 +48,11 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
 
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 ### 🤖 Artificial Intelligence
 | Preview | Markdown Code |
 |---------|---------------|
@@ -57,10 +62,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) | `[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)` |
 | [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) | `[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### ✏️ Blog
@@ -79,10 +83,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#) | `[![Wix](https://img.shields.io/badge/Wix-%23000000.svg?logo=wix&logoColor=white)](#)` |
 | [![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#) | `[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🌐 Browsers
@@ -100,10 +103,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
 | [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🔎 CI
@@ -123,10 +125,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#) | `[![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#)` |
 | [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#) | `[![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🌫️ Cloud Storage
@@ -139,10 +140,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#) | `[![Microsoft OneDrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4?logo=microsoftonedrive&logoColor=fff)](#)` |
 | [![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#) | `[![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### ☁️ Cloud Systems
@@ -165,10 +165,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff)](#) | `[![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=fff)](#)` |
 | [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) | `[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🌋 Code Coverage
@@ -181,10 +180,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#) | `[![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#)` |
 | [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#) | `[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🤝 Collaboration Tools
@@ -198,10 +196,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack Badge](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
 | [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) | `[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🪙 Cryptocurrencies
@@ -220,10 +217,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=fff)](#) | `[![Stellar](https://img.shields.io/badge/Stellar-7D00FF?logo=stellar&logoColor=fff)](#)` |
 | [![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#) | `[![Tether](https://img.shields.io/badge/Tether-168363?&logo=tether&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### ⛈️ Databases
@@ -247,10 +243,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#) | `[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)` |
 | [![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#) | `[[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🍽️ Delivery
@@ -262,10 +257,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#) | `[![Just Eat](https://img.shields.io/badge/Just%20Eat-F36D00?logo=justeat&logoColor=fff)](#)` |
 | [![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#) | `[![Uber Eats](https://img.shields.io/badge/Uber_Eats-5FB709?logo=uber-eats&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🎨 Design
@@ -289,10 +283,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#) | `[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)` |
 | [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#) | `[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 📄 Documentation
@@ -307,10 +300,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Sphinx](https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff)](#) | `[![Sphinx](https://img.shields.io/badge/Sphinx-000?logo=sphinx&logoColor=fff)](#)` |
 | [![VuePress](https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![VuePress](https://img.shields.io/badge/VuePress-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🎓 Education
@@ -330,10 +322,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#) | `[![Udemy](https://img.shields.io/badge/Udemy-A435F0?logo=udemy&logoColor=fff)](#)` |
 | [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#) | `[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 💸 Funding
@@ -348,10 +339,10 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Patreon](https://img.shields.io/badge/Patreon-F96854?&logo=patreon&logoColor=white)](#) | `[![Patreon](https://img.shields.io/badge/Patreon-F96854?logo=patreon&logoColor=white)](#)` |
 | [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#) | `[![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
+</div>
 </div>
 
 ### 🖼️ Frameworks
@@ -413,10 +404,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
 | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🕹️ Game Engines
@@ -430,10 +420,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#) | `[![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?logo=unrealengine&logoColor=white)](#)` |
 | [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) | `[![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🎮 Gaming Storefronts
@@ -454,10 +443,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#) | `[![Uplay](https://img.shields.io/badge/Uplay-black?logo=ubisoft)](#)` |
 | [![Xbox](https://img.shields.io/badge/Xbox%20Store-%23107C10.svg?logo=xbox&logoColor=white)](#) | `[![Xbox](https://img.shields.io/badge/Xbox%20Store-%23107C10.svg?logo=xbox&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 💻 IDE/Code Editors
@@ -481,10 +469,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#) | ` [![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)` |
 | [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#) | `[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🏢 Office
@@ -501,10 +488,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)](#) | `[![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?logo=microsoftteams&logoColor=fff&)](#)` |
 | [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)](#) | `[![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?logo=microsoft-word&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🖥️ Operating Systems
@@ -536,10 +522,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Windows XP](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff)](#) | `[![Windows XP](https://img.shields.io/badge/Windows%20XP-039?logo=windowsxp&logoColor=fff)](#)` |
 | [![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#) | `[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?logo=windows)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 📦 Package Managers
@@ -558,10 +543,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#) | `[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)` |
 | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 💳 Payment
@@ -580,10 +564,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#) | `[![Visa](https://img.shields.io/badge/Visa-1A1F71?logo=visa&logoColor=fff)](#)` |
 | [![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff)](#) | `[![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?logo=woocommerce&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🧑‍💻 Programming Languages
@@ -635,10 +618,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) | `[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)` |
 | [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) | `[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### ⭐ Review
@@ -649,10 +631,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#) | `[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#)` |
 | [![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#) | `[![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🔦 Search Engines
@@ -664,10 +645,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#) | `[![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)](#)` |
 | [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#) | `[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 📱 Social Medias
@@ -718,10 +698,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) | `[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#)` |
 | [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#) | `[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🎧 Sound
@@ -740,10 +719,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![TuneIn](https://img.shields.io/badge/TuneIn-14D8CC?logo=TuneIn&logoColor=white)](#) | `[![TuneIn](https://img.shields.io/badge/TuneIn-14D8CC?logo=TuneIn&logoColor=white)](#)` |
 | [![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](#) | `[![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?logo=youtube-music&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🫸 Static Site
@@ -761,10 +739,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#) | `[![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?logo=nuxtdotjs&logoColor=fff)](#)` |
 | [![Pelican](https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff)](#) | `[![Pelican](https://img.shields.io/badge/Pelican-14A0C4?logo=pelican&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🔖 Version Control
@@ -775,10 +752,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Perforce](https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=fff)](#) | `[![Perforce](https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=fff)](#)` |
 | [![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#) | `[![Subversion](https://img.shields.io/badge/Subversion-809CC9?logo=subversion&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 📺 Video Streaming
@@ -790,10 +766,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
 | [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🖲️ Virtual Reality
@@ -805,10 +780,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![PlayStation VR](https://img.shields.io/badge/PlayStation%20VR-%23007ACC.svg?logo=playstation&logoColor=white)](#) | `[![PlayStation VR](https://img.shields.io/badge/PlayStation%20VR-%23007ACC.svg?logo=playstation&logoColor=white)](#)` |
 | [![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](#) | `[![SteamVR](https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 💼 Work and Jobs
@@ -821,10 +795,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#) | `[![Monster](https://img.shields.io/badge/Monster-6D4C9F?logo=monster&logoColor=fff)](#)` |
 | [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#) | `[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ### 🍏 Website Status
@@ -833,10 +806,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
 | [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) | `[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)` |
 
-<div align="center">
+<div align="right">
 
-[⬆️ Return back to top ⬆️](#-table-of-contents)
-
+[Back To Top ⬆️](#table-of-contents)
 </div>
 
 ---
