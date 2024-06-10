@@ -38,7 +38,7 @@ You can now create a [pull request](https://github.com/inttter/md-badges/pulls) 
 
 ## Reporting an issue
 
-If you encounter something that is wrong or incorrect, please check to see if the problem is not already an [**open issue**](https://github.com/inttter/issues).
+If you encounter something that is wrong or incorrect, please check to see if the problem is not already an [**open issue**](https://github.com/inttter/md-badges/issues).
 
 If there is no open issue for your problem, [create a new issue](https://github.com/inttter/md-badges/issues/new?assignees=inttter&labels=%F0%9F%93%9B+badge+request&projects=inttter%2Fmd-badges&template=01-badge-request.yml&title=%5BBadge+Request%5D%3A+) using the bug report template. Do your best to fill out each field, preferably in as much detail as possible, if applicable.
 
@@ -67,7 +67,7 @@ The format for inserting badges within a table is as follows:
 
 ## Questions
 
-If you have any inquiries, would like to ask for help, or anything else that does not fit within the available templates, feel free to make a [blank issue](ttps://github.com/inttter/md-badges/issues/new) outside of the templates offered.
+If you have any inquiries, would like to ask for help, or anything else that does not fit within the available templates, feel free to make a [blank issue](https://github.com/inttter/md-badges/issues/new) outside of the templates offered.
 
 ## License
 
