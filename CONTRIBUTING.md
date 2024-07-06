@@ -55,6 +55,7 @@ When you contribute a new badge, make sure that you have checked for the followi
 * Badge is not a **duplicate**
 * Badge is in the **correct category**
 * Badge image appears **without any issues**
+* Badge has a **logo** [(see here)](https://github.com/inttter/mdbadges-cli/blob/main/CONTRIBUTING.md#adding-badges)
 * Badge follows the **same format** of every other badge
 
 The format for inserting badges within a table is as follows:
