@@ -171,6 +171,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Coveralls](https://img.shields.io/badge/Coveralls-3F5767?logo=coveralls&logoColor=fff)](#) | `[![Coveralls](https://img.shields.io/badge/Coveralls-3F5767?logo=coveralls&logoColor=fff)](#)` |
 | [![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#) | `[![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)](#)` |
 | [![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#) | `[![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=fff)](#)` |
+| [![StackHawk](https://img.shields.io/badge/StackHawk-00CBC6?logo=StackHawk&logoColor=fff)](#) | `[![StackHawk](https://img.shields.io/badge/StackHawk-00CBC6?logo=StackHawk&logoColor=fff)](#)` |
+
 
 <div align="right">
 
