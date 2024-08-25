@@ -559,7 +559,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
-| [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) | `[![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)` |
+| [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) | `[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)` |
 | [![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)](#) | `[![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?logo=coffeescript&logoColor=fff)](#)` |
 | [![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff)](#) | `[![Clojure](https://img.shields.io/badge/Clojure-5881D8?logo=clojure&logoColor=fff)](#)` |
 | [![Crystal](https://img.shields.io/badge/Crystal-000?logo=crystal&logoColor=fff)](#) | `[![Crystal](https://img.shields.io/badge/Crystal-000?logo=crystal&logoColor=fff)](#)` |
