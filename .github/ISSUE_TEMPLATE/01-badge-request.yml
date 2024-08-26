@@ -9,20 +9,20 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before submitting this issue, make sure your badge is **not a duplicate** of one that already exists.
+        Before submitting this issue, make sure the badge does not **already exist** in this repository, and make sure it has a **valid** icon on [SimpleIcons](https://simpleicons.org).
   - type: input
     id: name
     attributes:
       label: Badge Name
       description: What is the name of the badge?
-      placeholder: eg. ChatGPT
+      placeholder: eg. React
     validations:
       required: true
   - type: textarea
     id: description
     attributes:
       label: Description
-      description: Give a bit of detail about the badge, such as a URL to a website.
+      description: Give a short description about who/what the badge is for, such as a URL to a website.
       placeholder: This badge is for [NAME], which/who...
     validations:
       required: true
