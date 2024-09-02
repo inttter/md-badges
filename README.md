@@ -747,6 +747,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#) | `[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)` |
 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
 | [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#)` |
+| [![Max](https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff)](#) | `[![Max](https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff)](#)` |
 
 <div align="right">
 
