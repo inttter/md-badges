@@ -35,6 +35,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Static Site](#-static-site)
 * [Streaming](#-streaming)
 * [Version Control](#-version-control)
+* [Terminal Emulator](#-terminal-emulator)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 * [Work/Jobs](#-work-and-jobs)
 * [Website Status](#-website-status)
@@ -767,7 +768,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div> 
 
-### ⌨ Terminal emulator
+###  ⌨ Terminal Emulator
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) | `[![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) ` |
