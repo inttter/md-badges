@@ -34,6 +34,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Sound](#-sound)
 * [Static Site](#-static-site)
 * [Streaming](#-streaming)
+* [Terminal Emulator](#-terminal-emulator)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 * [Work/Jobs](#-work-and-jobs)
@@ -649,13 +650,15 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#) | `[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#)` |
 | [![BeReal](https://img.shields.io/badge/BeReal-000?logo=bereal&logoColor=fff)](#) | `[![BeReal](https://img.shields.io/badge/BeReal-000?logo=bereal&logoColor=fff)](#)` |
 | [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](#) | `[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](#)` |
+| [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#) | `[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#)` |
 | [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#) | `[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](#)` |
-| [![Codeberg Badge](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#) | `[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)` |
+| [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#) | `[![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?logo=codeberg&logoColor=fff)](#)` |
 | [![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#) | `[![DeviantArt](https://img.shields.io/badge/DeviantArt-05CC47?logo=deviantart&logoColor=fff)](#)` |
 | [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#) | `[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](#)` |
 | [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#) | `[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](#)` |
 | [![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#) | `[![Flickr](https://img.shields.io/badge/Flickr-0063DC?logo=flickr&logoColor=fff)](#)` |
 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
+| [![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#) | `[![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#)` |
 | [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)  | `[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
 | [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
@@ -743,8 +746,22 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#) | `[![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#)` |
 | [![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)](#) | `[![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)](#)` |
 | [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#) | `[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)` |
+| [![Max](https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff)](#) | `[![Max](https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff)](#)` |
 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
 | [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+###  ⌨ Terminal Emulator
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) | `[![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) ` |
+| [![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#) | `[![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)` |
+| [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#) | `[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)` |
+| [![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#) | `[![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#)` |
 
 <div align="right">
 
@@ -762,7 +779,7 @@ An extensive list of static Shields.io badges, sorted by category.
 <div align="right">
 
 [Back To Top ⬆️](#table-of-contents)
-</div> 
+</div>
 
 ### 🖲️ Virtual Reality
 | Preview | Markdown Code |
