@@ -34,7 +34,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Sound](#-sound)
 * [Static Site](#-static-site)
 * [Streaming](#-streaming)
-* [Terminal Emulator](#-terminal-emulator)
+* [Terminals](#-terminals)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 * [Work/Jobs](#-work-and-jobs)
@@ -755,11 +755,14 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-###  ⌨ Terminal Emulator
+### ⌨️ Terminals
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) | `[![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) ` |
+| [![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#) | `[![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)` |
+| [![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)](#) | `[![Hyper](https://img.shields.io/badge/Hyper-000000?logo=hyper&logoColor=fff)](#)` |
 | [![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#) | `[![iTerm2](https://img.shields.io/badge/iTerm2-000000?logo=iterm2&logoColor=fff)](#)` |
+| [![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#) | `[![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)](#)` |
 | [![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#) | `[![Warp](https://img.shields.io/badge/Warp-01A4FF?logo=warp&logoColor=fff)](#)` |
 | [![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#) | `[![Wezterm](https://img.shields.io/badge/Wezterm-4E49EE?logo=wezterm&logoColor=fff)](#)` |
 
