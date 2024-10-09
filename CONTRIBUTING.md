@@ -28,7 +28,7 @@ You can now start working locally on the project. When you decide you are ready 
 
 ```bash
 git add .
-git checkout -m "✨ feat: [commit message here]"
+git commit -m "✨ feat: [commit message here]"
 git push
 ```
 
