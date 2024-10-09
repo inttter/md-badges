@@ -370,6 +370,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) | `[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)` |
 | [![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#) | `[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff)](#)` |
 | [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#) | `[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)` |
+| [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) | `[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)` |
 | [![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#) | `[![Electron](https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff)](#)` |
 | [![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=emberdotjs&logoColor=fff)](#) | `[![Ember.js](https://img.shields.io/badge/Ember.js-E04E39?logo=emberdotjs&logoColor=fff)](#)` |
 | [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) | `[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)` |
