@@ -376,6 +376,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#) | `[![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#)` |
 | [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) | `[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)` |
 | [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) | `[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)` |
+| [![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)](#) | `[![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)](#)` |
 | [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#) | `[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#)` |
 | [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#) | `[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)` |
 | [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#) | `[![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#)` |
