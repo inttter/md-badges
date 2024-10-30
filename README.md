@@ -34,15 +34,16 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Sound](#-sound)
 * [Static Site](#-static-site)
 * [Streaming](#-streaming)
-* [Terminals](#-terminals)
+* [Terminals](#%EF%B8%8F-terminals)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 * [Work/Jobs](#-work-and-jobs)
 * [Website Status](#-website-status)
 
-> **Tip:** Use <kbd>Ctrl/⌘+F</kbd> to quickly find a badge.
+> **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
 
 ### 🛒 App Stores
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
@@ -57,6 +58,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🤖 Artificial Intelligence
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#) | `[![Amazon Alexa](https://img.shields.io/badge/Amazon%20Alexa-00CAFF?logo=amazonalexa&logoColor=fff)](#)` |
@@ -72,6 +74,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### ✏️ Blog
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#) | `[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#)` |
@@ -92,6 +95,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🌐 Browsers
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#) | `[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#)` |
@@ -110,6 +114,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🔎 CI
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#) | `[![AppVeyor](https://img.shields.io/badge/AppVeyor-00B3E0?logo=appveyor&logoColor=fff)](#)` |
@@ -132,6 +137,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🌫️ Cloud Storage
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Box](https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff)](#) | `[![Box](https://img.shields.io/badge/Box-0061D5?logo=box&logoColor=fff)](#)` |
@@ -147,6 +153,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### ☁️ Cloud Systems
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#) | `[![Alibaba Cloud](https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?logo=alibabacloud&logoColor=white)](#)` |
@@ -157,6 +164,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) | `[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)` |
 | [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#) | `[![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fffe)](#)` |
 | [![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#) | `[![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7)](#)` |
+| [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) | `[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#)` |
 | [![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#) | `[![Oracle](https://img.shields.io/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)` |
 | [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) | `[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)` |
 | [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) | `[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)` |
@@ -167,6 +175,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🌋 Code Coverage
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#) | `[![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff)](#)` |
@@ -184,6 +193,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🤝 Collaboration Tools
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#) | `[![Asana](https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff)](#)` |
@@ -200,6 +210,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🪙 Cryptocurrencies
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) | `[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)` |
@@ -225,6 +236,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### ⛈️ Databases
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=000)](#) | `[![ArangoDB](https://img.shields.io/badge/ArangoDB-DDE072?logo=arangodb&logoColor=000)](#)` |
@@ -251,6 +263,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🍽️ Delivery
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Deliveroo](https://img.shields.io/badge/Deliveroo-00CCBC?logo=Deliveroo&logoColor=white)](#) | `[![Deliveroo](https://img.shields.io/badge/Deliveroo-00CCBC?logo=Deliveroo&logoColor=white)](#)` |
@@ -265,6 +278,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🎨 Design
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665)](#) | `[![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665)](#)` |
@@ -293,6 +307,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 📄 Documentation
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#) | `[![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)](#)` |
@@ -312,6 +327,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🎓 Education
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#) | `[![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)` |
@@ -335,6 +351,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 💸 Funding
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alipay](https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff)](#) | `[![Alipay](https://img.shields.io/badge/Alipay-1677FF?logo=alipay&logoColor=fff)](#)` |
@@ -352,6 +369,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🖼️ Frameworks
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) | `[[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)` |
@@ -427,6 +445,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🕹️ Game Engines
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#) | `[![Amazon Lumberyard](https://img.shields.io/badge/Amazon%20Lumberyard-66459B?logo=amazonlumberyard&logoColor=fff)](#)` |
@@ -444,6 +463,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🎮 Gaming Storefronts
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#) | `[![Battle.net](https://img.shields.io/badge/Battle.net-%2300AEFF.svg?logo=battle.net&logoColor=white)](#)` |
@@ -465,6 +485,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 💻 IDE/Code Editors
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) | `[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)` |
@@ -496,6 +517,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🖥️ Operating Systems
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000?logo=almalinux&logoColor=fff)](#) | `[![AlmaLinux](https://img.shields.io/badge/AlmaLinux-000?logo=almalinux&logoColor=fff)](#)` |
@@ -527,6 +549,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 📦 Package Managers
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#) | `[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)` |
@@ -548,6 +571,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 💳 Payment
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#) | `[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)` |
@@ -570,6 +594,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🧑‍💻 Programming Languages
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
@@ -626,6 +651,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### ⭐ Review
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#) | `[![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#)` |
@@ -639,6 +665,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🔦 Search Engines
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AOL](https://img.shields.io/badge/AOL-39F?logo=aol&logoColor=fff)](#) | `[![AOL](https://img.shields.io/badge/AOL-39F?logo=aol&logoColor=fff)](#)` |
@@ -652,6 +679,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 📱 Social Medias
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#) | `[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#)` |
@@ -708,6 +736,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🎧 Sound
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#) | `[![Apple Music](https://img.shields.io/badge/Apple%20Music-F34E68?logo=apple%20music&logoColor=white)](#)` |
@@ -728,6 +757,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🫸 Static Site
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#) | `[![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)` |
@@ -748,6 +778,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 📺 Streaming
+
  Preview | Markdown Code |
 |---------|---------------|
 | [![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#) | `[![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-0F79AF?logo=amazonprime&logoColor=white)](#)` |
@@ -763,6 +794,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### ⌨️ Terminals
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) | `[![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff)](#) ` |
@@ -779,6 +811,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🔖 Version Control
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) | `[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)` |
@@ -792,6 +825,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🖲️ Virtual Reality
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#) | `[![ARKit](https://img.shields.io/badge/ARKit-%23000000.svg?logo=apple&logoColor=white)](#)` |
@@ -806,6 +840,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 💼 Work and Jobs
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#) | `[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=fff)](#)` |
@@ -821,6 +856,7 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ### 🍏 Website Status
+
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
@@ -835,13 +871,13 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ## CLI
 
-If you want to find badges from within your terminal, check out [mdbadges-cli](https://github.com/inttter/mdbadges-cli), which has every badge listed under this repository able to be directly accessible from the terminal. It also features multiple commands, such as creating your own badge!
+If you want to find badges from directly within your terminal, check out [mdbadges-cli](https://github.com/inttter/mdbadges-cli), which includes all the badges listed under this repository, and also offers various commands, such as creating custom badges!
 
 ## Contributing
 
-If you want to contribute in any way, such as adding your own badge or category, read the contributing guidelines [here](/CONTRIBUTING.md).
+If you would like to contribute in any way, such as adding a badge or category, then read the contributing guidelines [here](/CONTRIBUTING.md).
 
-Here is a list of everybody who has **contributed** to md-badges so far:
+Here are some people who have contributed to md-badges:
 
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
