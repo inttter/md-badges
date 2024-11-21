@@ -16,7 +16,7 @@ git clone https://github.com/YOUR-USERNAME/md-badges.git
 cd md-badges
 ```
 
-Create a branch to work on your changes by funning these commands:
+Once cloned, create a branch to work on your changes by running these commands:
 
 ```bash
 # Replace '[NAME]' with the name of your branch
@@ -24,7 +24,9 @@ git branch [NAME]
 git checkout [NAME]
 ```
 
-You can now start working locally on the project. When you decide you are ready to to commit your changes and push them to remote, run:
+You can now start working locally on the project. 
+
+When you decide you are ready to commit your changes, and want to push them to remote, run:
 
 ```bash
 git add .
@@ -32,7 +34,7 @@ git commit -m "✨ feat: [commit message here]"
 git push
 ```
 
-> When writing commit messages, make sure to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines. If you would like, you can use [Gitmoji](https://gitmoji.dev) or any other commit emoji spec for commit emojis.
+> While not strictly required, it's recommended to recommended to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines for commit messages. If you would like, you could also use [Gitmoji](https://gitmoji.dev) or any other commit emoji spec.
 
 You can now create a [pull request](https://github.com/inttter/md-badges/pulls) to the repository with your changes.
 
@@ -46,7 +48,7 @@ If there is no open issue for your problem, [create a new issue](https://github.
 
 > Make sure you have permission from whoever or whatever you are making a badge of to add them here.
 
-If you would like to request a badge, please [create a new issue](https://github.com/inttter/md-badges/issues/new?assignees=inttter&labels=%F0%9F%93%9B+badge+request&projects=inttter%2Fmd-badges&template=01-badge-request.yml&title=%5BBadge+Request%5D%3A+) using the badge request template. You **must** out all available fields. This will help to learn more about what you want added and where it would be relevant.
+If you would like to request a badge, please create a new issue using the [badge request](https://github.com/inttter/md-badges/issues/new?assignees=inttter&labels=%F0%9F%93%9B+badge+request&projects=inttter%2Fmd-badges&template=01-badge-request.yml&title=%5BBadge+Request%5D%3A+) template. You **must** out all available fields. This will help to learn more about what you want added and where it would be relevant.
 
 If you would like to add a new badge yourself, you can **contribute** a new badge by submitting a [pull request](https://github.com/inttter/md-badges/pulls) to the repository. 
 
@@ -56,8 +58,8 @@ When you contribute a new badge, make sure that you have checked for the followi
 * Badge is in the **correct category**
 * Badge is listed in the category in **alphabetical order**
 * Badge image appears **without any issues**
-* Badge code works **without any issues**
-* Badge has a **logo**[^1]
+* Badges' Markdown code works **without any issues**
+* Badge has a **valid logo/icon**[^1]
 * Badge follows the **correct format**
 
 If the category that a badge fits into does not exist in the badge list yet, you can create a new category for it. Ensure that the category is also placed in **alphabetical order** within the [Table of Contents](README.md#table-of-contents) and the badge list itself.
@@ -72,10 +74,10 @@ The correct format for inserting badges within a table is as follows:
 
 ## Questions
 
-If you have any inquiries, would like to ask for help, or have anything else that does not fit within the available templates, feel free to make a [blank issue](https://github.com/inttter/md-badges/issues/new) outside of the templates offered.
+If you have any inquiries, would like to ask for help, or have anything else that does not fit within the available templates, feel free to make a [blank issue](https://github.com/inttter/md-badges/issues/new) outside of the templates offered, with the `question` label.
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the **[MIT License](LICENSE)**. Please note that companies, brands, or projects from the badges may have **different licenses**.
+By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE). Companies, brands, or projects from the badges may have **different licenses**.
 
-[^1]: Shields.io uses [SimpleIcons](https://simpleicons.org) to display logo's on badges. In some cases, a logo may not have been added to SimpleIcons, or may have been removed due to other reasons. In both md-badges and mdbadges-cli, **only badges with valid logo's** are allowed to be added. You can try to use [custom-icon-badges](https://custom-icon-badges.demolab.com) to add an image and a slug that you can use for the logo in badge URL's.
+[^1]: To display icons on badges, Shields.io uses [SimpleIcons](https://simpleicons.org). If an icon has not been added to SimpleIcons, you can use a tool like [custom-icon-badges](https://custom-icon-badges.demolab.com) to create or use icons with a custom slug.
