@@ -2,7 +2,7 @@
 
 Thank you for taking the time to contribute to md-badges! Before you do, please take a moment to read through the guidelines and the different ways you can contribute.
 
-> Make sure to follow the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
+> Make sure to follow the [Code of Conduct](CODE_OF_CONDUCT.md) when contributing.
 
 ## Installing locally
 
@@ -34,13 +34,13 @@ git commit -m "✨ feat: [commit message here]"
 git push
 ```
 
-> While not strictly required, it's recommended to recommended to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines for commit messages. If you would like, you could also use [Gitmoji](https://gitmoji.dev) or any other commit emoji spec.
+> While not strictly required, it's recommended to follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) guidelines for commit messages. If you would like, you could also use [Gitmoji](https://gitmoji.dev) or any other commit emoji spec.
 
 You can now create a [pull request](https://github.com/inttter/md-badges/pulls) to the repository with your changes.
 
 ## Reporting an issue
 
-If you encounter something that is wrong or incorrect, please check to see if the problem is not already an [**open issue**](https://github.com/inttter/md-badges/issues).
+If you encounter something that is wrong or incorrect, please check to see if the problem is not already an [open issue](https://github.com/inttter/md-badges/issues).
 
 If there is no open issue for your problem, [create a new issue](https://github.com/inttter/md-badges/issues/new?assignees=&labels=%F0%9F%90%9B+bug&projects=inttter%2Fmd-badges&template=02-issue-report.yml&title=%5BBug%5D%3A+) using the bug report template. Do your best to fill out each field, preferably in as much detail as possible.
 
