@@ -4,41 +4,46 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ## Table Of Contents
 
-* [App Stores](#-app-stores)
-* [Artificial Intelligence](#-artificial-intelligence)
-* [Blog](#%EF%B8%8F-blog)
-* [Browsers](#-browsers)
-* [CI](#-ci)
-* [Cloud Storage](#%EF%B8%8F-cloud-storage)
-* [Cloud Systems](#%EF%B8%8F-cloud-systems)
-* [Code Coverage](#-code-coverage)
-* [Collaboration Tools](#-collaboration-tools)
-* [Cryptocurrencies](#-cryptocurrencies)
-* [Databases](#%EF%B8%8F-databases)
-* [Delivery](#%EF%B8%8F-delivery)
-* [Design](#-design)
-* [Documentation](#-documentation)
-* [Education](#-education)
-* [Funding](#-funding)
-* [Frameworks](#%EF%B8%8F-frameworks)
-* [Game Engines](#%EF%B8%8F-game-engines)
-* [Gaming Storefronts](#-gaming-storefronts)
-* [IDE/Code Editors](#-idecode-editors)
-* [Operating Systems](#%EF%B8%8F-operating-systems)
-* [Package Managers](#-package-managers)
-* [Payment](#-payment)
-* [Programming Languages](#-programming-languages)
-* [Review](#-review)
-* [Search Engines](#-search-engines)
-* [Social Medias](#-social-medias)
-* [Sound](#-sound)
-* [Static Site](#-static-site)
-* [Streaming](#-streaming)
-* [Terminals](#%EF%B8%8F-terminals)
-* [Version Control](#-version-control)
-* [Virtual Reality](#%EF%B8%8F-virtual-reality)
-* [Work/Jobs](#-work-and-jobs)
-* [Website Status](#-website-status)
+- [md-badges ](#md-badges-)
+  - [Table Of Contents](#table-of-contents)
+    - [🛒 App Stores](#-app-stores)
+    - [🤖 Artificial Intelligence](#-artificial-intelligence)
+    - [✏️ Blog](#️-blog)
+    - [🌐 Browsers](#-browsers)
+    - [🔎 CI](#-ci)
+    - [🌫️ Cloud Storage](#️-cloud-storage)
+    - [☁️ Cloud Systems](#️-cloud-systems)
+    - [🌋 Code Coverage](#-code-coverage)
+    - [🤝 Collaboration Tools](#-collaboration-tools)
+    - [🪙 Cryptocurrencies](#-cryptocurrencies)
+    - [⛈️ Databases](#️-databases)
+    - [⛈️ Data processing](#️-data-processing)
+    - [🍽️ Delivery](#️-delivery)
+    - [🎨 Design](#-design)
+    - [📄 Documentation](#-documentation)
+    - [🎓 Education](#-education)
+    - [💸 Funding](#-funding)
+    - [🖼️ Frameworks](#️-frameworks)
+    - [🕹️ Game Engines](#️-game-engines)
+    - [🎮 Gaming Storefronts](#-gaming-storefronts)
+    - [💻 IDE/Code Editors](#-idecode-editors)
+    - [🖥️ Operating Systems](#️-operating-systems)
+    - [📦 Package Managers](#-package-managers)
+    - [💳 Payment](#-payment)
+    - [🧑‍💻 Programming Languages](#-programming-languages)
+    - [⭐ Review](#-review)
+    - [🔦 Search Engines](#-search-engines)
+    - [📱 Social Medias](#-social-medias)
+    - [🎧 Sound](#-sound)
+    - [🫸 Static Site](#-static-site)
+    - [📺 Streaming](#-streaming)
+    - [⌨️ Terminals](#️-terminals)
+    - [🔖 Version Control](#-version-control)
+    - [🖲️ Virtual Reality](#️-virtual-reality)
+    - [💼 Work and Jobs](#-work-and-jobs)
+    - [🍏 Website Status](#-website-status)
+  - [CLI](#cli)
+  - [Contributing](#contributing)
 
 > **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
 
@@ -258,6 +263,20 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) | `[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)` |
 | [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#) | `[![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff)](#)` |
 | [![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#) | `[![Teradata](https://img.shields.io/badge/Teradata-F37440?logo=teradata&logoColor=fff)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### ⛈️ Data processing
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-08055A?logo=etl-logo&logoColor=fff)](#) | `[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-08055A?logo=etl-logo&logoColor=fff)](#)` |
+| [![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-4DABCF?logo=numpy-icon&logoColor=fff)](#) | `[![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-4DABCF?logo=numpy-icon&logoColor=fff)](#)` |
+
+
 
 <div align="right">
 
