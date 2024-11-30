@@ -16,7 +16,7 @@ An extensive list of static Shields.io badges, sorted by category.
     - [🌋 Code Coverage](#-code-coverage)
     - [🤝 Collaboration Tools](#-collaboration-tools)
     - [🪙 Cryptocurrencies](#-cryptocurrencies)
-    - [📊 Data processing](#️-data-processing)
+    - [📊 Data processing](#-data-processing)
     - [📈 Data visualization](#️-data-visualization)
     - [⛈️ Databases](#️-databases)
     - [🍽️ Delivery](#️-delivery)
