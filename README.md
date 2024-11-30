@@ -16,8 +16,9 @@ An extensive list of static Shields.io badges, sorted by category.
     - [🌋 Code Coverage](#-code-coverage)
     - [🤝 Collaboration Tools](#-collaboration-tools)
     - [🪙 Cryptocurrencies](#-cryptocurrencies)
+    - [📊 Data processing](#️-data-processing)
+    - [📈 Data visualization](#️-data-visualization)
     - [⛈️ Databases](#️-databases)
-    - [⛈️ Data processing](#️-data-processing)
     - [🍽️ Delivery](#️-delivery)
     - [🎨 Design](#-design)
     - [📄 Documentation](#-documentation)
@@ -269,14 +270,25 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### ⛈️ Data processing
+### 📊 Data processing
 
 | Preview | Markdown Code |
 |---------|---------------|
-| [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-08055A?logo=etl-logo&logoColor=fff)](#) | `[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-08055A?logo=etl-logo&logoColor=fff)](#)` |
+| [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#) | `[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)` |
 | [![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-4DABCF?logo=numpy-icon&logoColor=fff)](#) | `[![NumPy](https://custom-icon-badges.demolab.com/badge/NumPy-4DABCF?logo=numpy-icon&logoColor=fff)](#)` |
+| [![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) | `[![Pandas](https://custom-icon-badges.demolab.com/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)` |
 
+<div align="right">
 
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### 📊 Data visualization
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib-logo&logoColor=fff)](#) | `[![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib-logo&logoColor=fff)](#)` |
+| [![Chart.js](https://custom-icon-badges.demolab.com/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#) | `[![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib-logo&logoColor=fff)](#)` |
 
 <div align="right">
 
@@ -668,6 +680,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
 | [![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff)](#) | `[![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff)](#)` |
 | [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#) | `[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff)](#)` |
+| [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#) | `[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)` |
 | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) | `[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)` |
 | [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) | `[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)` |
 
@@ -683,12 +696,13 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#) | `[![G2](https://img.shields.io/badge/G2-FF492C?logo=g2&logoColor=fff)](#)` |
 | [![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?logo=glassdoor&logoColor=fff)](#) | `[![Glassdoor](https://img.shields.io/badge/Glassdoor-00A162?logo=glassdoor&logoColor=fff)](#)` |
 | [![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#) | `[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?logo=trustpilot&logoColor=fff)](#)` |
-| [![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#) | `[![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#)` |
+| [![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColor=fff)](#) | `[![Yelp](https://img.shields.io/badge/Yelp-FF1A1A?logo=yelp&logoColo=fff)](#)` |
 
 <div align="right">
 
 [Back To Top ⬆️](#table-of-contents)
 </div>
+
 
 ### 🔦 Search Engines
 
