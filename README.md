@@ -288,7 +288,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib-logo&logoColor=fff)](#) | `[![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib-logo&logoColor=fff)](#)` |
-| [![Chart.js](https://custom-icon-badges.demolab.com/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#) | `[![matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib-logo&logoColor=fff)](#)` |
+| [![Chart.js](https://custom-icon-badges.demolab.com/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#) | `[![Chart.js](h(https://custom-icon-badges.demolab.com/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)` |
 
 <div align="right">
 
