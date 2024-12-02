@@ -16,7 +16,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Cryptocurrencies](#-cryptocurrencies)
 * [Databases](#%EF%B8%8F-databases)
 * [Data Processing](#-data-processing)
-* [Data Visualization](#️-data-visualization)
+* [Data Visualization](#-data-visualization)
 * [Delivery](#%EF%B8%8F-delivery)
 * [Design](#-design)
 * [Documentation](#-documentation)
