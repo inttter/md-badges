@@ -27,6 +27,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Gaming Storefronts](#-gaming-storefronts)
 * [IDE/Code Editors](#-idecode-editors)
 * [Operating Systems](#%EF%B8%8F-operating-systems)
+* [ORM](#%EF%B8%8F-orm)
 * [Package Managers](#-package-managers)
 * [Payment](#-payment)
 * [Programming Languages](#-programming-languages)
@@ -575,6 +576,17 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
 | [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) | `[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)` |
 | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) | `[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### ⚙️ ORM
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#) | `[![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)` |
 
 <div align="right">
 
