@@ -206,6 +206,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) | `[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)` |
 | [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#) | `[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)` |
 | [![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)](#) | `[![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)](#)` |
+| [![Helix](https://img.shields.io/badge/Helix-706bc8?logo=helix&logoColor=fff)](#) | `[![Helix](https://img.shields.io/badge/Helix-706bc8?logo=helix&logoColor=fff)](#)` |
 | [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#) | `[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)` |
 | [![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#) | `[![NetBeans IDE](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)](#)` |
 | [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#) | `[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)` |
