@@ -1,5 +1,5 @@
 name: Issue Report
-description: Report something that is bugged or incorrect.
+description: Report something that is incorrect or not working.
 title: "[Bug]: "
 labels: ["🐛 bug"]
 projects: ["inttter/md-badges"]
@@ -7,19 +7,10 @@ body:
   - type: markdown
     attributes:
       value: |
-        Check the issues page [here](https://github.com/inttter/md-badges/issues) to make sure your issue is not a duplicate.
-  - type: dropdown
-    attributes:
-      label: Type of Issue
-      description: Where does this issue occur?
-      options:
-        - Badge Display
-        - Badge Syntax
-        - Formatting
-        - Other
+        Search for your issue in the [issue listing](https://github.com/inttter/md-badges/issues) to make sure your issue is not a duplicate.
   - type: textarea
     attributes:
-      label: Description
+      label: Description of issue
       description: Describe the issue you have and give any additional details.
       placeholder: The issue is...
     validations:

@@ -1,7 +1,7 @@
 name: Badge Request
-description: Request a badge that you would like to see be added to the current badge list.
+description: Request a badge that you would like to see be added to the badge list.
 title: "[Badge Request]: "
-labels: ["📛 badge request"]
+labels: ["🙏 badge request"]
 projects: ["inttter/md-badges"]
 assignees:
   - inttter
@@ -9,7 +9,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Before submitting this issue, make sure the badge does not **already exist** in this repository, and make sure it has a **valid** icon on [SimpleIcons](https://simpleicons.org).
+        Before submitting this request, make sure the badge does not **already exist** within the current badge list. Preferably, it should also have a **valid** icon on [SimpleIcons](https://simpleicons.org) to simplify the process of adding it to the list.
   - type: input
     id: name
     attributes:
@@ -22,7 +22,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Give a short description about who/what the badge is for, such as a URL to a website.
-      placeholder: This badge is for [NAME], which/who...
+      description: Give a brief description about who/what the badge is for. For example, you can link a URL to a website.
+      placeholder: This badge is for [NAME]...
     validations:
       required: true
