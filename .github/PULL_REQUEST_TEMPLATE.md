@@ -1,16 +1,12 @@
-# Information
+## Information
 
-| Name       | Category   |
-|------------|------------|
-| Name       | Category   |
+<!-- Replace with the relevant information !-->
+* **Name:** [NAME]
+* **Category:** [CATEGORY]
 
-### Description
+## Preview
 
-<!-- Replace this comment with a short description or any other information !-->
-
-# Preview
 <!-- Replace both with the badge being added -->
-
 | Preview | Markdown Code |
 |---------|---------------|
 | [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) | `[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)` |
