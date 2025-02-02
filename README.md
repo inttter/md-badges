@@ -561,6 +561,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) | `[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)` |
 | [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) | `[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)` |
 | [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#) | `[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)` |
+| [![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#)        | `[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#)`        |
 | [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#) | `[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)` |
 | [![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#) | `[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff)](#)` |
 | [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#) | `[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)` |
