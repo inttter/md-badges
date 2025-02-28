@@ -4,47 +4,47 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ## Table Of Contents
 
-* [App Stores](#-app-stores)
+* [App Store](#-app-store)
 * [Artificial Intelligence](#-artificial-intelligence)
 * [Blog](#%EF%B8%8F-blog)
-* [Browsers](#-browsers)
+* [Browser](#-browser)
 * [CI](#-ci)
 * [Cloud Storage](#%EF%B8%8F-cloud-storage)
-* [Cloud Systems](#%EF%B8%8F-cloud-systems)
+* [Cloud System](#%EF%B8%8F-cloud-system)
 * [Code Coverage](#-code-coverage)
-* [Code Editors](#-code-editors)
-* [Collaboration Tools](#-collaboration-tools)
-* [Cryptocurrencies](#-cryptocurrencies)
-* [Databases](#%EF%B8%8F-databases)
+* [Code Editor](#-code-editors)
+* [Collaboration Tool](#-collaboration-tool)
+* [Cryptocurrency](#-cryptocurrency)
+* [Database](#%EF%B8%8F-database)
 * [Data Science](#-data-science)
 * [Delivery](#%EF%B8%8F-delivery)
 * [Design](#-design)
 * [Documentation](#-documentation)
 * [Education](#-education)
 * [Funding](#-funding)
-* [Frameworks](#%EF%B8%8F-frameworks)
-* [Game Engines](#%EF%B8%8F-game-engines)
-* [Gaming Storefronts](#-gaming-storefronts)
-* [Jobs](#-jobs)
-* [Operating Systems](#%EF%B8%8F-operating-systems)
+* [Framework](#%EF%B8%8F-framework)
+* [Game Engine](#%EF%B8%8F-game-engine)
+* [Gaming Storefront](#-gaming-storefront)
+* [Job](#-job)
+* [Operating System](#%EF%B8%8F-operating-system)
 * [ORM](#%EF%B8%8F-orm)
-* [Package Managers](#-package-managers)
+* [Package Manager](#-package-manager)
 * [Payment](#-payment)
-* [Programming Languages](#-programming-languages)
+* [Programming Language](#-programming-language)
 * [Review](#-review)
-* [Search Engines](#-search-engines)
-* [Social Medias](#-social-medias)
+* [Search Engine](#-search-engine)
+* [Social Media](#-social-media)
 * [Sound](#-sound)
 * [Static Site](#-static-site)
 * [Streaming](#-streaming)
-* [Terminals](#%EF%B8%8F-terminals)
+* [Terminal](#%EF%B8%8F-terminal)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 * [Website Status](#-website-status)
 
 > **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
 
-### 🛒 App Stores
+### 🛒 App Store
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -69,6 +69,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#) | `[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)` |
 | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) | `[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)` |
 | [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) | `[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)` |
+| [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) | `[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)` |
 | [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](#) | `[![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](#)` |
 
 <div align="right">
@@ -97,7 +98,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🌐 Browsers
+### 🌐 Browser
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -155,7 +156,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### ☁️ Cloud Systems
+### ☁️ Cloud System
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -197,7 +198,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 💻 Code Editors
+### 💻 Code Editor
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -231,7 +232,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🤝 Collaboration Tools
+### 🤝 Collaboration Tool
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -248,10 +249,11 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🪙 Cryptocurrencies
+### 🪙 Cryptocurrency
 
 | Preview | Markdown Code |
 |---------|---------------|
+| [![AMP](https://img.shields.io/badge/AMP-005AF0?logo=amp&logoColor=fff)](#) | `[![AMP](https://img.shields.io/badge/AMP-005AF0?logo=amp&logoColor=fff)](#)` |
 | [![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#) | `[![Bitcoin](https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white)](#)` |
 | [![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff)](#) | `[![Bitcoin Cash](https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?logo=bitcoincash&logoColor=fff)](#)` |
 | [![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?logo=bitcoinsv&logoColor=fff)](#) | `[![Bitcoin SV](https://img.shields.io/badge/Bitcoin%20SV-EAB300?logo=bitcoinsv&logoColor=fff)](#)` |
@@ -274,7 +276,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### ⛈️ Databases
+### ⛈️ Database
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -344,6 +346,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#) | `[![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)` |
 | [![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#) | `[![Inkscape](https://img.shields.io/badge/Inkscape-000000?logo=Inkscape&logoColor=white)](#)` |
 | [![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#) | `[![Krita](https://img.shields.io/badge/Krita-203759?logo=krita&logoColor=EEF37B)](#)` |
+| [![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#) | `[![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#)` |
 | [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#) | `[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)` |
 | [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#) | `[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)` |
 
@@ -377,6 +380,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#) | `[![Codecademy](https://img.shields.io/badge/Codecademy-%2321759B.svg?logo=codecademy&logoColor=white)](#)` |
+| [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#) | `[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)` |
 | [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#) | `[![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=fff)](#)` |
 | [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#) | `[![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)` |
 | [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#) | `[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)` |
@@ -385,6 +389,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#) | `[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)` |
 | [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#) | `[![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#)` |
 | [![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?logo=pluralsight&logoColor=fff)](#) | `[![Pluralsight](https://img.shields.io/badge/Pluralsight-F15B2A?logo=pluralsight&logoColor=fff)](#)` |
+| [![Skillshare](https://img.shields.io/badge/Skillshare-04BD64?logo=skillshare&logoColor=000)](#) | `[![Skillshare](https://img.shields.io/badge/Skillshare-04BD64?logo=skillshare&logoColor=000)](#)` |
 | [![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#) | `[![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#)` |
 | [![Treehouse](https://img.shields.io/badge/Treehouse-5FCF80?logo=treehouse&logoColor=fff)](#) | `[![Treehouse](https://img.shields.io/badge/Treehouse-5FCF80?logo=treehouse&logoColor=fff)](#)` |
 | [![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#) | `[![Udacity](https://img.shields.io/badge/Udacity-02B3E4?logo=udacity&logoColor=fff)](#)` |
@@ -414,7 +419,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🖼️ Frameworks
+### 🖼️ Framework
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -492,7 +497,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🕹️ Game Engines
+### 🕹️ Game Engine
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -510,7 +515,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🎮 Gaming Storefronts
+### 🎮 Gaming Storefront
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -532,7 +537,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 💼 Jobs
+### 💼 Job
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -548,7 +553,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🖥️ Operating Systems
+### 🖥️ Operating System
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -560,6 +565,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#) | `[![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#)` |
 | [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) | `[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)` |
 | [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) | `[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)` |
+| [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff)](#) | `[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff)](#)` |
 | [![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#) | `[![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff)](#)` |
 | [![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#)        | `[![GNU](https://img.shields.io/badge/GNU-000000?logo=gnu&logoColor=white)](#)`        |
 | [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#) | `[![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)` |
@@ -598,7 +604,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 📦 Package Managers
+### 📦 Package Manager
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -643,10 +649,11 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🧑‍💻 Programming Languages
+### 🧑‍💻 Programming Language
 
 | Preview | Markdown Code |
 |---------|---------------|
+| [![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#) | `[![AssemblyScript](https://img.shields.io/badge/AssemblyScript-007AAC?logo=assemblyscript&logoColor=fff)](#)` |
 | [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) | `[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)` |
 | [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) | `[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)` |
 | [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) | `[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)` |
@@ -730,7 +737,7 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 📱 Social Medias
+### 📱 Social Media
 
 | Preview | Markdown Code |
 |---------|---------------|
@@ -748,10 +755,12 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#) | `[![Gitea](https://img.shields.io/badge/Gitea-6eaa5b?logo=gitea&logoColor=fff)](#)` |
 | [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)  | `[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
+| [![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#) | `[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#)` |
 | [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
 | [![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000)](#) | `[![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000)](#)` |
 | [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#) | `[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](#)` |
+| [![LINE](https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff)](#) | `[![LINE](https://img.shields.io/badge/LINE-00C300?logo=line&logoColor=fff)](#)` |
 | [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#) | `[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](#)` |
 | [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#) | `[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)` |
 | [![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](#) | `[![Matrix](https://img.shields.io/badge/Matrix-000?logo=matrix&logoColor=fff)](#)` |
@@ -764,6 +773,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#) | `[![Proton Mail](https://img.shields.io/badge/Proton%20Mail-6D4AFF?logo=protonmail&logoColor=fff)](#)` |
 | [![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff)](#) | `[![Quora](https://img.shields.io/badge/Quora-B92B27?logo=quora&logoColor=fff)](#)` |
 | [![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#) | `[![Reddit](https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white)](#)` |
+| [![Session](https://img.shields.io/badge/Session-000?logo=session&logoColor=fff)](#) | `[![Session](https://img.shields.io/badge/Session-000?logo=session&logoColor=fff)](#)` |
 | [![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](#) | `[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](#)` |
 | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
 | [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#) | `[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#)` |
@@ -838,13 +848,14 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Max](https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff)](#) | `[![Max](https://img.shields.io/badge/Max-000ce0?logo=hbo&logoColor=fff)](#)` |
 | [![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#) | `[![Netflix](https://img.shields.io/badge/Netflix-E50914?logo=netflix&logoColor=white)](#)` |
 | [![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#) | `[![Roku](https://img.shields.io/badge/Roku-6f1ab1?logo=roku&logoColor=white)](#)` |
+| [![Tubi](https://img.shields.io/badge/Tubi-7408FF?logo=tubi&logoColor=fff)](#) | `[![Tubi](https://img.shields.io/badge/Tubi-7408FF?logo=tubi&logoColor=fff)](#)` |
 
 <div align="right">
 
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### ⌨️ Terminals
+### ⌨️ Terminal
 
 | Preview | Markdown Code |
 |---------|---------------|
