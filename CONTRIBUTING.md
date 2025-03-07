@@ -62,6 +62,8 @@ When you contribute a new badge, make sure that you have checked for the followi
 * Badge has a **valid logo/icon**[^1]
 * Badge follows the **correct format**
 
+It would also help to include the issue(s) that the pull request closes if there is an [existing badge request](https://github.com/inttter/md-badges/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22%F0%9F%99%8F%20badge%20request%22) associated with the badge, but this is not strictly required.
+
 If the category that a badge fits into does not exist in the badge list yet, you can create a new category for it. Ensure that the category is also placed in **alphabetical order** within the [Table of Contents](README.md#table-of-contents) and the badge list itself.
 
 The correct format for inserting badges within a table is as follows:
