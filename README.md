@@ -312,6 +312,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) | `[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)` |
 | [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) | `[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)` |
 | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) | `[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)` |
+| [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=pandas&logoColor=000)](#) | `[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=pandas&logoColor=000)](#)` |
+| [![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#) | `[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)](#)` |
+| [![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#) | `[![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)](#)` |
 
 <div align="right">
 
@@ -665,6 +668,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#) | `[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)` |
 | [![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#) | `[![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?&logo=elixir&logoColor=white)](#)` |
 | [![Elm](https://img.shields.io/badge/Elm-1293D8?logo=elm&logoColor=fff)](#) | `[![Elm](https://img.shields.io/badge/Elm-1293D8?logo=elm&logoColor=fff)](#)` |
+| [![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff)](#) | `[![EJS](https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff)](#)` |
 | [![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#) | `[![Erlang](https://img.shields.io/badge/Erlang-A90533?logo=erlang&logoColor=fff)](#)` |
 | [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#) | `[![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#)` |
 | [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#) | `[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)` |
