@@ -472,6 +472,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) | `[![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)` |
 | [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#) | `[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)` |
 | [![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)](#) | `[![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)](#)` |
+| [![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#) | `[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](#)` |
 | [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) | `[![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)` |
 | [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | `[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)` |
 | [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#) | `[![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#)` |
@@ -498,6 +499,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#) | `[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)` |
 | [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#) | `[![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)` |
 | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) | `[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)` |
+| [![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff)](#) | `[![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?logo=vuetify&logoColor=fff)](#)` |
 | [![Wagmi](https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff)](#) | `[![Wagmi](https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff)](#)` |
 
 <div align="right">
