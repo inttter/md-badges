@@ -464,6 +464,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)](#) | `[![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)](#)` |
 | [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#) | `[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)` |
 | [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#) | `[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)` |
+| [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#) | `[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)` |
 | [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#) | `[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff)](#` |
 | [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) | `[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)` |
 | [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#) | `[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#)` |
