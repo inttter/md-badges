@@ -207,6 +207,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#) | `[![CodePen](https://img.shields.io/badge/CodePen-white?&logo=codepen&logoColor=black)](#)` |
 | [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](#) | `[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](#)` |
+| [![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-00A0E9?logo=cursor-ai-white&logoColor=fff)](#) | `[![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-00A0E9?logo=cursor-ai-white&logoColor=fff)](#)` |
 | [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#) | `[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)` |
 | [![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#) | `[![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&logo=gnu-emacs&logoColor=white)](#)` |
 | [![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)](#) | `[![Gitpod](https://img.shields.io/badge/Gitpod-FFAE33?logo=gitpod&logoColor=fff)](#)` |
