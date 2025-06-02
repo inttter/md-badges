@@ -398,6 +398,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#) | `[![edX](https://img.shields.io/badge/edX-02262B?logo=edx&logoColor=fff)](#)` |
 | [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#) | `[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)` |
 | [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#) | `[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?logo=geeksforgeeks&logoColor=white)](#)` |
+| [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#) | `[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](#)` |
 | [![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff)](#) | `[![Khan Academy](https://img.shields.io/badge/Khan%20Academy-14BF96?logo=khanacademy&logoColor=fff)](#)` |
 | [![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#) | `[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](#)` |
 | [![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#) | `[![MDN Web Docs](https://img.shields.io/badge/MDN%20Web%20Docs-000?logo=mdnwebdocs&logoColor=fff)](#)` |
@@ -447,6 +448,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#) | `[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](#)` |
 | [![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#) | `[![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=fff)](#)` |
 | [![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff)](#) | `[![Contentful](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff)](#)` |
+| [![CUDA]](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#) | `[![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=fff)](#)` |
 | [![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#) | `[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)` |
 | [![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#) | `[![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#)` |
 | [![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#) | `[![Deno](https://img.shields.io/badge/Deno-000?logo=deno&logoColor=fff)](#)` |
