@@ -115,6 +115,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#) | `[![Tor](https://img.shields.io/badge/Tor-7D4698?logo=Tor-Browser&logoColor=white)](#)` |
 | [![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#) | `[![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?logo=Vivaldi&logoColor=white)](#)` |
 | [![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#) | `[![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#)` |
+| [![Icecat](https://img.shields.io/badge/Icecat-006CFF?logo=gnu-icecat&logoColor=fff)](#) | `[![Icecat](https://img.shields.io/badge/Icecat-006CFF?logo=gnu-icecat&logoColor=fff)](#)` |
+
 
 <div align="right">
 
