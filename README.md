@@ -874,7 +874,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ### 📺 Streaming
 
- Preview | Markdown Code |
+| Preview | Markdown Code |
 |---------|---------------|
 | [![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)](#) | `[![Apple TV](https://img.shields.io/badge/Apple%20TV-000000?logo=Apple%20TV&logoColor=white)](#)` |
 | [![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#) | `[![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?logo=crunchyroll&logoColor=white)](#)` |
