@@ -252,6 +252,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)](#) | `[![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)](#)` |
 | [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#) | `[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)` |
 | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
+| [![Transifex](https://img.shields.io/badge/Transifex-0064AB?logo=transifex&logoColor=fff)](#) | `[![Transifex](https://img.shields.io/badge/Transifex-0064AB?logo=transifex&logoColor=fff)](#)` |
 | [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) | `[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)` |
 | [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#) | `[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?logo=zoom&logoColor=white)](#)` |
 
