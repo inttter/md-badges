@@ -447,6 +447,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) | `[![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#)` |
 | [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#) | `[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)` |
+| [![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff)](#) | `[![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?logo=apollographql&logoColor=fff)](#)` |
 | [![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)](#) | `[![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?logo=alpinedotjs&logoColor=fff)](#)` |
 | [![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#) | `[![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white)](#)` |
 | [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#) | `[![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)` |
@@ -472,6 +473,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)](#) | `[![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)](#)` |
 | [![Framework7](https://img.shields.io/badge/Framework7-white?logo=framework7&logoColor=red)](#) | `[![Framework7](https://img.shields.io/badge/Framework7-white?logo=framework7&logoColor=red)](#)` |
 | [![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#) | `[![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?logo=gatsby&logoColor=white)](#)` |
+| [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#) | `[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff)](#)` |
 | [![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#) | `[![Helm](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff)](#)` |
 | [![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#) | `[![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=fff)](#)` |
 | [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)` |
