@@ -4,6 +4,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ## Table Of Contents
 
+* [API Development](#-api-development)
 * [App Store](#-app-store)
 * [Artificial Intelligence](#-artificial-intelligence)
 * [Blog](#%EF%B8%8F-blog)
@@ -43,6 +44,17 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Website Status](#-website-status)
 
 > **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
+
+### 🔌 API Development
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) | `[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
 
 ### 🛒 App Store
 
