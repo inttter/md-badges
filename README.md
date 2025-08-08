@@ -813,6 +813,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)  | `[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)](#)` |
 | [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) | `[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)` |
 | [![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#) | `[![Goodreads](https://img.shields.io/badge/Goodreads-372213?logo=goodreads&logoColor=fff)](#)` |
+| [![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff)](#) | `[![Gravatar](https://img.shields.io/badge/Gravatar-1E8CBE?logo=gravatar&logoColor=fff)](#)` |
 | [![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#) | `[![Guilded](https://img.shields.io/badge/Guilded-F5C400?logo=guilded&logoColor=000)](#)` |
 | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) | `[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#)` |
 | [![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=fff)](#) | `[![Kick](https://img.shields.io/badge/Kick-53FC19?logo=kick&logoColor=000)](#)` |
