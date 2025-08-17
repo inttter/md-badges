@@ -38,12 +38,6 @@ git push
 
 You can now create a [pull request](https://github.com/inttter/md-badges/pulls) to the repository with your changes.
 
-## Reporting an issue
-
-If you encounter something that is wrong or incorrect, please check to see if the problem is not already an [open issue](https://github.com/inttter/md-badges/issues).
-
-If there is no open issue for your problem, [create a new issue](https://github.com/inttter/md-badges/issues/new?assignees=&labels=%F0%9F%90%9B+bug&projects=inttter%2Fmd-badges&template=02-issue-report.yml&title=%5BBug%5D%3A+) using the bug report template. Do your best to fill out each field, preferably in as much detail as possible.
-
 ## Adding a badge
 
 > Make sure you have permission from whoever or whatever you are making a badge of to add them here.
@@ -73,6 +67,12 @@ The correct format for inserting badges within a table is as follows:
 |---------|---------------|
 | [![Badge Name](Link)](#) | `[![Badge Name](Link)](#)` |
 ```
+
+## Reporting an issue
+
+If you encounter something that is wrong or incorrect, please check to see if the problem is not already an [open issue](https://github.com/inttter/md-badges/issues).
+
+If there is no open issue for your problem, [create a new issue](https://github.com/inttter/md-badges/issues/new?assignees=&labels=%F0%9F%90%9B+bug&projects=inttter%2Fmd-badges&template=02-issue-report.yml&title=%5BBug%5D%3A+) using the bug report template. Do your best to fill out each field, preferably in as much detail as possible.
 
 ## Questions
 
