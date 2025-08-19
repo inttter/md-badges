@@ -42,6 +42,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 * [Website Status](#-website-status)
+* [Reference-Style Badges](#reference-style-badges)
 
 > **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
 
@@ -973,6 +974,14 @@ An extensive list of static Shields.io badges, sorted by category.
 </div>
 
 ---
+
+## Reference-Style Badges
+
+The table below is automatically created. It contains the above badges, in a reference-style format.
+
+<!-- ### BEGIN GENERATED CONTENT -->
+<!-- any content between the above and below lines will be overwritten by the github action script -->
+<!-- ### END GENERATED CONTENT -->
 
 ## CLI
 

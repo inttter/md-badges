@@ -1,0 +1,14 @@
+name: Extract refstyle badges
+
+on:
+  push:
+    branches:
+      - main
+      - feature/reference-style-table
+jobs:
+  extract-refstyle-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: extract refstyle badges
+        run: ${{github.workspace}}/.github/scripts/extract-refstyle-badges/extract-refstyle-badges.sh
