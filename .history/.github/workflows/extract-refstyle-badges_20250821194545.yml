@@ -11,9 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v5.0.0
       - name: update apt
-        run:  sudo apt-get update
+        # run:  sudo apt-get update
+        run:  apt-get update
       - name: install gawk and git
-        run:  sudo apt-get install -y gawk git
+        # run:  sudo apt-get install -y gawk git
+        run:  apt-get install -y gawk git
       - name: extract refstyle badges
         run: ${{github.workspace}}/.github/scripts/extract-refstyle-badges/extract-refstyle-badges.sh
       - name: display modified README in GH action logs
