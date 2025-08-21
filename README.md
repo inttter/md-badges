@@ -977,11 +977,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ## Reference-Style Badges
 
-The table below is automatically created. It contains the above badges, in a reference-style format.
-
-<!-- ### BEGIN GENERATED CONTENT -->
-<!-- any content between the above and below lines will be overwritten by the github action script -->
-<!-- ### END GENERATED CONTENT -->
+See [docs/REFERENCE_STYLE.md](./docs/REFERENCE_STYLE.md) for the above badges in markdown reference-style format.
 
 ## CLI
 
