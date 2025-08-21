@@ -1,4 +1,3 @@
 {
     "markdown.extension.toc.updateOnSave": false,
-    "gitflow.disableOnRepo": true,
 }
