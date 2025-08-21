@@ -10,10 +10,11 @@ jobs:
     runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v5.0.0
-      - name: update apt
-        run:  sudo apt-get update
-      - name: install gawk and git
-        run:  sudo apt-get install -y gawk git
+      # # LOCAL: Uncomment the apt-get commands for local GH actions testing via "act"
+      # - name: update apt
+      #   run:  apt-get update
+      # - name: install gawk and git
+      #   run:  apt-get install -y gawk git
       - name: extract refstyle badges
         run: ${{github.workspace}}/.github/scripts/extract-refstyle-badges/extract-refstyle-badges.sh
       - name: display modified README in GH action logs
