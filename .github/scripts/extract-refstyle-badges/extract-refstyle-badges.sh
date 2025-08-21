@@ -39,5 +39,5 @@ sed -e "/$lead/,/$tail/{
   };
   /$tail/p;
   d
-}" "${READMEFILE}" > "${OUTFILE}.tmp"
+}" "${OUTFILE}" > "${OUTFILE}.tmp"
 mv "${OUTFILE}.tmp" "${OUTFILE}"
