@@ -25,6 +25,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add ${{github.workspace}}/docs/REFERENCE_STYLE.md
-          git commit -m "docs: 📝 update reference-style table"
+          git commit -m "docs: 📝 update reference-style table" || echo "skipped commit"
           git status -s
           git push
