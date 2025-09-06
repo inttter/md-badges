@@ -41,7 +41,6 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Terminal](#%EF%B8%8F-terminal)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
-* [Website Status](#-website-status)
 
 > **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
 
@@ -966,18 +965,6 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🍏 Website Status
-
-| Preview | Markdown Code |
-|---------|---------------|
-| [![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/) | `[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://shields.io/)` |
-| [![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#) | `[![Website](https://img.shields.io/website-up-down-green-red/http/NOTAWORKINGLINK.com.svg)](#)` |
-
-<div align="right">
-
-[Back To Top ⬆️](#table-of-contents)
-</div>
-
 ---
 
 ## CLI
@@ -993,5 +980,3 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
-
-
