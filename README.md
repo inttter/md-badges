@@ -989,4 +989,3 @@ Here are some people who have contributed to md-badges so far:
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
 
-
