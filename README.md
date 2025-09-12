@@ -48,11 +48,11 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#) | `[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)` |
 | [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#) | `[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)` |
 | [![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#) | `[![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#)` |
 | [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#) | `[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)` |
 | [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) | `[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)` |
-| [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#) | `[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)` |
 | [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#) | `[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)`
 
 <div align="right">
@@ -65,12 +65,12 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
+| [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#) | `[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#)` |
 | [![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#) | `[![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#)` |
+| [![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#) | `[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#)` |
 | [![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#) | `[![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
 | [![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#) | `[![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#)` |
-| [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#) | `[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#)` |
-| [![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#) | `[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#)` |
 
 <div align="right">
 
@@ -988,5 +988,6 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
 
 
