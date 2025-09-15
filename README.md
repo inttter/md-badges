@@ -48,6 +48,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#) | `[![Bruno](https://img.shields.io/badge/Bruno-F4AA41?logo=Bruno&logoColor=black)](#)` |
 | [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#) | `[![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white)](#)` |
 | [![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#) | `[![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#)` |
 | [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#) | `[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)` |
@@ -64,7 +65,9 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#) | `[![App Store](https://img.shields.io/badge/App_Store-0D96F6?logo=app-store&logoColor=white)](#)` |
+| [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#) | `[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-4285F4?logo=chromewebstore&logoColor=white)](#)` |
 | [![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#) | `[![F-Droid](https://img.shields.io/badge/F--Droid-%2311AB00.svg?logo=f-droid&logoColor=white)](#)` |
+| [![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#) | `[![Firefox Add-Ons](https://img.shields.io/badge/Firefox_Add_Ons-20123A?logo=firefoxbrowser&logoColor=white)](#)` |
 | [![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#) | `[![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
 | [![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#) | `[![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#)` |
@@ -155,6 +158,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#) | `[![Octopus Deploy](https://img.shields.io/badge/Octopus%20Deploy-2F93E0?logo=Octopus%20Deploy&logoColor=white)](#)` |
 | [![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=fff)](#) | `[![RenovateBot](https://img.shields.io/badge/RenovateBot-1A1F6C?logo=renovate&logoColor=fff)](#)` |
 | [![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#) | `[![Semaphore](https://img.shields.io/badge/Semaphore-19A974?logo=semaphoreci&logoColor=fff)](#)` |
+| [![Socket](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](#) | `[![Socket](https://img.shields.io/badge/Socket-C93CD7?logo=socket&logoColor=white)](#)` |
 | [![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#) | `[![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff)](#)` |
 
 <div align="right">
@@ -674,6 +678,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#) | `[![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#)` |
 | [![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#) | `[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)` |
 | [![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#) | `[![PyPI](https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff)](#)` |
+| [![RubyGems](https://img.shields.io/badge/RubyGems-E9573F?logo=rubygems&logoColor=fff)](#) | `[![RubyGems](https://img.shields.io/badge/RubyGems-E9573F?logo=rubygems&logoColor=fff)](#)` |
 | [![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#) | `[![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff)](#)` |
 
 <div align="right">
@@ -803,6 +808,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#) | `[![AniList](https://img.shields.io/badge/AniList-02A9FF?logo=anilist&logoColor=fff)](#)` |
+| [![Beeper](https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff)](#) | `[![Beeper](https://custom-icon-badges.demolab.com/badge/Beeper-6A4BE5?logo=beeper-white&logoColor=fff)](#)` |
 | [![BeReal](https://img.shields.io/badge/BeReal-000?logo=bereal&logoColor=fff)](#) | `[![BeReal](https://img.shields.io/badge/BeReal-000?logo=bereal&logoColor=fff)](#)` |
 | [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](#) | `[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff)](#)` |
 | [![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#) | `[![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff)](#)` |
@@ -845,10 +851,12 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](#) | `[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?logo=teamspeak&logoColor=white)](#)` |
 | [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#) | `[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](#)` |
 | [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#) | `[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)` |
+| [![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](#) | `[![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](#)` |
 | [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
 | [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=fff)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=fff)](#)` |
 | [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#) | `[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)` |
 | [![Viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff)](#) | `[![Viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff)](#)` |
+| [![Wakatime](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white)](#) | `[![Wakatime](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white)](#)` |
 | [![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#) | `[![WeChat](https://img.shields.io/badge/WeChat-07C160?logo=wechat&logoColor=white)](#)` |
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#) | `[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)` |
 | [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#) | `[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](#)` |
@@ -980,3 +988,4 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
