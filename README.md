@@ -773,6 +773,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#) | `[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)` |
 | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) | `[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)` |
 | [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) | `[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)` |
+| [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff)](#) | `[![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=fff)](#)` |
+
 
 <div align="right">
 
