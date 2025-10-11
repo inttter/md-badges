@@ -757,6 +757,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#) | `[![Objective-C](https://img.shields.io/badge/Objective--C-%233A95E3.svg?&logo=apple&logoColor=white)](#)` |
 | [![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#) | `[![Perl](https://img.shields.io/badge/Perl-%2339457E.svg?logo=perl&logoColor=white)](#)` |
 | [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#) | `[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)` |
+| [![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#) | `[![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)](#)` |
 | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) | `[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)` |
 | [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#) | `[![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](#)` |
 | [![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#) | `[![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&logo=ruby&logoColor=white)](#)` |
@@ -773,6 +774,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#) | `[![XML](https://img.shields.io/badge/XML-767C52?logo=xml&logoColor=fff)](#)` |
 | [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#) | `[![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)` |
 | [![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#) | `[![Zig](https://img.shields.io/badge/Zig-F7A41D?logo=zig&logoColor=fff)](#)` |
+
 
 <div align="right">
 
@@ -998,4 +1000,5 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
 
