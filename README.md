@@ -857,6 +857,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](#) | `[![Signal](https://img.shields.io/badge/Signal-3A76F0?logo=signal&logoColor=fff)](#)` |
 | [![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
 | [![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#) | `[![Snapchat](https://img.shields.io/badge/Snapchat-%23FFFC00.svg?logo=Snapchat&logoColor=white)](#)` |
+| [![SourceHut](https://img.shields.io/badge/SourceHut-000?logo=sourcehut&logoColor=fff)](#) | `[![SourceHut](https://img.shields.io/badge/SourceHut-000?logo=sourcehut&logoColor=fff)](#)` |
 | [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#) | `[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](#)` |
 | [![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff)](#) | `[![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?logo=stackexchange&logoColor=fff)](#)` |
 | [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#) | `[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](#)` |
