@@ -746,11 +746,11 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) | `[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)` |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)` |
 | [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) | `[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)` |
+| [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#) | `![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)` |
 | [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) | `[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)` |
+| [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#) | `![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)(#)` |
 | [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#) | `[![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)` |
 | [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#) | `[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)` |
-| [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#) | `![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)(#)` |
-| [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#) | `![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)` |
 | [![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#) | `[![MDX](https://img.shields.io/badge/MDX-1B1F24?logo=mdx&logoColor=fff)](#)` |
 | [![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=000)](#) | `[![Nim](https://img.shields.io/badge/Nim-%23FFE953.svg?&logo=nim&logoColor=white)](#)` |
 | [![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#) | `[![Nix](https://img.shields.io/badge/Nix-5277C3.svg?&logo=NixOS&logoColor=white)](#)` |
@@ -1003,8 +1003,3 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
-
-
-
-
-
