@@ -27,6 +27,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Game Engine](#%EF%B8%8F-game-engine)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
+* [Monitoring & Observability](#monitoring--observability)
 * [Operating System](#%EF%B8%8F-operating-system)
 * [ORM](#%EF%B8%8F-orm)
 * [Package Manager](#-package-manager)
@@ -987,6 +988,19 @@ An extensive list of static Shields.io badges, sorted by category.
 
 [Back To Top ⬆️](#table-of-contents)
 </div>
+
+### Monitoring & Observability  
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring%20Ready-E6522C?logo=prometheus&logoColor=white)](#) | `![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring%20Ready-E6522C?logo=prometheus&logoColor=white)]` |  
+| [![Grafana](https://img.shields.io/badge/Grafana-Dashboarding%20Ready-F46800?logo=grafana&logoColor=white&style=for-the-badge)](#) | `[![Grafana](https://img.shields.io/badge/Grafana-Dashboarding%20Ready-F46800?logo=grafana&logoColor=white&style=for-the-badge)](#)` |
+
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 
 ---
 
