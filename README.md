@@ -992,8 +992,8 @@ An extensive list of static Shields.io badges, sorted by category.
 ### Monitoring & Observability  
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring%20Ready-E6522C?logo=prometheus&logoColor=white)](#) | `![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring%20Ready-E6522C?logo=prometheus&logoColor=white)]` |  
-| [![Grafana](https://img.shields.io/badge/Grafana-Dashboarding%20Ready-F46800?logo=grafana&logoColor=white&style=for-the-badge)](#) | `[![Grafana](https://img.shields.io/badge/Grafana-Dashboarding%20Ready-F46800?logo=grafana&logoColor=white&style=for-the-badge)](#)` |
+| [![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=prometheus&logoColor=E6522C)](#) | `[![Prometheus](https://img.shields.io/badge/Prometheus-white?logo=prometheus&logoColor=E6522C)](#)` |  
+| [![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana&logoColor=F46800)](#) | `[![Grafana](https://img.shields.io/badge/Grafana-black?logo=grafana&logoColor=F46800)](#)` |
 
 
 <div align="right">
@@ -1017,3 +1017,4 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
