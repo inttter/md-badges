@@ -27,6 +27,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Game Engine](#%EF%B8%8F-game-engine)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
+* [Monitoring](#-monitoring)
 * [Operating System](#%EF%B8%8F-operating-system)
 * [ORM](#%EF%B8%8F-orm)
 * [Package Manager](#-package-manager)
@@ -624,6 +625,17 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
+### 🔍 Monitoring
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#) | `[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)` |
+| [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#) | `[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)` |  
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 ### 🖥️ Operating System
 
 | Preview | Markdown Code |
@@ -1009,5 +1021,3 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
-
-
