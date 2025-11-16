@@ -568,7 +568,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Wagmi](https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff)](#) | `[![Wagmi](https://img.shields.io/badge/Wagmi-000?logo=wagmi&logoColor=fff)](#)` |
 | [![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)](#) | `[![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)](#)` |
 
-<div align="right">web
+<div align="right">
 
 [Back To Top ⬆️](#table-of-contents)
 </div>
