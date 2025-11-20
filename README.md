@@ -55,7 +55,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#) | `[![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#)` |
 | [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#) | `[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)` |
 | [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) | `[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)` |
-| [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#) | `[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)`
+| [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#) | `[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)`
+
 
 <div align="right">
 
