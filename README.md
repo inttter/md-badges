@@ -55,7 +55,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#) | `[![Kong](https://img.shields.io/badge/Kong-003459?logo=kong&logoColor=white)](#)` |
 | [![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#) | `[![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?logo=openapiinitiative&logoColor=white)](#)` |
 | [![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#) | `[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)` |
-| [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#) | `[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=insomnia&logoColor=000)](#)`
+| [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#) | `[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=173647)](#)`
+
 
 <div align="right">
 
@@ -128,7 +129,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#) | `[![Arc](https://img.shields.io/badge/Arc-FCBFBD?logo=arc&logoColor=000)](#)` |
 | [![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#) | `[![Brave](https://img.shields.io/badge/Brave-FB542B?logo=Brave&logoColor=white)](#)` |
-| [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#) | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=Firefox&logoColor=white)](#)` |
+| [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)  | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)` |
 | [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) | `[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)` |
 | [![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#) | `[![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#)` |
 | [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#) | `[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)` |
