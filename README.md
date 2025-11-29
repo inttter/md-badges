@@ -40,6 +40,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Static Site](#-static-site)
 * [Streaming](#-streaming)
 * [Terminal](#%EF%B8%8F-terminal)
+* [URL Shortener](#-url-shortener)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
 
@@ -989,6 +990,17 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
+### 🔗 URL Shortener
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Bitly](https://img.shields.io/badge/Bitly-EE6123?logo=bitly&logoColor=fff)](#) | `[![Bitly](https://img.shields.io/badge/Bitly-EE6123?logo=bitly&logoColor=fff)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 ### 🔖 Version Control
 
 | Preview | Markdown Code |
@@ -1033,4 +1045,3 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
-
