@@ -520,6 +520,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#) | `[![LangChain](https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white)](#)` |
 | [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#) | `[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)` |
 | [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#) | `[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#)` |
+| [![Lit](https://img.shields.io/badge/Lit-4C64FF?logo=Lit&logoColor=white)](#) | `[![Lit](https://img.shields.io/badge/Lit-4C64FF?logo=Lit&logoColor=white)](#)` |
 | [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#) | `[![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#)` |
 | [![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#) | `[![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#)` |
 | [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) | `[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)` |
@@ -535,6 +536,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#) | `[![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)` |
 | [![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#) | `[![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white)](#)` |
 | [![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)](#) | `[![Qt](https://img.shields.io/badge/Qt-2CDE85?logo=Qt&logoColor=fff)](#)` |
+| [![Qwik](https://img.shields.io/badge/Qwik-AC7EF4?logo=Qwik&logoColor=white)](#) | `[![Qwik](https://img.shields.io/badge/Qwik-AC7EF4?logo=Qwik&logoColor=white)](#)` |
 | [![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#) | `[![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&logoColor=white)](#)` |
 | [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) | `[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)` |
 | [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#) | `[![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#)` |
@@ -1033,4 +1035,5 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
 
