@@ -32,6 +32,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [ORM](#%EF%B8%8F-orm)
 * [Package Manager](#-package-manager)
 * [Payment](#-payment)
+* [Process Manager](#%EF%B8%8F-process-manager)
 * [Programming Language](#-programming-language)
 * [Review](#-review)
 * [Search Engine](#-search-engine)
@@ -751,6 +752,17 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
+### 🛠️ Process Manager
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)](#) | `[![PM2](https://img.shields.io/badge/PM2-2B037A?logo=pm2&logoColor=white)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 ### 🧑‍💻 Programming Language
 
 | Preview | Markdown Code |
@@ -1049,3 +1061,4 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
