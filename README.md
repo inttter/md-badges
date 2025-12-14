@@ -517,6 +517,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#) | `[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)` |
 | [![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)](#) | `[![Ionic](https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white)](#)` |
 | [![Iced](https://img.shields.io/badge/Iced-1A50FF?logo=Iced&logoColor=fff)](#) | `[![Iced](https://img.shields.io/badge/Iced-1A50FF?logo=Iced&logoColor=fff)](#)` |
+| [![Inertia.js](https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff)](#) | `[![Inertia.js](https://img.shields.io/badge/Inertia.js-155dfc?logo=inertia&logoColor=fff)](#)` |
 | [![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)](#) | `[![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?logo=jasmine&logoColor=fff)](#)` |
 | [![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#) | `[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)` |
 | [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#) | `[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)` |
