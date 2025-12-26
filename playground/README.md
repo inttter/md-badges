@@ -8,7 +8,7 @@ The main goal is to provide bulk selection and instant copyable markdown badges,
 
 ## Demo
 
-Check out the live demo: [Playground Demo](https://md-badge-playground-at6g38pc1-sysyaw.vercel.app)
+Check out the live demo: [Playground Demo](https://md-badge-playground.vercel.app)
 
 ## Getting Started
 
