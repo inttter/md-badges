@@ -38,6 +38,9 @@ git push
 
 You can now create a [pull request](https://github.com/inttter/md-badges/pulls) to the repository with your changes.
 
+> [!NOTE]
+> Larger pull requests that are out of scope will most likely be **rejected**. If you are unsure whether your pull request falls under this, consider [opening an issue first](https://github.com/inttter/md-badges/issues/new), under the `enhancement` label.
+
 ## Adding a badge
 
 > Make sure you have permission from whoever or whatever you are making a badge of to add them here.
