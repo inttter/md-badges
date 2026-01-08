@@ -692,6 +692,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#) | `[![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)` |
 | [![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)](#) | `[![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)](#)` |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
+| [![Unraid](https://img.shields.io/badge/Unraid-F15A2C?logo=unraid&logoColor=white)](#) | `[![Unraid](https://img.shields.io/badge/Unraid-F15A2C?logo=unraid&logoColor=white)](#)` |
 | [![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#) | `[![Void Linux](https://img.shields.io/badge/Void%20Linux-478061?logo=voidlinux&logoColor=fff)](#)` |
 | [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) | `[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)` |
 
