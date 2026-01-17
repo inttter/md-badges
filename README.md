@@ -211,7 +211,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)](#) | `[![Odoo](https://img.shields.io/badge/Odoo-714B67?logo=Odoo&logoColor=fff)](#)` |
 | [![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#) | `[![Oracle Cloud](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle&logoColor=white)](#)` |
 | [![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#) | `[![SAP](https://img.shields.io/badge/SAP-0FAAFF?logo=sap&logoColor=fff)](#)` |
-| [![Scaleway](https://img.shields.io/badge/Scaleway-CDA0FD?logo=Scaleway&logoColor=white)](#) | `[![Scaleway](https://img.shields.io/badge/Scaleway-CDA0FD?logo=Scaleway&logoColor=white)](#)` |
+| [![Scaleway](https://img.shields.io/badge/Scaleway-8D40EE?logo=Scaleway&logoColor=white)](#) | `[![Scaleway](https://img.shields.io/badge/Scaleway-8D40EE?logo=Scaleway&logoColor=white)](#)` |
 | [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) | `[![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)` |
 | [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#) | `[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)` |
 
@@ -1074,3 +1074,4 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
