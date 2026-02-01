@@ -96,6 +96,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) | `[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)` |
 | [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#) | `[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](#)` |
 | [![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](#) | `[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](#)` |
+| [![No AI](https://custom-icon-badges.demolab.com/badge/NoAI-2f2f2f?logo=non-ai&logoColor=white)](#) | `[![No AI](https://custom-icon-badges.demolab.com/badge/NoAI-2f2f2f?logo=non-ai&logoColor=white)](#)` |
 | [![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#) | `[![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000)](#)` |
 | [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) | `[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)` |
 | [![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#) | `[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)` |
@@ -1076,4 +1077,5 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
+
 
