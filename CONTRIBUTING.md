@@ -45,7 +45,7 @@ You can now create a [pull request](https://github.com/inttter/md-badges/pulls) 
 
 > Make sure you have permission from whoever or whatever you are making a badge of to add them here.
 
-If you would like to request a badge, please create a new issue using the [badge request](https://github.com/inttter/md-badges/issues/new?assignees=inttter&labels=%F0%9F%93%9B+badge+request&projects=inttter%2Fmd-badges&template=01-badge-request.yml&title=%5BBadge+Request%5D%3A+) template. You **must** out all available fields. This will help to learn more about what you want added and where it would be relevant.
+If you would like to request a badge, please create a new issue using the [badge request](https://github.com/inttter/md-badges/issues/new?assignees=inttter&labels=%F0%9F%93%9B+badge+request&projects=inttter%2Fmd-badges&template=01-badge-request.yml&title=%5BBadge+Request%5D%3A+) template. You **must** fill out all available fields. This will help to learn more about what you want added and where it would be relevant.
 
 If you would like to add a new badge yourself, you can **contribute** a new badge by submitting a [pull request](https://github.com/inttter/md-badges/pulls) to the repository. 
 
