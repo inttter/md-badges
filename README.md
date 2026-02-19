@@ -365,7 +365,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) | `[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)` |
 | [![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](#) | `[![MLflow](https://img.shields.io/badge/MLflow-F4AA41?logo=MLflow&logoColor=black)](#)` |
 | [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) | `[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)` |
-| [![Optuna](https://img.shields.io/badge/Optuna-002C76?logo=optuna&logoColor=ffffff)](#) | `[![Optuna](https://img.shields.io/badge/Optuna-002C76?logo=optuna&logoColor=ffffff)](#)` |
+| [![Optuna](https://custom-icon-badges.demolab.com/badge/Optuna-1f6feb?logo=optuna&logoColor=ffffff)](#)| `[![Optuna](https://custom-icon-badges.demolab.com/badge/Optuna-1f6feb?logo=optuna&logoColor=ffffff)](#)` |
 | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) | `[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)` |
 | [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) | `[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)` |
 | [![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff)](#) | `[![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?logo=Roboflow&logoColor=fff)](#)` |
