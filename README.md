@@ -14,6 +14,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Cloud System](#%EF%B8%8F-cloud-system)
 * [Code Coverage](#-code-coverage)
 * [Code Editor](#-code-editors)
+* [Code Linter](#-code-linter)
 * [Collaboration Tool](#-collaboration-tool)
 * [Cryptocurrency](#-cryptocurrency)
 * [Database](#%EF%B8%8F-database)
@@ -274,6 +275,18 @@ An extensive list of static Shields.io badges, sorted by category.
 
 [Back To Top ⬆️](#table-of-contents)
 </div>
+
+### 🧹 Code Linter
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Ruff](https://custom-icon-badges.demolab.com/badge/ruff-261230.svg?logo=ruff-r-letter&logoColor=#d7ff64)](#) | `[![Ruff](https://custom-icon-badges.demolab.com/badge/ruff-261230.svg?logo=ruff-r-letter&logoColor=#d7ff64)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
 
 ### 🤝 Collaboration Tool
 
@@ -1078,5 +1091,3 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
-
-
