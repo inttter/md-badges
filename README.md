@@ -14,6 +14,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Cloud System](#%EF%B8%8F-cloud-system)
 * [Code Coverage](#-code-coverage)
 * [Code Editor](#-code-editors)
+* [Code Type Checker](#-code-type-checkers)
 * [Collaboration Tool](#-collaboration-tool)
 * [Cryptocurrency](#-cryptocurrency)
 * [Database](#%EF%B8%8F-database)
@@ -269,6 +270,17 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#) | `[![Windsurf](https://img.shields.io/badge/Windsurf-0B100F?logo=windsurf&logoColor=fff)](#)` |
 | [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#) | `[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)` |
 | [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#) | `[![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### ✅ Code Type Checker
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty&logoColor=#46ebe1)](#) | `[![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty&logoColor=#46ebe1)](#)` |
 
 <div align="right">
 
@@ -1078,5 +1090,3 @@ Here are some people who have contributed to md-badges so far:
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
 </a>
-
-
