@@ -280,7 +280,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
-| [![Ruff](https://custom-icon-badges.demolab.com/badge/ruff-261230.svg?logo=ruff-r-letter&logoColor=#d7ff64)](#) | `[![Ruff](https://custom-icon-badges.demolab.com/badge/ruff-261230.svg?logo=ruff-r-letter&logoColor=#d7ff64)](#)` |
+| [![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-261230.svg?logo=ruff-logo)](#) | `[![Ruff](https://custom-icon-badges.demolab.com/badge/Ruff-261230.svg?logo=ruff-logo)](#)` |
 
 <div align="right">
 
