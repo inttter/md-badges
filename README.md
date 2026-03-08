@@ -14,7 +14,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Cloud System](#%EF%B8%8F-cloud-system)
 * [Code Coverage](#-code-coverage)
 * [Code Editor](#-code-editors)
-* [Code Type Checker](#-code-type-checkers)
+* [Code Type Checker](#-code-type-checker)
 * [Collaboration Tool](#-collaboration-tool)
 * [Cryptocurrency](#-cryptocurrency)
 * [Database](#%EF%B8%8F-database)
