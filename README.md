@@ -280,7 +280,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
-| [![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty&logoColor=#46ebe1)](#) | `[![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty&logoColor=#46ebe1)](#)` |
+| [![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty-astral-logo)](#) | `[![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty-astral-logo)](#)` |
 
 <div align="right">
 
