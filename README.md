@@ -101,6 +101,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) | `[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)` |
 | [![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#) | `[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](#)` |
 | [![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](#) | `[![v0](https://img.shields.io/badge/v0-000?logo=v0&logoColor=fff)](#)` |
+| [![YOLO](https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff)](#) | `[![YOLO](https://img.shields.io/badge/YOLO-111F68?logo=yolo&logoColor=fff)](#)` |
 
 <div align="right">
 
