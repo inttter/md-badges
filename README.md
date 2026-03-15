@@ -78,6 +78,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#) | `[![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
 | [![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#) | `[![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#)` |
+| [![Uptodown](https://custom-icon-badges.demolab.com/badge/Uptodown-FFFFFF?logo=uptodown)](#) | `[![Uptodown](https://custom-icon-badges.demolab.com/badge/Uptodown-FFFFFF?logo=uptodown)](#)` |
 
 <div align="right">
 
@@ -183,6 +184,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#) | `[![Dropbox](https://img.shields.io/badge/Dropbox-0061FF?logo=dropbox&logoColor=fff)](#)` |
 | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#) | `[![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](#)` |
 | [![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)](#) | `[![iCloud](https://img.shields.io/badge/iCloud-3693F3?logo=icloud&logoColor=fff)](#)` |
+| [![MediaFire](https://img.shields.io/badge/MediaFire-1299FF?logo=mediafire&logoColor=white)](#) | `[![MediaFire](https://img.shields.io/badge/MediaFire-1299FF?logo=mediafire&logoColor=white)](#)` |
 | [![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#) | `[![Mega](https://img.shields.io/badge/Mega-%23D90007.svg?logo=mega&logoColor=white)](#)` |
 | [![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff)](#) | `[![MinIO](https://img.shields.io/badge/MinIO-C72E49?logo=minio&logoColor=fff)](#) ` |
 | [![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#) | `[![Proton Drive](https://img.shields.io/badge/Proton%20Drive-6d4aff?logo=proton%20drive&logoColor=white)](#)` |
@@ -203,6 +205,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-FF4A03?logo=Cloudflare-Workers&logoColor=white)](#) | `[![Cloudflare Workers](https://img.shields.io/badge/Cloudflare%20Workers-FF4A03?logo=Cloudflare-Workers&logoColor=white)](#)` |
 | [![Coolify](https://img.shields.io/badge/Coolify-6B16ED?logo=coolify&logoColor=white)](#) | `[![Coolify](https://img.shields.io/badge/Coolify-6B16ED?logo=coolify&logoColor=white)](#)` |
 | [![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#) | `[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?logo=digitalOcean&logoColor=white)](#)` |
+| [![EvenNode](https://custom-icon-badges.demolab.com/badge/EvenNode-000000?logo=evennode&logoColor=white)](#) | `[![EvenNode](https://custom-icon-badges.demolab.com/badge/EvenNode-000000?logo=evennode&logoColor=white)](#)` |
 | [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#) | `[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)` |
 | [![Fly.io](https://img.shields.io/badge/Fly.io-8636EA?logo=flydotio&logoColor=white)](#) | `[![Fly.io](https://img.shields.io/badge/Fly.io-8636EA?logo=flydotio&logoColor=white)](#)` |
 | [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) | `[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#)` |
