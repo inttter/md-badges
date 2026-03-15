@@ -574,7 +574,6 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#) | `[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)` |
 | [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#) | `[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)` |
 | [![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white)](#) | `[![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=ONNX&logoColor=white)](#)` |
-| [![OpenCV](https://img.shields.io/badge/OpenCV-30F400?logo=opencv&logoColor=fff)](#) | `[![OpenCV](https://img.shields.io/badge/OpenCV-30F400?logo=opencv&logoColor=fff)](#)` |
 | [![OpenGL](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#) | `[![OpenGl](https://img.shields.io/badge/OpenGl-5487A6?logo=OpenGl&logoColor=fff)](#)` |
 | [![Portainer](https://img.shields.io/badge/Portainer-C080FF?logo=Portainer&logoColor=fff)](#) | `[![Portainer](https://img.shields.io/badge/Portainer-C080FF?logo=Portainer&logoColor=fff)](#)` |
 | [![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)](#) | `[![Preact](https://img.shields.io/badge/Preact-673AB8?logo=preact&logoColor=fff)](#)` |
