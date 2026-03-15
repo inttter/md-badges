@@ -15,6 +15,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Code Coverage](#-code-coverage)
 * [Code Editor](#-code-editors)
 * [Code Linter](#-code-linter)
+* [Code Type Checker](#-code-type-checker)
 * [Collaboration Tool](#-collaboration-tool)
 * [Cryptocurrency](#-cryptocurrency)
 * [Database](#%EF%B8%8F-database)
@@ -290,6 +291,16 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
+### ✅ Code Type Checker
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty-astral-logo)](#) | `[![ty](https://custom-icon-badges.demolab.com/badge/ty-261230.svg?logo=ty-astral-logo)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
 
 ### 🤝 Collaboration Tool
 
