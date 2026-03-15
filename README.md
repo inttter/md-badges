@@ -249,6 +249,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#) | `[![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#)` |
 | [![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](#) | `[![CodePen](https://custom-icon-badges.demolab.com/badge/CodePen-white?&logo=codepen-black&logoColor=black)](#)` |
 | [![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](#) | `[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-151515?logo=codesandbox&logoColor=fff)](#)` |
 | [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#) | `[![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)` |
