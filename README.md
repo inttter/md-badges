@@ -77,6 +77,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#) | `[![Flathub](https://img.shields.io/badge/Flathub-000000?logo=flathub&logoColor=fff)](#)` |
 | [![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#) | `[![Google Play Store](https://img.shields.io/badge/Google_Play-414141?logo=google-play&logoColor=white)](#)` |
 | [![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#) | `[![Snapcraft](https://img.shields.io/badge/Snapcraft-e95420?logo=snapcraft&logoColor=fff)](#)` |
+| [![Uptodown](https://custom-icon-badges.demolab.com/badge/Uptodown-FFFFFF?logo=uptodown)](#) | `[![Uptodown](https://custom-icon-badges.demolab.com/badge/Uptodown-FFFFFF?logo=uptodown)](#)` |
 
 <div align="right">
 
