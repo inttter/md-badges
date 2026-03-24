@@ -864,6 +864,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) | `[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)` |
 | [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#) | `[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)` |
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
+| [![Sui Move](https://img.shields.io/badge/Sui%20Move-6FBCF0?&logo=sui&logoColor=white)](#) | `[![Sui Move](https://img.shields.io/badge/Sui%20Move-6FBCF0?&logo=sui&logoColor=white)](#)` |
 | [![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#) | `[![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
 | [![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff)](#) | `[![V](https://img.shields.io/badge/V-5D87BF?logo=v&logoColor=fff)](#)` |
