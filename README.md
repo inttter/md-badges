@@ -567,6 +567,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#) | `[![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff)](#)` |
 | [![Lit](https://img.shields.io/badge/Lit-4C64FF?logo=Lit&logoColor=white)](#) | `[![Lit](https://img.shields.io/badge/Lit-4C64FF?logo=Lit&logoColor=white)](#)` |
 | [![Marko](https://img.shields.io/badge/Marko-202124?logo=Marko&logoColor=FF5467)](#) | `[![Marko](https://img.shields.io/badge/Marko-202124?logo=Marko&logoColor=FF5467)](#)` |
+| [![MLX](https://custom-icon-badges.demolab.com/badge/MLX-151E29?logo=mlx&logoColor=fff)](#) | `[![MLX](https://custom-icon-badges.demolab.com/badge/MLX-151E29?logo=mlx&logoColor=fff)](#)` |
 | [![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#) | `[![Mocha](https://img.shields.io/badge/Mocha-8D6748?logo=mocha&logoColor=fff)](#)` |
 | [![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#) | `[![Meteor.js](https://img.shields.io/badge/Meteor.js-%23d74c4c.svg?logo=meteor&logoColor=white)](#)` |
 | [![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#) | `[![Nest](https://img.shields.io/badge/Nest.js-%23E0234E.svg?logo=nestjs&logoColor=white)](#)` |
