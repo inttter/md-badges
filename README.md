@@ -841,6 +841,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) | `[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)` |
 | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) | `[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)` |
 | [![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#) | `[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)` |
+| [![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)](#) | `[![Julia](https://img.shields.io/badge/Julia-9558B2?logo=julia&logoColor=fff)](#)` |
 | [![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#) | `![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)](#)` |
 | [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#) | `[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)` |
 | [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#) | `[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)` |
@@ -864,6 +865,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#) | `[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](#)` |
 | [![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#) | `[![Scala](https://img.shields.io/badge/Scala-%23DC322F.svg?logo=scala&logoColor=white)](#)` |
 | [![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#) | `[![Solidity](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff)](#)` |
+| [![Stylus](https://img.shields.io/badge/Stylus-333333?logo=stylus&logoColor=fff)](#) | `[![Stylus](https://img.shields.io/badge/Stylus-333333?logo=stylus&logoColor=fff)](#)` |
 | [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#) | `[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)` |
 | [![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#) | `[![TOML](https://img.shields.io/badge/TOML-9C4121?logo=toml&logoColor=fff)](#)` |
 | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) | `[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)` |
