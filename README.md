@@ -687,10 +687,12 @@ An extensive list of static Shields.io badges, sorted by category.
 ### 🔍 Monitoring
 | Preview | Markdown Code |
 |---------|---------------|
+| [![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff)](#) | `[![Datadog](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff)](#)` |
 | [![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#) | `[![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)](#)` |
 | [![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff)](#) | `[![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff)](#)` |
 | [![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff)](#) | `[![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff)](#)` |
 | [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#) | `[![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)](#)` |
+| [![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff)](#) | `[![Sentry](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff)](#)` |
 
 <div align="right">
 
