@@ -46,6 +46,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [URL Shortener](#-url-shortener)
 * [Version Control](#-version-control)
 * [Virtual Reality](#%EF%B8%8F-virtual-reality)
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
 
 > **Tip:** Use <kbd>Ctrl</kbd> + <kbd>F</kbd> to quickly search for and find a badge.
 
