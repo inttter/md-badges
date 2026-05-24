@@ -790,7 +790,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#) | `[![Apple Pay](https://img.shields.io/badge/Apple%20Pay-000?logo=applepay&logoColor=fff)](#)` |
 | [![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#) | `[![American Express](https://img.shields.io/badge/American%20Express-2E77BC?logo=americanexpress&logoColor=fff)](#)` |
-| [![Discover Badge](https://img.shields.io/badge/Discover-FF6000?logo=discover&logoColor=fff&style=flat)](#) | `[![Discover Badge](https://img.shields.io/badge/Discover-FF6000?logo=discover&logoColor=fff&style=flat)](#)` |
+| [![Discover](https://img.shields.io/badge/Discover-FF6000?logo=discover&logoColor=fff&style=flat)](#) | `[![Discover](https://img.shields.io/badge/Discover-FF6000?logo=discover&logoColor=fff&style=flat)](#)` |
 | [![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#) | `[![Google Pay](https://img.shields.io/badge/Google%20Pay-4285F4?logo=googlepay&logoColor=fff)](#)` |
 | [![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000)](#) | `[![Klarna](https://img.shields.io/badge/Klarna-FFB3C7?logo=klarna&logoColor=000)](#)` |
 | [![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#) | `[![MasterCard](https://img.shields.io/badge/MasterCard-EB001B?logo=mastercard&logoColor=fff)](#)` |
