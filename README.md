@@ -733,8 +733,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#) | `[![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#)` |
 | [![QubesOS](https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white)](#) | `[![QubesOS](https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white)](#)` |
 | [![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#) | `[![Rocky Linux](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff)](#)` |
-| [![Switch](https://custom-icon-badges.demolab.com/badge/Switch-E60012?logo=nintendo&logoColor=fff)](#) | `[![Switch](https://custom-icon-badges.demolab.com/badge/Switch-E60012?logo=nintendo&logoColor=fff)](#)` |
-| [![Switch 2](https://custom-icon-badges.demolab.com/badge/Switch%202-E60012?logo=nintendo&logoColour=fff)](#) | `[![Switch2](https://custom-icon-badges.demolab.com/badge/Switch%202-E60012?logo=nintendo&logoColour=fff)](#)` |
+| [![Nintendo Switch](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch-E60012?logo=nintendo&logoColor=fff)](#) | `[![Nintendo Switch](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch-E60012?logo=nintendo&logoColor=fff)](#) |
+| [![Nintendo Switch 2](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?logo=nintendo&logoColour=fff)](#) | `[![Nintendo Switch 2](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?logo=nintendo&logoColour=fff)](#)` |
 | [![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)](#) | `[![TailsOS](https://img.shields.io/badge/TailsOS-55317D?logo=tails&logoColor=white)](#)` |
 | [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) | `[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)` |
 | [![Unraid](https://img.shields.io/badge/Unraid-F15A2C?logo=unraid&logoColor=white)](#) | `[![Unraid](https://img.shields.io/badge/Unraid-F15A2C?logo=unraid&logoColor=white)](#)` |
