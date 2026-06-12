@@ -27,7 +27,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Funding](#-funding)
 * [Framework](#%EF%B8%8F-framework)
 * [Game Engine](#%EF%B8%8F-game-engine)
-* [Gaming Platform](#%EF%B8%8F-gaming-platforms)
+* [Gaming Platform](#-gaming-platform)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
 * [Monitoring](#-monitoring)
