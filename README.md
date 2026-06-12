@@ -27,6 +27,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Funding](#-funding)
 * [Framework](#%EF%B8%8F-framework)
 * [Game Engine](#%EF%B8%8F-game-engine)
+* [Gaming Platform](#-gaming-platform)
 * [Gaming Storefront](#-gaming-storefront)
 * [Job](#-job)
 * [Monitoring](#-monitoring)
@@ -648,7 +649,19 @@ An extensive list of static Shields.io badges, sorted by category.
 [Back To Top ⬆️](#table-of-contents)
 </div>
 
-### 🎮 Gaming Storefront
+### 🎮 Gaming Platform
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Nintendo Switch](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch-E60012?logo=nintendo&logoColor=fff)](#) | `[![Nintendo Switch](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch-E60012?logo=nintendo&logoColor=fff)](#)` |
+| [![Nintendo Switch 2](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?logo=nintendo&logoColour=fff)](#) | `[![Nintendo Switch 2](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?logo=nintendo&logoColour=fff)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### 🛍️ Gaming Storefront
 
 | Preview | Markdown Code |
 |---------|---------------|
