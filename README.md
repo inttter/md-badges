@@ -93,7 +93,7 @@ An extensive list of static Shields.io badges, sorted by category.
 |---------|---------------|
 | [![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) | `[![ChatGPT](https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)` |
 | [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) | `[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)` |
-| [![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#) | `[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)` |
+| [![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#) | `[![Deepseek](https://img.shields.io/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](#)` |
 | [![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#) | `[![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#)` |
 | [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) | `[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)` |
 | [![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#) | `[![Google Assistant](https://img.shields.io/badge/Google%20Assistant-4285F4?logo=googleassistant&logoColor=fff)](#)` |
@@ -143,6 +143,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)  | `[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)` |
 | [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) | `[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#)` |
 | [![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#) | `[![GNU IceCat](https://img.shields.io/badge/GNU%20IceCat-006CFF?logo=gnu-icecat&logoColor=fff)](#)` |
+| [![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser)](#) | `[![Helium Browser](https://img.shields.io/badge/Helium%20Browser-3450D1?logo=heliumbrowser)](#)` |
 | [![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#) | `[![Microsoft Edge](https://custom-icon-badges.demolab.com/badge/Microsoft%20Edge-2771D8?logo=edge-white&logoColor=white)](#)` |
 | [![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#) | `[![Opera](https://img.shields.io/badge/Opera-FF1B2D?logo=Opera&logoColor=white)](#)` |
 | [![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#) | `[![Opera GX](https://img.shields.io/badge/Opera%20GX-EE2950?logo=operagx&logoColor=fff)](#)` |
@@ -728,6 +729,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) | `[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)` |
 | [![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#) | `[![Asahi Linux](https://img.shields.io/badge/Asahi%20Linux-A61200?logo=asahilinux&logoColor=fff)](#)` |
 | [![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#) | `[![Artix Linux](https://img.shields.io/badge/Artix%20Linux-10A0CC?logo=artixlinux&logoColor=fff)](#)` |
+| [![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#) | `[![CachyOS](https://img.shields.io/badge/CachyOS-0A8?logo=cachyos&logoColor=fff)](#)` |
 | [![CentOS](https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white)](#) | `[![CentOS](https://img.shields.io/badge/CentOS-A14F8C?logo=centos&logoColor=white)](#)` |
 | [![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#) | `[![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff)](#)` |
 | [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#) | `[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)` |
