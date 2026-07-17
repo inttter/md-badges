@@ -655,7 +655,6 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Nintendo](https://custom-icon-badges.demolab.com/badge/Nintendo-E60012?logo=nintendo&logoColor=fff)](#) | `[![Nintendo](https://custom-icon-badges.demolab.com/badge/Nintendo-E60012?logo=nintendo&logoColor=fff)](#)` |
-| [![Nintendo Switch 2](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?logo=nintendo&logoColour=fff)](#) | `[![Nintendo Switch 2](https://custom-icon-badges.demolab.com/badge/Nintendo%20Switch%202-E60012?logo=nintendo&logoColour=fff)](#)` |
 | [![PlayStation](https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=fff)](#) | `[![PlayStation](https://img.shields.io/badge/PlayStation-0070D1?logo=playstation&logoColor=fff)](#)` |
 | [![Xbox](https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff)](#) | `[![Xbox](https://custom-icon-badges.demolab.com/badge/Xbox-0E7A0D?logo=xbox&logoColor=fff)](#)` |
 
@@ -1133,13 +1132,13 @@ An extensive list of static Shields.io badges, sorted by category.
 
 ## CLI
 
-If you want to find badges from directly within your terminal, check out [mdbadges-cli](https://github.com/inttter/mdbadges-cli), which includes all the badges listed under this repository, and also offers various commands, like creating custom badges!
+If you want to find badges from directly within your terminal, check out [mdbadges-cli](https://github.com/inttter/mdbadges-cli), which includes all the badges listed under this repository, and also offers various commands, like creating your own badges!
 
 ## Contributing
 
-If you would like to contribute in any way, such as adding a badge or category, please read the [contributing guidelines](/CONTRIBUTING.md) and then make a contribution.
+If you would like to contribute in any way, such as adding a badge or category, please read the [contributing guidelines](/CONTRIBUTING.md) and then open a pull request.
 
-Here are some people who have contributed to md-badges so far:
+Thank you to everyone who has contributed! Here are the people who have helped so far:
 
 <a href="https://github.com/inttter/md-badges/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=inttter/md-badges" />
