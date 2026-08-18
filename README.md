@@ -36,7 +36,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Package Manager](#-package-manager)
 * [Payment](#-payment)
 * [Process Manager](#%EF%B8%8F-process-manager)
-* [Programming Language](#-programming-language)
+* [Programming Language](#%E2%80%8D-programming-language)
 * [Review](#-review)
 * [Search Engine](#-search-engine)
 * [Social Media](#-social-media)
