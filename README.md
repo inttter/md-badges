@@ -709,13 +709,13 @@ An extensive list of static Shields.io badges, sorted by category.
 | Preview | Markdown Code |
 |---------|---------------|
 | [![Apache License 2.0](https://img.shields.io/badge/Apache%20License%202.0-FFFFFF?logo=apache&logoColor=D22128)](#) | `[![Apache License 2.0](https://img.shields.io/badge/Apache%20License%202.0-FFFFFF?logo=apache&logoColor=D22128)](#)` |
+| [![BSD](https://img.shields.io/badge/BSD-FFFFFF)](#) | `[![BSD](https://img.shields.io/badge/BSD-FFFFFF)](#)` |
 | [![CC0](https://img.shields.io/badge/CC0-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC0](https://img.shields.io/badge/CC0-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
 | [![CC BY](https://img.shields.io/badge/CC%20BY-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY](https://img.shields.io/badge/CC%20BY-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
-| [![CC BY-SA](https://img.shields.io/badge/CC%20BY--SA-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY-SA](https://img.shields.io/badge/CC%20BY--SA-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
-| [![CC BY-ND](https://img.shields.io/badge/CC%20BY--ND-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY-ND](https://img.shields.io/badge/CC%20BY--ND-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
-| [![CC BY-NC](https://img.shields.io/badge/CC%20BY--NC-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY-NC](https://img.shields.io/badge/CC%20BY--NC-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
-| [![CC BY-NC-SA](https://img.shields.io/badge/CC%20BY--NC--SA-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY-NC-SA](https://img.shields.io/badge/CC%20BY--NC--SA-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
-| [![CC BY-NC-ND](https://img.shields.io/badge/CC%20BY--NC--ND-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY-NC-ND](https://img.shields.io/badge/CC%20BY--NC--ND-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
+| [![GPLv2](https://img.shields.io/badge/GPLv2-FFFFFF)](#) | `[![GPLv2](https://img.shields.io/badge/GPLv2-FFFFFF)](#)` |
+| [![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#) | `[![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#)` |
+| [![AGPLv2](https://img.shields.io/badge/AGPLv2-FFFFFF)](#) | `[![AGPLv2](https://img.shields.io/badge/AGPLv2-FFFFFF)](#)` |
+| [![AGPLv3](https://img.shields.io/badge/AGPLv3-FFFFFF)](#) | `[![AGPLv3](https://img.shields.io/badge/AGPLv3-FFFFFF)](#)` |
 | [![MIT License](https://img.shields.io/badge/MIT%20License-FFFFFF)](#) | `[![MIT License](https://img.shields.io/badge/MIT%20License-FFFFFF)](#)` |
 | [![Unlicense](https://img.shields.io/badge/Unlicense-FFFFFF?logo=unlicense&logoColor=#808080)](#) | `[![Unlicense](https://img.shields.io/badge/Unlicense-FFFFFF?logo=unlicense&logoColor=#808080)](#)` |
 
