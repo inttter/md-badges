@@ -716,6 +716,8 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![CC BY](https://img.shields.io/badge/CC%20BY-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#) | `[![CC BY](https://img.shields.io/badge/CC%20BY-FFFFFF?logo=creativecommons&logoColor=#ED592F)](#)` |
 | [![GPLv2](https://img.shields.io/badge/GPLv2-FFFFFF)](#) | `[![GPLv2](https://img.shields.io/badge/GPLv2-FFFFFF)](#)` |
 | [![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#) | `[![GPLv3](https://img.shields.io/badge/GPLv3-FFFFFF)](#)` |
+| [![LGPLv2.1](https://img.shields.io/badge/LGPLv2.1-FFFFFF)](#) | `[![LGPLv2.1](https://img.shields.io/badge/LGPLv2.1-FFFFFF)](#)` |
+| [![LGPLv3](https://img.shields.io/badge/LGPLv3-FFFFFF)](#) | `[![LGPLv3](https://img.shields.io/badge/LGPLv3-FFFFFF)](#)` |
 | [![MIT License](https://img.shields.io/badge/MIT%20License-FFFFFF)](#) | `[![MIT License](https://img.shields.io/badge/MIT%20License-FFFFFF)](#)` |
 | [![Unlicense](https://img.shields.io/badge/Unlicense-FFFFFF?logo=unlicense&logoColor=#808080)](#) | `[![Unlicense](https://img.shields.io/badge/Unlicense-FFFFFF?logo=unlicense&logoColor=#808080)](#)` |
 
