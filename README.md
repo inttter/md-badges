@@ -1035,6 +1035,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#) | `[![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](#)` |
 | [![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](#) | `[![Thunderbird](https://img.shields.io/badge/Thunderbird-0A84FF?logo=thunderbird&logoColor=white)](#)` |
 | [![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#) | `[![TikTok](https://img.shields.io/badge/TikTok-black?logo=tiktok&logoColor=white)](#)` |
+| [![Top.gg](https://img.shields.io/badge/Top.gg-FF3366?logo=topdotgg&logoColor=fff)](#) | `[![Top.gg](https://img.shields.io/badge/Top.gg-FF3366?logo=topdotgg&logoColor=fff)](#)` |
 | [![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=fff)](#) | `[![Tumblr](https://img.shields.io/badge/Tumblr-36465D?logo=tumblr&logoColor=fff)](#)` |
 | [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#) | `[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](#)` |
 | [![Viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff)](#) | `[![Viber](https://img.shields.io/badge/Viber-7360F2?logo=viber&logoColor=fff)](#)` |
