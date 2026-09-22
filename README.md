@@ -22,6 +22,7 @@ An extensive list of static Shields.io badges, sorted by category.
 * [Data Science](#-data-science)
 * [Delivery](#%EF%B8%8F-delivery)
 * [Design](#-design)
+* [Desktop Environment](#-desktop-environment)
 * [Documentation](#-documentation)
 * [Education](#-education)
 * [Funding](#-funding)
@@ -446,6 +447,17 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#) | `[![SketchUp](https://img.shields.io/badge/SketchUp-005F9E?logo=sketchup&logoColor=fff)](#)` |
 | [![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#) | `[![Storybook](https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=fff)](#)` |
 | [![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#) | `[![Unsplash](https://img.shields.io/badge/Unsplash-000000?logo=Unsplash&logoColor=white)](#)` |
+
+<div align="right">
+
+[Back To Top ⬆️](#table-of-contents)
+</div>
+
+### 🌌 Desktop Environment
+
+| Preview | Markdown Code |
+|---------|---------------|
+| [![Hyprland](https://img.shields.io/badge/Hyprland-58ffff?logo=Hyprland&logoColor=333333)](#) | `[![Hyprland](https://img.shields.io/badge/Hyprland-58ffff?logo=Hyprland&logoColor=333333)](#)` |
 
 <div align="right">
 
