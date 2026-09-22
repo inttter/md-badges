@@ -785,6 +785,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff)](#) | `[![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff)](#)` |
 | [![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#) | `[![NixOS](https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=fff)](#)` |
 | [![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff)](#) | `[![Nobara Linux](https://img.shields.io/badge/Nobara%20Linux-000?logo=nobaralinux&logoColor=fff)](#)` |
+| [![Omarchy](https://img.shields.io/badge/Omarchy-9ECE6A?logo=omarchy&logoColor=333333)](#) | `[![Omarchy](https://img.shields.io/badge/Omarchy-9ECE6A?logo=omarchy&logoColor=333333)](#)` |
 | [![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?logo=openbsd&logoColor=000)](#) | `[![OpenBSD](https://img.shields.io/badge/OpenBSD-F2CA30?logo=openbsd&logoColor=000)](#)` |
 | [![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#) | `[![Pop!_OS](https://img.shields.io/badge/Pop!__OS-48B9C7?logo=popos&logoColor=fff)](#)` |
 | [![QubesOS](https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white)](#) | `[![QubesOS](https://img.shields.io/badge/QbesOS-3874D8?logo=qubesos&logoColor=white)](#)` |
