@@ -989,7 +989,6 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Ecosia](https://img.shields.io/badge/Ecosia-008009?logo=ecosia&logoColor=fff)](#) | `[![Ecosia](https://img.shields.io/badge/Ecosia-008009?logo=ecosia&logoColor=fff)](#)` |
 | [![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#) | `[![Google](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=white)](#)` |
 | [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](#) | `[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=Google%20Scholar&logoColor=white)](#)` |
-| [![OpenCode](https://img.shields.io/badge/OpenCode-000?logo=opencode&logoColor=fff)](#) | `[![OpenCode](https://img.shields.io/badge/OpenCode-000?logo=opencode&logoColor=fff)](#)` |
 | [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#) | `[![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?logo=perplexity&logoColor=fff)](#)` |
 
 <div align="right">
