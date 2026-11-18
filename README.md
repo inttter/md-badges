@@ -565,6 +565,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#) | `[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)` |
 | [![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#) | `[![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#)` |
 | [![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#) | `[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)` |
+| [![Filament](https://img.shields.io/badge/Filament-FDAE4B?logo=filament&logoColor=fff)](#) | `[![Filament](https://img.shields.io/badge/Filament-FDAE4B?logo=filament&logoColor=fff)](#)` |
 | [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) | `[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)` |
 | [![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)](#) | `[![Foundry](https://custom-icon-badges.demolab.com/badge/Foundry-000?logo=foundry&logoColor=fff)](#)` |
 | [![Framework7](https://img.shields.io/badge/Framework7-white?logo=framework7&logoColor=red)](#) | `[![Framework7](https://img.shields.io/badge/Framework7-white?logo=framework7&logoColor=red)](#)` |
