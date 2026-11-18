@@ -1144,6 +1144,7 @@ An extensive list of static Shields.io badges, sorted by category.
 
 | Preview | Markdown Code |
 |---------|---------------|
+| [![b59.link](https://custom-icon-badges.demolab.com/badge/b59.link-09C269?logo=link&logoColor=fff)](#) | `[![b59.link](https://custom-icon-badges.demolab.com/badge/b59.link-09C269?logo=link&logoColor=fff)](#)` |
 | [![Bitly](https://img.shields.io/badge/Bitly-EE6123?logo=bitly&logoColor=fff)](#) | `[![Bitly](https://img.shields.io/badge/Bitly-EE6123?logo=bitly&logoColor=fff)](#)` |
 | [![TinyURL](https://custom-icon-badges.demolab.com/badge/TinyURL-0D7693?logo=tinyurl&logoColor=fff)](#) | `![TinyURL](https://custom-icon-badges.demolab.com/badge/TinyURL-0D7693?logo=tinyurl&logoColor=fff)](#)` |
 
