@@ -323,6 +323,7 @@ An extensive list of static Shields.io badges, sorted by category.
 | [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#) | `[![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)` |
 | [![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)](#) | `[![Linear](https://img.shields.io/badge/Linear-5E6AD2?logo=linear&logoColor=fff)](#)` |
 | [![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#) | `[![Miro](https://img.shields.io/badge/Miro-050038?logo=miro&logoColor=fff)](#)` |
+| [![Redmine](https://img.shields.io/badge/Redmine-B32024?logo=redmine&logoColor=fff)](#) | `[![Redmine](https://img.shields.io/badge/Redmine-B32024?logo=redmine&logoColor=fff)](#)` |
 | [![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff)](#) | `[![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)` |
 | [![Transifex](https://img.shields.io/badge/Transifex-0064AB?logo=transifex&logoColor=fff)](#) | `[![Transifex](https://img.shields.io/badge/Transifex-0064AB?logo=transifex&logoColor=fff)](#)` |
 | [![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#) | `[![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff)](#)` |
